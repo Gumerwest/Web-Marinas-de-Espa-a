@@ -152,3 +152,89 @@
 - **Asociación**: Marinas de Baleares
 - **Ubicación**: Mallorca
 
+
+## Puertos Deportivos de la Comunidad Valenciana - Información Oficial
+
+### Provincia de Castellón (7 municipios)
+1. **Vinaròs**: Club Náutico Vinaròs
+2. **Benicarló**: Marina Benicarló
+3. **Peñíscola**: Puerto Deportivo de Peñíscola
+4. **Alcalà de Xivert**: Puerto Deportivo Las Fuentes
+5. **Oropesa del Mar**: Club Náutico Oropesa del Mar
+6. **Castellón**: Marina Port Castelló, Real Club Náutico de Castellón
+7. **Burriana**: Club Náutico Burriana, Marina Burriananova
+
+### Provincia de Valencia (8 municipios)
+1. **Canet d'en Berenguer**: Club Náutico Canet d'en Berenguer
+2. **La Pobla de Farnals**: Puerto Deportivo Pobla Marina
+3. **Alboraya**: Club Náutico Port Saplaya
+4. **València**: Marina de València, Valencia Mar, Real Club Náutico de Valencia
+5. **Sueca**: Club Náutico El Perelló
+6. **Cullera**: Club Náutico Cullera
+7. **Gandía**: Real Club Náutico de Gandía
+8. **Oliva**: Club Náutico de Oliva
+
+### Provincia de Alicante (15 municipios) - Costa Blanca
+1. **Dénia**: Marina de Dénia, Marina el Portet, Real Club Náutico de Dénia, Port Denia
+2. **Xàbia**: Club Náutico de Jávea, Marina Nou Fontana
+3. **Moraira**: Club Náutico Moraira
+4. **Benissa**: Club Náutico Les Bassetes
+5. **Calpe**: Real Club Náutico de Calpe, Puerto Deportivo Puerto Blanco
+6. **Altea**: Puerto Deportivo Campomanes/Marina Greenwich, Club Náutico de Altea, Puerto Deportivo Porto Senso
+7. **Benidorm**: Puerto deportivo de Benidorm (Club Náutico)
+8. **La Vila Joiosa**: Puerto deportivo Villajoyosa (Club Náutico)
+9. **El Campello**: Puerto deportivo El Campello
+10. **Alicante**: Puerto deportivo Alicante Costa Blanca, Marina Deportiva Alicante, Varadero STA
+11. **Alicante (Isla de Tabarca)**: Puerto de Tabarca
+12. **Santa Pola**: Puerto deportivo de Santa Pola (Club Náutico), Marina Miramar
+13. **Guardamar del Segura**: Marina de las Dunas
+14. **Torrevieja**: Marina Salinas de Torrevieja, Puerto deportivo Real Club Náutico de Torrevieja, Club Náutico Marina Internacional
+15. **Pilar de la Horadada**: Puerto deportivo Torre Horadada
+16. **Orihuela**: Marina Cabo Roig, Dehesa de Campo Amor
+
+**Total Comunidad Valenciana**: 30 municipios con más de 22.000 amarres
+**Datos oficiales**: Comunitat Valenciana - Turismo Náutico
+
+
+
+## Puertos Deportivos de la Región de Murcia - Información Oficial
+
+### Águilas (3 puertos)
+1. **Puerto de Águilas** - Explanada del Muelle, 8 - Tel: 968 410228
+2. **Club Náutico de Águilas** - Paseo de la Parra, 44 - Tel: 968 411951 / 655 441 929 - Web: www.cnaguilas.com
+3. **Escuela Náutica Puerto Deportivo Juan Montiel** - Avenida del Puerto Deportivo - Tel: 968 414 968 - Web: www.puertodeportivojuanmontiel.es
+
+### Cartagena (8 puertos)
+1. **Autoridad Portuaria de Cartagena** - Plaza Héroes de Cavite, s/n - Tel: 968 325 800 - Web: www.apc.es
+2. **Puerto Deportivo de Cabo de Palos** - Explanada del Puerto, 20 - Tel: 968 563515
+3. **Puerto Deportivo de Los Urrutias - Club de Regatas Mar Menor** - Ramos Carratala, s/n - Tel: 968 134438 - Web: www.clubregatasmarmenor.com
+4. **Yacht Port Cartagena** - Puerto deportivo de lujo
+5. **Real Club de Regatas de Cartagena**
+6. **Puerto Deportivo de Los Nietos**
+7. **Marina de las Salinas**
+8. **Club Náutico Islas Menores**
+
+### La Manga del Mar Menor (3 puertos)
+1. **Puerto Deportivo Tomás Maestre** - La Manga
+2. **Puerto Deportivo de Dos Mares**
+3. **Puerto Deportivo de Islas Menores**
+
+### Los Alcázares (2 puertos)
+1. **Puerto Deportivo Los Alcázares**
+2. **Dársena Deportiva Marina de las Salinas**
+
+### Mazarrón (2 puertos)
+1. **Dársena Deportiva de Mazarrón - Club de Regatas** - Club de Regatas de Mazarrón, Cabezo de la Cebada, s/n - Tel: 968 594011
+2. **Puerto de Mazarrón**
+
+### San Javier (1 puerto)
+1. **Puerto Deportivo Tomás Maestre** (La Manga)
+
+### San Pedro del Pinatar (3 puertos)
+1. **Puerto Deportivo de la Ribera**
+2. **Marina de las Salinas**
+3. **Embarcadero-Fondeadero La Ribera**
+
+**Total Región de Murcia**: 22 puertos deportivos distribuidos en 7 municipios
+**Datos oficiales**: Turismo Región de Murcia - Costa Cálida
+
