@@ -458,3 +458,278 @@
     }
 }
 
+
+/* Sponsors Section Styles */
+.sponsors-section {
+    padding: var(--section-padding);
+    background: var(--neutral-gray-50);
+}
+
+.sponsors-premium {
+    margin-bottom: 4rem;
+}
+
+.sponsors-tier-title {
+    font-family: var(--font-display);
+    font-size: 1.75rem;
+    font-weight: 600;
+    color: var(--primary-blue);
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.sponsors-grid.premium {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-bottom: 3rem;
+}
+
+.sponsors-grid.reference {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+}
+
+.sponsor-card {
+    background: white;
+    border-radius: 12px;
+    padding: 2rem;
+    text-align: center;
+    box-shadow: var(--shadow-md);
+    transition: var(--transition-normal);
+}
+
+.sponsor-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-lg);
+}
+
+.sponsor-card.premium {
+    padding: 3rem 2rem;
+}
+
+.sponsor-card.reference {
+    padding: 1.5rem;
+}
+
+.sponsor-logo {
+    width: 100%;
+    max-width: 180px;
+    height: auto;
+    margin-bottom: 1rem;
+    object-fit: contain;
+}
+
+.sponsor-card.reference .sponsor-logo {
+    max-width: 120px;
+    margin-bottom: 0.75rem;
+}
+
+.sponsor-name {
+    font-family: var(--font-display);
+    font-weight: 600;
+    color: var(--primary-blue);
+    margin-bottom: 0.5rem;
+}
+
+.sponsor-card.premium .sponsor-name {
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+}
+
+.sponsor-card.reference .sponsor-name {
+    font-size: 0.9rem;
+    margin-bottom: 0;
+}
+
+.sponsor-description {
+    color: var(--neutral-gray-600);
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .sponsors-grid.premium {
+        grid-template-columns: 1fr;
+    }
+    
+    .sponsors-grid.reference {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .sponsor-card.premium {
+        padding: 2rem 1.5rem;
+    }
+    
+    .sponsors-tier-title {
+        font-size: 1.5rem;
+    }
+}
+
+
+/* Regional Sections Styles */
+.regional-section {
+    padding: var(--section-padding);
+    background: var(--neutral-white);
+    border-bottom: 1px solid var(--neutral-gray-200);
+}
+
+.regional-section:nth-child(even) {
+    background: var(--neutral-gray-50);
+}
+
+.regional-header {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.regional-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+    align-items: start;
+}
+
+.regional-info {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.president-info h3,
+.activities-summary h3 {
+    font-family: var(--font-display);
+    font-size: 1.5rem;
+    color: var(--primary-blue);
+    margin-bottom: 1rem;
+}
+
+.president-card {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    background: white;
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: var(--shadow-md);
+}
+
+.president-photo {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid var(--secondary-gold);
+}
+
+.president-details h4 {
+    font-size: 1.25rem;
+    color: var(--primary-blue);
+    margin-bottom: 0.25rem;
+}
+
+.president-details p {
+    color: var(--neutral-gray-600);
+    font-size: 0.9rem;
+}
+
+.activities-summary ul {
+    list-style: none;
+    padding: 0;
+}
+
+.activities-summary li {
+    padding: 0.5rem 0;
+    padding-left: 1.5rem;
+    position: relative;
+    color: var(--neutral-gray-700);
+}
+
+.activities-summary li::before {
+    content: '▶';
+    position: absolute;
+    left: 0;
+    color: var(--secondary-gold);
+    font-size: 0.8rem;
+}
+
+.ports-list h3 {
+    font-family: var(--font-display);
+    font-size: 1.5rem;
+    color: var(--primary-blue);
+    margin-bottom: 1rem;
+}
+
+.ports-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 0.75rem;
+    margin-bottom: 2rem;
+}
+
+.port-item {
+    background: white;
+    padding: 0.75rem 1rem;
+    border-radius: 8px;
+    border-left: 4px solid var(--secondary-gold);
+    font-size: 0.9rem;
+    color: var(--neutral-gray-700);
+    box-shadow: var(--shadow-sm);
+    transition: var(--transition-fast);
+}
+
+.port-item:hover {
+    transform: translateX(4px);
+    box-shadow: var(--shadow-md);
+}
+
+.contact-info {
+    background: var(--primary-blue);
+    color: white;
+    padding: 1.5rem;
+    border-radius: 12px;
+    margin-top: 1rem;
+}
+
+.contact-info h4 {
+    margin-bottom: 0.75rem;
+    font-size: 1.1rem;
+}
+
+.contact-info p {
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+}
+
+.contact-info a {
+    color: var(--secondary-gold);
+    text-decoration: none;
+}
+
+.contact-info a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .regional-content {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+    
+    .president-card {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .ports-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .logo-img {
+        height: 45px;
+    }
+}
+

@@ -5,11 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FEAPDT - Federación Española de Asociaciones de Puertos Deportivos y Turísticos</title>
     <link rel="stylesheet" href="css/modern-institutional.css">
-    <link rel="stylesheet" href="css/gallery-styles.css">
     <link rel="stylesheet" href="css/sections-styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700&family=Open+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="icon" type="image/x-icon" href="images/favicon.ico">
 </head>
 <body>
@@ -17,45 +16,37 @@
     <nav class="navbar">
         <div class="nav-container">
             <div class="nav-logo">
-                <img src="images/logo.png" alt="Marinas de España" class="logo-img">
-                <span class="logo-text">FEAPDT</span>
+                <img src="images/logo-marinas-espana.jpg" alt="Marinas de España" class="logo-img">
             </div>
-            <ul class="nav-menu">
-                <li class="nav-item">
-                    <a href="#inicio" class="nav-link">Inicio</a>
-                </li>
-                <li class="nav-item dropdown">
-                    <a href="#federacion" class="nav-link">La Federación</a>
-                    <div class="dropdown-content">
-                        <a href="#mision">Misión y Visión</a>
-                        <a href="#historia">Historia</a>
-                        <a href="#junta-directiva">Junta Directiva</a>
-                        <a href="#impacto">Impacto Sectorial</a>
-                    </div>
-                </li>
-                <li class="nav-item dropdown">
-                    <a href="#asociaciones" class="nav-link">Asociaciones Regionales</a>
-                    <div class="dropdown-content">
-                        <a href="#andalucia">Andalucía</a>
-                        <a href="#baleares">Baleares</a>
-                        <a href="#cataluna">Cataluña</a>
-                        <a href="#valencia">Valencia</a>
-                        <a href="#murcia">Murcia</a>
-                        <a href="#galicia">Galicia</a>
-                        <a href="#asturias">Asturias</a>
-                        <a href="#canarias">Canarias</a>
-                    </div>
-                </li>
-                <li class="nav-item">
-                    <a href="#noticias" class="nav-link">Noticias</a>
-                </li>
-                <li class="nav-item">
-                    <a href="#patrocinadores" class="nav-link">Patrocinadores</a>
-                </li>
-                <li class="nav-item">
-                    <a href="#contacto" class="nav-link">Contacto</a>
-                </li>
-            </ul>
+            
+            <div class="nav-menu">
+                <ul class="nav-list">
+                    <li class="nav-item">
+                        <a href="#inicio" class="nav-link">Inicio</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a href="#asociaciones" class="nav-link">Asociaciones Regionales</a>
+                        <div class="dropdown-content">
+                            <a href="#andalucia">Andalucía</a>
+                            <a href="#baleares">Baleares</a>
+                            <a href="#cataluna">Cataluña</a>
+                            <a href="#valencia">Valencia</a>
+                            <a href="#murcia">Murcia</a>
+                            <a href="#galicia">Galicia</a>
+                            <a href="#asturias">Asturias</a>
+                            <a href="#canarias">Canarias</a>
+                            <a href="#cantabria">Cantabria</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#noticias" class="nav-link">Noticias</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#contacto" class="nav-link">Contacto</a>
+                    </li>
+                </ul>
+            </div>
+            
             <div class="hamburger">
                 <span class="bar"></span>
                 <span class="bar"></span>
@@ -67,43 +58,39 @@
     <!-- Hero Section -->
     <section id="inicio" class="hero">
         <div class="hero-background">
-            <img src="images/alcaidesa-marina-real.jpg" alt="Vista aérea de Alcaidesa Marina con Gibraltar al fondo" class="hero-image">
+            <img src="images/alcaidesa-marina-real.jpg" alt="Alcaidesa Marina" class="hero-bg-img">
             <div class="hero-overlay"></div>
         </div>
+        
         <div class="hero-content">
-            <div class="hero-text">
-                <p class="hero-subtitle">Federación Española de Asociaciones de</p>
-                <h1 class="hero-title">Puertos Deportivos y Turísticos</h1>
+            <div class="container">
+                <h1 class="hero-title">
+                    Federación Española de Asociaciones de<br>
+                    <span class="hero-title-highlight">Puertos Deportivos y Turísticos</span>
+                </h1>
+                
                 <p class="hero-description">
-                    Constituida en 1983, FEAPDT representa a 9 asociaciones regionales que agrupan 
-                    375 instalaciones náuticas con más de 134.000 puntos de amarre en los casi 8.000 km 
-                    de costa española. Unificando voces, impulsando la innovación y defendiendo 
-                    los intereses del sector náutico deportivo español.
+                    Constituida en 1983, FEAPDT representa a 9 asociaciones regionales que agrupan 375 instalaciones náuticas con más de 134.000 puntos de amarre en los casi 8.000 km de costa española. Unificando voces, impulsando la innovación y defendiendo los intereses del sector náutico deportivo español.
                 </p>
-            </div>
-            
-            <div class="hero-stats">
-                <div class="stat-item">
-                    <div class="stat-number" data-target="375">0</div>
-                    <div class="stat-label">Instalaciones Náuticas</div>
+                
+                <div class="hero-stats">
+                    <div class="stat-item">
+                        <span class="stat-number">375</span>
+                        <span class="stat-label">Instalaciones Náuticas</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-number">9</span>
+                        <span class="stat-label">Asociaciones Regionales</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-number">134,725</span>
+                        <span class="stat-label">Puntos de Amarre</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-number">42</span>
+                        <span class="stat-label">Años de Liderazgo</span>
+                    </div>
                 </div>
-                <div class="stat-item">
-                    <div class="stat-number" data-target="9">0</div>
-                    <div class="stat-label">Asociaciones Regionales</div>
-                </div>
-                <div class="stat-item">
-                    <div class="stat-number" data-target="134725">0</div>
-                    <div class="stat-label">Puntos de Amarre</div>
-                </div>
-                <div class="stat-item">
-                    <div class="stat-number" data-target="42">0</div>
-                    <div class="stat-label">Años de Liderazgo</div>
-                </div>
-            </div>
-            
-            <div class="hero-actions">
-                <a href="#federacion" class="btn btn-primary">Conoce FEAPDT</a>
-                <a href="#asociaciones" class="btn btn-secondary">Nuestras Asociaciones</a>
             </div>
         </div>
         
@@ -112,64 +99,66 @@
         </div>
     </section>
 
-    <!-- Galería de Marinas -->
-    <section class="marina-gallery">
+    <!-- Patrocinadores Section -->
+    <section id="patrocinadores" class="sponsors-section">
         <div class="container">
-            <h2 class="section-title">Nuestras Marinas</h2>
-            <p class="section-subtitle">Descubre la excelencia de los puertos deportivos españoles</p>
+            <h2 class="section-title">Nuestros Patrocinadores</h2>
+            <p class="section-subtitle">Empresas líderes que confían en FEAPDT y apoyan el desarrollo del sector náutico</p>
             
-            <div class="gallery-grid">
-                <div class="gallery-item">
-                    <img src="images/puerto-benalmadena-real.jpg" alt="Puerto Deportivo de Benalmádena">
-                    <div class="gallery-caption">
-                        <h3>Puerto Deportivo de Benalmádena</h3>
-                        <p>Marina colorida con arquitectura mediterránea y amplia oferta de servicios</p>
+            <!-- Patrocinadores Principales -->
+            <div class="sponsors-premium">
+                <h3 class="sponsors-tier-title">Patrocinadores Principales</h3>
+                <div class="sponsors-grid premium">
+                    <div class="sponsor-card premium">
+                        <img src="images/iberdrola-logo.png" alt="Iberdrola" class="sponsor-logo">
+                        <h4 class="sponsor-name">Iberdrola</h4>
+                        <p class="sponsor-description">Socio estratégico en transición energética y sostenibilidad</p>
+                    </div>
+                    <div class="sponsor-card premium">
+                        <img src="images/turespaña-logo.png" alt="Turespaña" class="sponsor-logo">
+                        <h4 class="sponsor-name">Turespaña</h4>
+                        <p class="sponsor-description">Promoción del turismo náutico español</p>
+                    </div>
+                    <div class="sponsor-card premium">
+                        <img src="images/puertos-estado-logo.png" alt="Puertos del Estado" class="sponsor-logo">
+                        <h4 class="sponsor-name">Puertos del Estado</h4>
+                        <p class="sponsor-description">Desarrollo de infraestructuras portuarias</p>
                     </div>
                 </div>
-                
-                <div class="gallery-item">
-                    <img src="images/igy-malaga-real.jpg" alt="IGY Málaga Marina">
-                    <div class="gallery-caption">
-                        <h3>IGY Málaga Marina</h3>
-                        <p>Marina de superyates de lujo con instalaciones de primera clase</p>
+            </div>
+            
+            <!-- Patrocinadores de Referencia -->
+            <div class="sponsors-reference">
+                <h3 class="sponsors-tier-title">Patrocinadores de Referencia</h3>
+                <div class="sponsors-grid reference">
+                    <div class="sponsor-card reference">
+                        <img src="images/cluster-maritimo-logo.png" alt="Clúster Marítimo Español" class="sponsor-logo">
+                        <h5 class="sponsor-name">Clúster Marítimo Español</h5>
                     </div>
-                </div>
-                
-                <div class="gallery-item">
-                    <img src="images/puerto-estepona-real.jpg" alt="Puerto Deportivo de Estepona">
-                    <div class="gallery-caption">
-                        <h3>Puerto Deportivo de Estepona</h3>
-                        <p>Moderno puerto deportivo en la Costa del Sol con vistas espectaculares</p>
+                    <div class="sponsor-card reference">
+                        <img src="images/guardia-civil-logo.png" alt="Guardia Civil" class="sponsor-logo">
+                        <h5 class="sponsor-name">Guardia Civil</h5>
                     </div>
-                </div>
-                
-                <div class="gallery-item">
-                    <img src="images/marina-el-rompido-real.jpg" alt="Marina El Rompido">
-                    <div class="gallery-caption">
-                        <h3>Marina El Rompido</h3>
-                        <p>Puerto deportivo en Huelva con faro histórico y entorno natural único</p>
+                    <div class="sponsor-card reference">
+                        <img src="images/marina-mercante-logo.png" alt="Dirección General Marina Mercante" class="sponsor-logo">
+                        <h5 class="sponsor-name">Dir. Gral. Marina Mercante</h5>
                     </div>
-                </div>
-                
-                <div class="gallery-item">
-                    <img src="images/marina-adicional-1.jpg" alt="Marina española con embarcaciones">
-                    <div class="gallery-caption">
-                        <h3>Marina Española</h3>
-                        <p>Puerto deportivo con modernas instalaciones y servicios completos</p>
+                    <div class="sponsor-card reference">
+                        <img src="images/costas-logo.png" alt="Dirección General de Costas" class="sponsor-logo">
+                        <h5 class="sponsor-name">Dir. Gral. de Costas</h5>
                     </div>
-                </div>
-                
-                <div class="gallery-item">
-                    <img src="images/marina-adicional-2.jpg" alt="Puerto deportivo español">
-                    <div class="gallery-caption">
-                        <h3>Puerto Deportivo</h3>
-                        <p>Instalaciones náuticas de calidad en el litoral español</p>
+                    <div class="sponsor-card reference">
+                        <img src="images/salvamento-maritimo-logo.png" alt="Salvamento Marítimo" class="sponsor-logo">
+                        <h5 class="sponsor-name">Salvamento Marítimo</h5>
+                    </div>
+                    <div class="sponsor-card reference">
+                        <img src="images/capitanias-logo.png" alt="Capitanías Marítimas" class="sponsor-logo">
+                        <h5 class="sponsor-name">Capitanías Marítimas</h5>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-
     <!-- Noticias Section -->
     <section id="noticias" class="news-section">
         <div class="container">
@@ -459,6 +448,129 @@
                     </div>
                     <h3 class="message-title">Desarrollo Sostenible</h3>
                     <p class="message-text">Lideramos la transición hacia un turismo náutico sostenible, respetando el medio ambiente marino y las comunidades costeras.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Secciones de Asociaciones Regionales -->
+    
+    <!-- Andalucía -->
+    <section id="andalucia" class="regional-section">
+        <div class="container">
+            <div class="regional-header">
+                <h2 class="section-title">Marinas de Andalucía</h2>
+                <p class="section-subtitle">Asociación de Puertos Deportivos y Turísticos de Andalucía</p>
+            </div>
+            
+            <div class="regional-content">
+                <div class="regional-info">
+                    <div class="president-info">
+                        <h3>Presidente</h3>
+                        <div class="president-card">
+                            <img src="images/manuel-raigon.jpg" alt="Manuel Raigón" class="president-photo">
+                            <div class="president-details">
+                                <h4>Manuel Raigón</h4>
+                                <p>Presidente de Marinas de Andalucía</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="activities-summary">
+                        <h3>Actividades Principales</h3>
+                        <ul>
+                            <li>Representación de 18 puertos deportivos de gestión privada</li>
+                            <li>Promoción de certificaciones ISO 9001 y 14000</li>
+                            <li>Implementación de la norma UNE 188004</li>
+                            <li>Participación en el sello Odyssea</li>
+                            <li>Miembro de Euromarina y FEAPDT</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div class="ports-list">
+                    <h3>Puertos Asociados (18)</h3>
+                    <div class="ports-grid">
+                        <div class="port-item">Marina El Rompido</div>
+                        <div class="port-item">Puerto Sherry</div>
+                        <div class="port-item">Alcaidesa Marina</div>
+                        <div class="port-item">Puerto Sotogrande</div>
+                        <div class="port-item">Puerto de La Duquesa</div>
+                        <div class="port-item">Real Club Náutico de Estepona</div>
+                        <div class="port-item">Puerto Deportivo de Estepona</div>
+                        <div class="port-item">Puerto Banús</div>
+                        <div class="port-item">Puerto Deportivo de Marbella</div>
+                        <div class="port-item">Puerto Deportivo de Fuengirola</div>
+                        <div class="port-item">Puerto Deportivo de Benalmádena</div>
+                        <div class="port-item">IGY Málaga Marina</div>
+                        <div class="port-item">Real Club El Candado</div>
+                        <div class="port-item">Marina del Este</div>
+                        <div class="port-item">Marina Motril</div>
+                        <div class="port-item">Puerto Deportivo Almerimar</div>
+                        <div class="port-item">Puerto Deportivo Aguadulce</div>
+                        <div class="port-item">Puerto Deportivo de San José</div>
+                    </div>
+                    
+                    <div class="contact-info">
+                        <h4>Contacto</h4>
+                        <p>📧 info@marinasdeandalucia.com</p>
+                        <p>🌐 <a href="https://marinasdeandalucia.com" target="_blank">marinasdeandalucia.com</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <!-- Baleares -->
+    <section id="baleares" class="regional-section">
+        <div class="container">
+            <div class="regional-header">
+                <h2 class="section-title">Marinas de Baleares</h2>
+                <p class="section-subtitle">Asociación de Instalaciones Náutico Deportivas de Baleares (ANADE)</p>
+            </div>
+            
+            <div class="regional-content">
+                <div class="regional-info">
+                    <div class="president-info">
+                        <h3>Presidente</h3>
+                        <div class="president-card">
+                            <img src="images/antonio-zaforteza.jpg" alt="Antonio Zaforteza" class="president-photo">
+                            <div class="president-details">
+                                <h4>Antonio Zaforteza</h4>
+                                <p>Presidente de ANADE - Port Adriano</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="activities-summary">
+                        <h3>Actividades Principales</h3>
+                        <ul>
+                            <li>Representación de 21 instalaciones náuticas</li>
+                            <li>Promoción del prestigio empresarial del sector</li>
+                            <li>Defensa ante administraciones públicas</li>
+                            <li>Fomento de la economía de mercado social</li>
+                            <li>Miembro de FEAPDT desde 1987</li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div class="ports-list">
+                    <h3>Puertos Asociados (21)</h3>
+                    <div class="ports-grid">
+                        <div class="port-item">Port Adriano</div>
+                        <div class="port-item">Marina Botafoc Ibiza</div>
+                        <div class="port-item">Marina Port de Mallorca</div>
+                        <div class="port-item">Moll Vell</div>
+                        <div class="port-item">Pantalán del Mediterráneo</div>
+                        <div class="port-item">Nautic Center Menorca</div>
+                        <div class="port-item">Marina de Santa Eulalia</div>
+                        <div class="port-item">[Pendiente completar lista]</div>
+                    </div>
+                    
+                    <div class="contact-info">
+                        <h4>Contacto</h4>
+                        <p>🌐 <a href="https://www.marinasdebaleares.com" target="_blank">marinasdebaleares.com</a></p>
+                    </div>
                 </div>
             </div>
         </div>

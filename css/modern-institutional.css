@@ -22,8 +22,8 @@
     --neutral-gray-900: #0f172a;
     
     /* Typography */
-    --font-primary: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-    --font-display: 'Playfair Display', Georgia, serif;
+    --font-primary: 'Roboto', -apple-system, BlinkMacSystemFont, sans-serif;
+    --font-display: 'Open Sans', -apple-system, BlinkMacSystemFont, sans-serif;
     
     /* Spacing */
     --container-max-width: 1200px;
@@ -147,7 +147,7 @@ section {
 }
 
 .logo-img {
-    height: 50px;
+    height: 60px;
     width: auto;
     object-fit: contain;
 }
