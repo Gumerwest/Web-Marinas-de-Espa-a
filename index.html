@@ -4,286 +4,444 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FEAPDT - Federación Española de Asociaciones de Puertos Deportivos y Turísticos</title>
-    <link rel="stylesheet" href="css/modern-institutional.css">
-    <link rel="stylesheet" href="css/sections-styles.css">
+    <meta name="description" content="FEAPDT representa a 375 instalaciones náuticas españolas con más de 134.725 puntos de amarre, liderando el sector náutico deportivo desde 1983.">
+    
+    <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700&family=Open+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet">
+    
+    <!-- AOS Animation Library -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    
+    <!-- Styles -->
+    <link rel="stylesheet" href="css/luxury-modern.css">
+    
+    <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="images/favicon.ico">
 </head>
 <body>
+    <!-- Loader -->
+    <div id="loader" class="loader">
+        <div class="loader-content">
+            <div class="wave-loader">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <div class="loader-text">FEAPDT</div>
+        </div>
+    </div>
+
     <!-- Navigation -->
-    <nav class="navbar">
+    <nav id="navbar" class="navbar">
         <div class="nav-container">
             <div class="nav-logo">
                 <img src="images/logo-marinas-espana.jpg" alt="Marinas de España" class="logo-img">
             </div>
             
-            <div class="nav-menu">
-                <ul class="nav-list">
-                    <li class="nav-item">
-                        <a href="#inicio" class="nav-link">Inicio</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#federacion" class="nav-link">La Federación</a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a href="#asociaciones" class="nav-link">Asociaciones Regionales</a>
-                        <div class="dropdown-content">
-                            <a href="#andalucia">Andalucía</a>
-                            <a href="#baleares">Baleares</a>
-                            <a href="#cataluna">Cataluña</a>
-                            <a href="#valencia">Valencia</a>
-                            <a href="#murcia">Murcia</a>
-                            <a href="#galicia">Galicia</a>
-                            <a href="#asturias">Asturias</a>
-                            <a href="#canarias">Canarias</a>
-                            <a href="#cantabria">Cantabria</a>
-                        </div>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#noticias" class="nav-link">Noticias</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#contacto" class="nav-link">Contacto</a>
-                    </li>
-                </ul>
-            </div>
+            <ul class="nav-menu">
+                <li class="nav-item">
+                    <a href="#inicio" class="nav-link">Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#federacion" class="nav-link">La Federación</a>
+                </li>
+                <li class="nav-item has-dropdown">
+                    <a href="#asociaciones" class="nav-link">Asociaciones Regionales</a>
+                    <div class="dropdown-menu">
+                        <a href="#andalucia" class="dropdown-link">Andalucía</a>
+                        <a href="#baleares" class="dropdown-link">Baleares</a>
+                        <a href="#cataluna" class="dropdown-link">Cataluña</a>
+                        <a href="#valencia" class="dropdown-link">Valencia</a>
+                        <a href="#murcia" class="dropdown-link">Murcia</a>
+                        <a href="#galicia" class="dropdown-link">Galicia</a>
+                        <a href="#asturias" class="dropdown-link">Asturias</a>
+                        <a href="#cantabria" class="dropdown-link">Cantabria</a>
+                        <a href="#canarias" class="dropdown-link">Canarias</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a href="#noticias" class="nav-link">Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#contacto" class="nav-link cta-button">Contacto</a>
+                </li>
+            </ul>
             
-            <div class="hamburger">
-                <span class="bar"></span>
-                <span class="bar"></span>
-                <span class="bar"></span>
+            <div id="nav-toggle" class="nav-toggle">
+                <span></span>
+                <span></span>
+                <span></span>
             </div>
         </div>
     </nav>
 
     <!-- Hero Section -->
     <section id="inicio" class="hero">
-        <div class="hero-background">
-            <img src="images/alcaidesa-marina-real.jpg" alt="Alcaidesa Marina" class="hero-bg-img">
+        <div class="hero-bg">
+            <img src="images/alcaidesa-marina-aerea.jpg" alt="Marina española" class="hero-image">
             <div class="hero-overlay"></div>
         </div>
         
-        <div class="hero-content">
-            <div class="container">
+        <div class="container">
+            <div class="hero-content" data-aos="fade-up">
+                <span class="hero-tag">Desde 1983</span>
                 <h1 class="hero-title">
-                    Federación Española de Asociaciones de<br>
-                    <span class="hero-title-highlight">Puertos Deportivos y Turísticos</span>
+                    <span class="title-small">Federación Española de</span>
+                    <span class="title-main">Puertos Deportivos</span>
+                    <span class="title-accent">y Turísticos</span>
                 </h1>
-                
                 <p class="hero-description">
-                    Constituida en 1983, FEAPDT representa a 9 asociaciones regionales que agrupan 375 instalaciones náuticas con más de 134.000 puntos de amarre en los casi 8.000 km de costa española. Unificando voces, impulsando la innovación y defendiendo los intereses del sector náutico deportivo español.
+                    Representamos a 375 instalaciones náuticas españolas con más de 134.725 puntos de amarre, 
+                    liderando la transformación sostenible del sector náutico deportivo durante más de cuatro décadas.
                 </p>
+                <div class="hero-actions">
+                    <a href="#federacion" class="btn btn-primary">
+                        <span class="btn-icon">🏛️</span>
+                        Conoce FEAPDT
+                    </a>
+                    <a href="#asociaciones" class="btn btn-secondary">
+                        <span class="btn-icon">🗺️</span>
+                        Nuestras Regiones
+                    </a>
+                </div>
                 
                 <div class="hero-stats">
-                      <div class="stat-item" id="instalaciones">
-                    <div class="stat-number" data-target="375">375</div>
-                    <div class="stat-label">Instalaciones Náuticas</div>
-                </div>
-                <div class="stat-item" id="asociaciones">
-                    <div class="stat-number" data-target="9">9</div>
-                    <div class="stat-label">Asociaciones Regionales</div>
-                </div>
-                <div class="stat-item" id="amarres">
-                    <div class="stat-number" data-target="134725">134.725</div>
-                    <div class="stat-label">Puntos de Amarre</div>
-                </div>
-                <div class="stat-item" id="años">
-                    <div class="stat-number" data-target="42">42</div>
-                    <div class="stat-label">Años de Liderazgo</div>
+                    <div class="stat-card" data-aos="zoom-in" data-aos-delay="200">
+                        <div class="stat-icon">⚓</div>
+                        <div class="stat-content">
+                            <div class="stat-number" data-target="375">375</div>
+                            <div class="stat-label">Instalaciones</div>
+                        </div>
+                    </div>
+                    <div class="stat-card" data-aos="zoom-in" data-aos-delay="300">
+                        <div class="stat-icon">🏢</div>
+                        <div class="stat-content">
+                            <div class="stat-number" data-target="9">9</div>
+                            <div class="stat-label">Asociaciones</div>
+                        </div>
+                    </div>
+                    <div class="stat-card" data-aos="zoom-in" data-aos-delay="400">
+                        <div class="stat-icon">🛥️</div>
+                        <div class="stat-content">
+                            <div class="stat-number" data-target="134725">134.725</div>
+                            <div class="stat-label">Puntos de Amarre</div>
+                        </div>
+                    </div>
+                    <div class="stat-card" data-aos="zoom-in" data-aos-delay="500">
+                        <div class="stat-icon">🏆</div>
+                        <div class="stat-content">
+                            <div class="stat-number" data-target="42">42</div>
+                            <div class="stat-label">Años de Liderazgo</div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
         
-        <div class="hero-caption">
-            <p>Alcaidesa Marina - Vista aérea con Gibraltar al fondo</p>
+        <div class="hero-scroll">
+            <div class="scroll-icon">
+                <span></span>
+            </div>
         </div>
     </section>
 
-    <!-- Patrocinadores Section -->
-    <section id="patrocinadores" class="sponsors-section">
+    <!-- Partners Section -->
+    <section class="partners-section">
         <div class="container">
-            <h2 class="section-title">Nuestros Patrocinadores</h2>
-            <p class="section-subtitle">Empresas líderes que confían en FEAPDT y apoyan el desarrollo del sector náutico</p>
-                        <!-- Patrocinadores Principales -->
-                <div class="sponsors-premium">
-                    <h3 class="sponsors-tier-title">Patrocinadores Principales</h3>
-                    <div class="sponsors-grid premium">
-                        <div class="sponsor-card premium">
-                            <img src="images/iberdrola-logo.png" alt="Iberdrola" class="sponsor-logo">
-                            <h4 class="sponsor-name">Iberdrola</h4>
-                            <p class="sponsor-description">Transición energética en puertos deportivos</p>
-                        </div>
-                        <div class="sponsor-card premium">
-                            <img src="images/viltec-logo.png" alt="Viltec" class="sponsor-logo">
-                            <h4 class="sponsor-name">Viltec</h4>
-                            <p class="sponsor-description">Soluciones tecnológicas náuticas</p>
-                        </div>
-                        <div class="sponsor-card premium">
-                            <img src="images/almarin-logo.png" alt="Almarín" class="sponsor-logo">
-                            <h4 class="sponsor-name">Almarín</h4>
-                            <p class="sponsor-description">Servicios portuarios especializados</p>
-                        </div>
-                        <div class="sponsor-card premium">
-                            <img src="images/pandora-global-logo.png" alt="Pandora Global" class="sponsor-logo">
-                            <h4 class="sponsor-name">Pandora Global</h4>
-                            <p class="sponsor-description">Consultoría y desarrollo náutico</p>
-                        </div>
-                    </div>
+            <div class="section-header" data-aos="fade-up">
+                <span class="section-tag">Colaboradores</span>
+                <h2 class="section-title">Nuestros Socios Estratégicos</h2>
+                <p class="section-description">
+                    Empresas e instituciones que impulsan el desarrollo del sector náutico español
+                </p>
+            </div>
+            
+            <div class="partners-grid">
+                <!-- Patrocinadores Principales -->
+                <div class="partner-item" data-aos="fade-up">
+                    <div style="font-size: 2rem; font-weight: 700; color: var(--primary);">Iberdrola</div>
+                </div>
+                <div class="partner-item" data-aos="fade-up" data-aos-delay="100">
+                    <div style="font-size: 2rem; font-weight: 700; color: var(--primary);">Viltec</div>
+                </div>
+                <div class="partner-item" data-aos="fade-up" data-aos-delay="200">
+                    <div style="font-size: 2rem; font-weight: 700; color: var(--primary);">Almarín</div>
+                </div>
+                <div class="partner-item" data-aos="fade-up" data-aos-delay="300">
+                    <div style="font-size: 2rem; font-weight: 700; color: var(--primary);">Pandora Global</div>
                 </div>
                 
                 <!-- Patrocinadores de Referencia -->
-                <div class="sponsors-reference">
-                    <h3 class="sponsors-tier-title">Patrocinadores de Referencia</h3>
-                    <div class="sponsors-grid reference">
-                        <div class="sponsor-card reference">
-                            <img src="images/ocean-ecostructures-logo.png" alt="Ocean Ecostructures" class="sponsor-logo">
-                            <h5 class="sponsor-name">Ocean Ecostructures</h5>
-                        </div>
-                        <div class="sponsor-card reference">
-                            <img src="images/repsol-logo.png" alt="Repsol" class="sponsor-logo">
-                            <h5 class="sponsor-name">Repsol</h5>
-                        </div>
-                        <div class="sponsor-card reference">
-                            <img src="images/crowe-logo.png" alt="Crowe" class="sponsor-logo">
-                            <h5 class="sponsor-name">Crowe</h5>
-                        </div>
-                    </div>
+                <div class="partner-item" data-aos="fade-up" data-aos-delay="400">
+                    <div style="font-size: 1.5rem; font-weight: 600; color: var(--text-secondary);">Ocean Ecostructures</div>
+                </div>
+                <div class="partner-item" data-aos="fade-up" data-aos-delay="500">
+                    <div style="font-size: 1.5rem; font-weight: 600; color: var(--text-secondary);">Repsol</div>
+                </div>
+                <div class="partner-item" data-aos="fade-up" data-aos-delay="600">
+                    <div style="font-size: 1.5rem; font-weight: 600; color: var(--text-secondary);">Crowe</div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- Noticias Section -->
+
+    <!-- News Section -->
     <section id="noticias" class="news-section">
         <div class="container">
-            <h2 class="section-title">Últimas Noticias</h2>
-            <p class="section-subtitle">Mantente informado sobre las últimas novedades del sector náutico español</p>
+            <div class="section-header" data-aos="fade-up">
+                <span class="section-tag">Actualidad</span>
+                <h2 class="section-title">Últimas Noticias</h2>
+                <p class="section-description">
+                    Mantente informado sobre los últimos desarrollos del sector náutico español
+                </p>
+            </div>
             
             <div class="news-grid">
-                <article class="news-card featured">
+                <article class="news-card featured" data-aos="fade-up">
                     <div class="news-image">
-                        <img src="images/marina-professional.jpg" alt="Congreso Nacional FEAPDT">
-                        <div class="news-category">DESTACADO</div>
+                        <img src="images/puerto-sotogrande.jpg" alt="Congreso Nacional FEAPDT">
+                        <div class="news-category">Evento Principal</div>
                     </div>
                     <div class="news-content">
-                        <div class="news-meta">
-                            <span class="news-date">29 Mayo 2025</span>
-                        </div>
-                        <h3 class="news-title">FEAPDT celebrará su primer Congreso Nacional en Puerto Sotogrande</h3>
-                        <p class="news-excerpt">Un evento histórico que reunirá a todos los actores del sector náutico deportivo español para definir el futuro de las marinas.</p>
-                        <a href="#" class="news-link">Leer más</a>
+                        <div class="news-date">Mayo 2025</div>
+                        <h3>Primer Congreso Nacional de Puertos Deportivos en Puerto Sotogrande</h3>
+                        <p>FEAPDT organiza su primer congreso nacional, reuniendo a los principales actores del sector para debatir el futuro de los puertos deportivos españoles y las nuevas tendencias en sostenibilidad.</p>
+                        <a href="#" class="news-link">Leer más →</a>
                     </div>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-aos="fade-up" data-aos-delay="200">
                     <div class="news-image">
-                        <img src="images/marina-luxury.jpg" alt="Banderas Azules">
-                        <div class="news-category">SOSTENIBILIDAD</div>
+                        <img src="images/bandera-azul.jpg" alt="Banderas Azules">
+                        <div class="news-category">Sostenibilidad</div>
                     </div>
                     <div class="news-content">
-                        <div class="news-meta">
-                            <span class="news-date">14 Mayo 2025</span>
-                        </div>
-                        <h3 class="news-title">Diez puertos deportivos de Andalucía reciben la Bandera Azul</h3>
-                        <p class="news-excerpt">Reconocimiento a la excelencia en gestión ambiental y calidad de servicios en las marinas andaluzas.</p>
-                        <a href="#" class="news-link">Leer más</a>
+                        <div class="news-date">Mayo 2025</div>
+                        <h3>10 Puertos Andaluces Obtienen la Bandera Azul</h3>
+                        <p>Reconocimiento a la excelencia ambiental y calidad de servicios en puertos deportivos de Andalucía.</p>
+                        <a href="#" class="news-link">Leer más →</a>
                     </div>
                 </article>
                 
-                <article class="news-card">
+                <article class="news-card" data-aos="fade-up" data-aos-delay="300">
                     <div class="news-image">
-                        <img src="images/hero-sunset.jpg" alt="Colaboración Iberdrola">
-                        <div class="news-category">INNOVACIÓN</div>
+                        <img src="images/iberdrola-energia.jpg" alt="Acuerdo Iberdrola">
+                        <div class="news-category">Innovación</div>
                     </div>
                     <div class="news-content">
-                        <div class="news-meta">
-                            <span class="news-date">13 Febrero 2025</span>
-                        </div>
-                        <h3 class="news-title">FEAPDT e Iberdrola colaboran en la transición energética</h3>
-                        <p class="news-excerpt">Acuerdo estratégico para impulsar la electrificación y descarbonización de los puertos deportivos españoles.</p>
-                        <a href="#" class="news-link">Leer más</a>
+                        <div class="news-date">Febrero 2025</div>
+                        <h3>Acuerdo FEAPDT-Iberdrola para la Transición Energética</h3>
+                        <p>Colaboración estratégica para impulsar la electrificación y sostenibilidad en puertos deportivos.</p>
+                        <a href="#" class="news-link">Leer más →</a>
                     </div>
                 </article>
             </div>
             
-            <div class="news-actions">
-                <a href="#" class="btn btn-outline">Ver todas las noticias</a>
+            <div class="news-cta" data-aos="fade-up">
+                <a href="#" class="btn btn-primary">Ver todas las noticias</a>
             </div>
         </div>
     </section>
 
-    <!-- Sección La Federación -->
-    <section id="federacion" class="federation-section">
+    <!-- About Section -->
+    <section id="federacion" class="about-section">
         <div class="container">
-            <h2 class="section-title">La Federación</h2>
-            <p class="section-subtitle">Conoce FEAPDT: 42 años liderando el sector náutico deportivo español</p>
+            <div class="section-header" data-aos="fade-up">
+                <span class="section-tag">La Federación</span>
+                <h2 class="section-title">Quiénes Somos</h2>
+                <p class="section-description">
+                    Más de cuatro décadas liderando la transformación del sector náutico deportivo español
+                </p>
+            </div>
             
-            <div class="federation-content">
-                <div class="federation-intro">
-                    <div class="intro-text">
-                        <h3>Nuestra Historia</h3>
-                        <p>La Federación Española de Asociaciones de Puertos Deportivos y Turísticos (FEAPDT) se constituyó oficialmente en 1983 con la misión de unificar y fortalecer la voz del sector náutico deportivo español.</p>
-                        
-                        <p>Actualmente agrupa a las asociaciones regionales de <strong>Andalucía, Asturias, Baleares, Canarias, Cataluña, Murcia, Comunitat Valenciana, Galicia y Cantabria</strong>, representando a 375 instalaciones náuticas distribuidas en los casi 8.000 km de costa española.</p>
-                        
-                        <div class="growth-stats">
-                            <div class="growth-item">
-                                <span class="growth-number">250%</span>
-                                <span class="growth-label">Crecimiento de amarres en 30 años</span>
+            <div class="about-content">
+                <div class="about-grid">
+                    <div class="about-card" data-aos="fade-up">
+                        <div class="card-icon">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                <path d="M12 2L2 7l10 5 10-5-10-5z"/>
+                                <path d="M2 17l10 5 10-5"/>
+                                <path d="M2 12l10 5 10-5"/>
+                            </svg>
+                        </div>
+                        <h3>Nuestra Misión</h3>
+                        <p>Velar por el desarrollo y mejora del sector en todos sus aspectos técnicos, sociales, deportivos y medioambientales, representando los intereses de nuestros asociados ante las administraciones públicas.</p>
+                    </div>
+                    
+                    <div class="about-card" data-aos="fade-up" data-aos-delay="100">
+                        <div class="card-icon">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                <circle cx="12" cy="12" r="10"/>
+                                <path d="M2 12h20"/>
+                                <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+                            </svg>
+                        </div>
+                        <h3>Nuestra Visión</h3>
+                        <p>Liderar la transformación sostenible del sector náutico deportivo español, promoviendo la excelencia, innovación y responsabilidad ambiental en todas nuestras instalaciones.</p>
+                    </div>
+                    
+                    <div class="about-card" data-aos="fade-up" data-aos-delay="200">
+                        <div class="card-icon">
+                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor">
+                                <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/>
+                                <circle cx="9" cy="7" r="4"/>
+                                <path d="M23 21v-2a4 4 0 0 0-3-3.87"/>
+                                <path d="M16 3.13a4 4 0 0 1 0 7.75"/>
+                            </svg>
+                        </div>
+                        <h3>Nuestros Valores</h3>
+                        <p>Excelencia, sostenibilidad, innovación y colaboración para el desarrollo integral del sector náutico, siempre con el máximo respeto por el medio ambiente marino.</p>
+                    </div>
+                </div>
+                
+                <div class="timeline" data-aos="fade-up">
+                    <div class="timeline-item">
+                        <div class="timeline-date">1983</div>
+                        <div class="timeline-content">
+                            <h4>Fundación de FEAPDT</h4>
+                            <p>Nace la federación para unificar y representar al sector de puertos deportivos español</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-date">2000</div>
+                        <div class="timeline-content">
+                            <h4>Expansión Nacional</h4>
+                            <p>Integración de nuevas asociaciones regionales y consolidación del modelo federativo</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-date">2015</div>
+                        <div class="timeline-content">
+                            <h4>Agenda Sostenible</h4>
+                            <p>Lanzamiento de iniciativas de sostenibilidad y responsabilidad ambiental</p>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-date">2025</div>
+                        <div class="timeline-content">
+                            <h4>Transformación Digital</h4>
+                            <p>Modernización tecnológica y nuevos estándares de excelencia en el sector</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Associations Section -->
+    <section id="asociaciones" class="associations-section">
+        <div class="container">
+            <div class="section-header" data-aos="fade-up">
+                <span class="section-tag">Territorio Nacional</span>
+                <h2 class="section-title">Nuestras Asociaciones Regionales</h2>
+                <p class="section-description">
+                    9 asociaciones regionales que representan la diversidad y riqueza del litoral español
+                </p>
+            </div>
+            
+            <div class="associations-grid">
+                <div class="association-item" data-aos="fade-up">
+                    <div class="association-image">
+                        <img src="images/andalucia-marina.jpg" alt="Marinas de Andalucía">
+                    </div>
+                    <div class="association-overlay">
+                        <div class="overlay-content">
+                            <h3>Andalucía</h3>
+                            <div class="association-stats">
+                                <span><strong>18</strong> puertos</span>
+                                <span><strong>Manuel Raigón</strong> Presidente</span>
                             </div>
-                            <div class="growth-item">
-                                <span class="growth-number">8.000 km</span>
-                                <span class="growth-label">De costa española representada</span>
+                            <p>La región con mayor número de puertos deportivos, desde la Costa del Sol hasta Huelva.</p>
+                            <a href="#andalucia" class="btn-explore">Explorar región →</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="association-item" data-aos="fade-up" data-aos-delay="100">
+                    <div class="association-image">
+                        <img src="images/baleares-marina.jpg" alt="Marinas de Baleares">
+                    </div>
+                    <div class="association-overlay">
+                        <div class="overlay-content">
+                            <h3>Baleares</h3>
+                            <div class="association-stats">
+                                <span><strong>21</strong> puertos</span>
+                                <span><strong>Antonio Zaforteza</strong> Presidente</span>
                             </div>
+                            <p>Puertos de referencia internacional en el corazón del Mediterráneo.</p>
+                            <a href="#baleares" class="btn-explore">Explorar región →</a>
                         </div>
-                    </div>
-                    
-                    <div class="intro-image">
-                        <img src="images/puerto-benalmadena-real.jpg" alt="Historia de FEAPDT" class="federation-img">
                     </div>
                 </div>
                 
-                <div class="mission-vision">
-                    <div class="mission-card">
-                        <h4>Nuestra Misión</h4>
-                        <p>Velar por el desarrollo y mejora del sector en todos sus aspectos técnicos, sociales, deportivos y medioambientales, poniendo especial interés en conseguir la máxima integración entre los puertos y las ciudades.</p>
+                <div class="association-item" data-aos="fade-up" data-aos-delay="200">
+                    <div class="association-image">
+                        <img src="images/cataluna-marina.jpg" alt="Marinas de Cataluña">
                     </div>
-                    
-                    <div class="vision-card">
-                        <h4>Nuestra Visión</h4>
-                        <p>Ser la organización de referencia que lidere la transformación sostenible del sector náutico deportivo español, promoviendo la excelencia, la innovación y la responsabilidad medioambiental.</p>
+                    <div class="association-overlay">
+                        <div class="overlay-content">
+                            <h3>Cataluña</h3>
+                            <div class="association-stats">
+                                <span><strong>45</strong> puertos</span>
+                                <span><strong>En investigación</strong></span>
+                            </div>
+                            <p>La mayor concentración de puertos deportivos de España, desde la Costa Brava hasta el Delta del Ebro.</p>
+                            <a href="#cataluna" class="btn-explore">Explorar región →</a>
+                        </div>
                     </div>
                 </div>
                 
-                <div class="collaboration-section">
-                    <h3>Instituciones Colaboradoras</h3>
-                    <p>FEAPDT trabaja en estrecha colaboración con instituciones públicas clave para el desarrollo del sector:</p>
-                    
-                    <div class="collaborators-grid">
-                        <div class="collaborator-item">
-                            <h5>Clúster Marítimo Español</h5>
-                            <p>Desarrollo de competencias profesionales</p>
+                <div class="association-item" data-aos="fade-up" data-aos-delay="300">
+                    <div class="association-image">
+                        <img src="images/valencia-marina.jpg" alt="Marinas de Valencia">
+                    </div>
+                    <div class="association-overlay">
+                        <div class="overlay-content">
+                            <h3>Valencia</h3>
+                            <div class="association-stats">
+                                <span><strong>32</strong> puertos</span>
+                                <span><strong>En investigación</strong></span>
+                            </div>
+                            <p>Puertos modernos en la costa mediterránea valenciana.</p>
+                            <a href="#valencia" class="btn-explore">Explorar región →</a>
                         </div>
-                        <div class="collaborator-item">
-                            <h5>Guardia Civil</h5>
-                            <p>Seguridad y coordinación náutica</p>
+                    </div>
+                </div>
+                
+                <div class="association-item" data-aos="fade-up" data-aos-delay="400">
+                    <div class="association-image">
+                        <img src="images/galicia-marina.jpg" alt="Marinas de Galicia">
+                    </div>
+                    <div class="association-overlay">
+                        <div class="overlay-content">
+                            <h3>Galicia</h3>
+                            <div class="association-stats">
+                                <span><strong>28</strong> puertos</span>
+                                <span><strong>En investigación</strong></span>
+                            </div>
+                            <p>Puertos atlánticos con tradición marinera milenaria.</p>
+                            <a href="#galicia" class="btn-explore">Explorar región →</a>
                         </div>
-                        <div class="collaborator-item">
-                            <h5>Dirección General de la Marina Mercante</h5>
-                            <p>Regulación y normativas del sector</p>
-                        </div>
-                        <div class="collaborator-item">
-                            <h5>Puertos del Estado</h5>
-                            <p>Infraestructuras portuarias</p>
-                        </div>
-                        <div class="collaborator-item">
-                            <h5>Turespaña</h5>
-                            <p>Promoción del turismo náutico</p>
-                        </div>
-                        <div class="collaborator-item">
-                            <h5>Dirección General de Costas</h5>
-                            <p>Gestión del dominio público marítimo-terrestre</p>
+                    </div>
+                </div>
+                
+                <div class="association-item" data-aos="fade-up" data-aos-delay="500">
+                    <div class="association-image">
+                        <img src="images/canarias-marina.jpg" alt="Marinas de Canarias">
+                    </div>
+                    <div class="association-overlay">
+                        <div class="overlay-content">
+                            <h3>Canarias</h3>
+                            <div class="association-stats">
+                                <span><strong>15</strong> puertos</span>
+                                <span><strong>En investigación</strong></span>
+                            </div>
+                            <p>Puertos estratégicos en el Atlántico, puerta de Europa hacia África y América.</p>
+                            <a href="#canarias" class="btn-explore">Explorar región →</a>
                         </div>
                     </div>
                 </div>
@@ -291,281 +449,70 @@
         </div>
     </section>
 
-    <!-- Junta Directiva -->
-    <section id="junta-directiva" class="board-section">
+    <!-- Contact Section -->
+    <section id="contacto" class="contact-section">
         <div class="container">
-            <h2 class="section-title">Junta Directiva</h2>
-            <p class="section-subtitle">Liderazgo experimentado al servicio del sector náutico deportivo</p>
-            
-            <div class="board-grid">
-                <div class="board-member president">
-                    <div class="member-photo">
-                        <img src="images/presidente-placeholder.jpg" alt="Tomás Azcárate Díaz de Losada" class="member-img">
-                    </div>
-                    <div class="member-info">
-                        <h3 class="member-name">Tomás Azcárate Díaz de Losada</h3>
-                        <p class="member-position">Presidente</p>
-                        <p class="member-description">Líder visionario con amplia experiencia en el sector náutico deportivo español.</p>
-                    </div>
-                </div>
-                
-                <div class="board-member">
-                    <div class="member-photo">
-                        <img src="images/vicepresidente-placeholder.jpg" alt="Antonio Zaforteza Rodes" class="member-img">
-                    </div>
-                    <div class="member-info">
-                        <h3 class="member-name">Antonio Zaforteza Rodes</h3>
-                        <p class="member-position">Vicepresidente</p>
-                    </div>
-                </div>
-                
-                <div class="board-member">
-                    <div class="member-photo">
-                        <img src="images/secretario-placeholder.jpg" alt="Pablo Peiro Riesco" class="member-img">
-                    </div>
-                    <div class="member-info">
-                        <h3 class="member-name">Pablo Peiro Riesco</h3>
-                        <p class="member-position">Secretario General</p>
-                    </div>
-                </div>
-                
-                <div class="board-member">
-                    <div class="member-photo">
-                        <img src="images/gerente-placeholder.jpg" alt="Jordi Caballé" class="member-img">
-                    </div>
-                    <div class="member-info">
-                        <h3 class="member-name">Jordi Caballé</h3>
-                        <p class="member-position">Gerente</p>
-                        <p class="member-description">Responsable de la gestión operativa y estratégica de la federación.</p>
-                    </div>
-                </div>
+            <div class="section-header" data-aos="fade-up">
+                <span class="section-tag">Contacto</span>
+                <h2 class="section-title">Conecta con Nosotros</h2>
+                <p class="section-description">
+                    Estamos aquí para impulsar juntos el futuro del sector náutico español
+                </p>
             </div>
             
-            <div class="vocales-section">
-                <h3>Vocales de la Junta Directiva</h3>
-                <div class="vocales-grid">
-                    <div class="vocal-item">Flor Mª Guardado Herrero</div>
-                    <div class="vocal-item">Bartomeu Bestard Figuerola</div>
-                    <div class="vocal-item">Luis Manzano Díaz</div>
-                    <div class="vocal-item">Patrick Reynés Molina</div>
-                    <div class="vocal-item">Alberto Beltrán Romero</div>
-                    <div class="vocal-item">Gabriel Martínez Martí</div>
-                    <div class="vocal-item">Santiago Ara Quero</div>
-                    <div class="vocal-item">Manuel Raigón Arroyo</div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Patrocinadores Section -->
-    <section id="patrocinadores" class="sponsors-section">
-        <div class="container">
-            <h2 class="section-title">Nuestros Patrocinadores</h2>
-            <p class="section-subtitle">Empresas líderes que confían en FEAPDT y apoyan el desarrollo del sector náutico</p>
-            
-            <div class="sponsors-premium">
-                <h3 class="sponsors-tier-title">Patrocinadores Premium</h3>
-                <div class="sponsors-grid premium">
-                    <div class="sponsor-card premium">
-                        <img src="images/sponsor-placeholder.png" alt="Patrocinador Premium 1" class="sponsor-logo">
-                        <h4 class="sponsor-name">Empresa Líder 1</h4>
-                        <p class="sponsor-description">Socio estratégico en innovación náutica</p>
+            <div class="contact-content">
+                <div class="contact-info" data-aos="fade-up">
+                    <div class="info-item">
+                        <div class="info-icon">📍</div>
+                        <div class="info-content">
+                            <h4>Sede Central</h4>
+                            <p>Port Adriano, Urbanización el Toro s/n<br>07180 Calvià, Islas Baleares</p>
+                        </div>
                     </div>
-                    <div class="sponsor-card premium">
-                        <img src="images/sponsor-placeholder.png" alt="Patrocinador Premium 2" class="sponsor-logo">
-                        <h4 class="sponsor-name">Empresa Líder 2</h4>
-                        <p class="sponsor-description">Tecnología avanzada para puertos</p>
+                    <div class="info-item">
+                        <div class="info-icon">📧</div>
+                        <div class="info-content">
+                            <h4>Email</h4>
+                            <p>info@marinasdeespana.com</p>
+                        </div>
                     </div>
-                </div>
-            </div>
-            
-            <div class="sponsors-collaborators">
-                <h3 class="sponsors-tier-title">Patrocinadores Colaboradores</h3>
-                <div class="sponsors-grid collaborators">
-                    <div class="sponsor-card">
-                        <img src="images/sponsor-placeholder.png" alt="Patrocinador 3" class="sponsor-logo">
+                    <div class="info-item">
+                        <div class="info-icon">👥</div>
+                        <div class="info-content">
+                            <h4>Junta Directiva</h4>
+                            <p><strong>Presidente:</strong> Tomás Azcárate Díaz de Losada<br>
+                            <strong>Gerente:</strong> Jordi Caballé</p>
+                        </div>
                     </div>
-                    <div class="sponsor-card">
-                        <img src="images/sponsor-placeholder.png" alt="Patrocinador 4" class="sponsor-logo">
-                    </div>
-                    <div class="sponsor-card">
-                        <img src="images/sponsor-placeholder.png" alt="Patrocinador 5" class="sponsor-logo">
-                    </div>
-                    <div class="sponsor-card">
-                        <img src="images/sponsor-placeholder.png" alt="Patrocinador 6" class="sponsor-logo">
-                    </div>
-                </div>
-            </div>
-            
-            <div class="sponsor-cta">
-                <p>¿Interesado en formar parte de nuestro ecosistema de colaboradores?</p>
-                <a href="#contacto" class="btn btn-primary">Únete como patrocinador</a>
-            </div>
-        </div>
-    </section>
-
-    <!-- Mensajes Institucionales -->
-    <section class="institutional-messages">
-        <div class="container">
-            <div class="messages-grid">
-                <div class="message-card">
-                    <div class="message-icon">
-                        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                            <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
-                            <circle cx="9" cy="7" r="4"></circle>
-                            <path d="M23 21v-2a4 4 0 0 0-3-3.87"></path>
-                            <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
-                        </svg>
-                    </div>
-                    <h3 class="message-title">Representación Sectorial</h3>
-                    <p class="message-text">Somos la voz unificada del sector náutico deportivo español ante instituciones públicas y privadas, defendiendo los intereses de nuestros asociados.</p>
-                </div>
-                
-                <div class="message-card">
-                    <div class="message-icon">
-                        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                            <polygon points="12 2 22 8.5 22 15.5 12 22 2 15.5 2 8.5 12 2"></polygon>
-                            <line x1="12" y1="22" x2="12" y2="15.5"></line>
-                            <polyline points="22 8.5 12 15.5 2 8.5"></polyline>
-                        </svg>
-                    </div>
-                    <h3 class="message-title">Excelencia e Innovación</h3>
-                    <p class="message-text">Promovemos las mejores prácticas, la innovación tecnológica y la sostenibilidad en la gestión de puertos deportivos y marinas.</p>
-                </div>
-                
-                <div class="message-card">
-                    <div class="message-icon">
-                        <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                            <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
-                            <path d="M2 17l10 5 10-5"></path>
-                            <path d="M2 12l10 5 10-5"></path>
-                        </svg>
-                    </div>
-                    <h3 class="message-title">Desarrollo Sostenible</h3>
-                    <p class="message-text">Lideramos la transición hacia un turismo náutico sostenible, respetando el medio ambiente marino y las comunidades costeras.</p>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <!-- Secciones de Asociaciones Regionales -->
-    
-    <!-- Andalucía -->
-    <section id="andalucia" class="regional-section">
-        <div class="container">
-            <div class="regional-header">
-                <h2 class="section-title">Marinas de Andalucía</h2>
-                <p class="section-subtitle">Asociación de Puertos Deportivos y Turísticos de Andalucía</p>
-            </div>
-            
-            <div class="regional-content">
-                <div class="regional-info">
-                    <div class="president-info">
-                        <h3>Presidente</h3>
-                        <div class="president-card">
-                            <img src="images/manuel-raigon.jpg" alt="Manuel Raigón" class="president-photo">
-                            <div class="president-details">
-                                <h4>Manuel Raigón</h4>
-                                <p>Presidente de Marinas de Andalucía</p>
+                    <div class="info-item">
+                        <div class="info-icon">🤝</div>
+                        <div class="info-content">
+                            <h4>Síguenos</h4>
+                            <div class="social-links">
+                                <a href="#" class="social-link">LinkedIn</a>
+                                <a href="#" class="social-link">Twitter</a>
+                                <a href="#" class="social-link">Facebook</a>
                             </div>
                         </div>
                     </div>
-                    
-                    <div class="activities-summary">
-                        <h3>Actividades Principales</h3>
-                        <ul>
-                            <li>Representación de 18 puertos deportivos de gestión privada</li>
-                            <li>Promoción de certificaciones ISO 9001 y 14000</li>
-                            <li>Implementación de la norma UNE 188004</li>
-                            <li>Participación en el sello Odyssea</li>
-                            <li>Miembro de Euromarina y FEAPDT</li>
-                        </ul>
-                    </div>
                 </div>
                 
-                <div class="ports-list">
-                    <h3>Puertos Asociados (18)</h3>
-                    <div class="ports-grid">
-                        <div class="port-item">Marina El Rompido</div>
-                        <div class="port-item">Puerto Sherry</div>
-                        <div class="port-item">Alcaidesa Marina</div>
-                        <div class="port-item">Puerto Sotogrande</div>
-                        <div class="port-item">Puerto de La Duquesa</div>
-                        <div class="port-item">Real Club Náutico de Estepona</div>
-                        <div class="port-item">Puerto Deportivo de Estepona</div>
-                        <div class="port-item">Puerto Banús</div>
-                        <div class="port-item">Puerto Deportivo de Marbella</div>
-                        <div class="port-item">Puerto Deportivo de Fuengirola</div>
-                        <div class="port-item">Puerto Deportivo de Benalmádena</div>
-                        <div class="port-item">IGY Málaga Marina</div>
-                        <div class="port-item">Real Club El Candado</div>
-                        <div class="port-item">Marina del Este</div>
-                        <div class="port-item">Marina Motril</div>
-                        <div class="port-item">Puerto Deportivo Almerimar</div>
-                        <div class="port-item">Puerto Deportivo Aguadulce</div>
-                        <div class="port-item">Puerto Deportivo de San José</div>
-                    </div>
-                    
-                    <div class="contact-info">
-                        <h4>Contacto</h4>
-                        <p>📧 info@marinasdeandalucia.com</p>
-                        <p>🌐 <a href="https://marinasdeandalucia.com" target="_blank">marinasdeandalucia.com</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    
-    <!-- Baleares -->
-    <section id="baleares" class="regional-section">
-        <div class="container">
-            <div class="regional-header">
-                <h2 class="section-title">Marinas de Baleares</h2>
-                <p class="section-subtitle">Asociación de Instalaciones Náutico Deportivas de Baleares (ANADE)</p>
-            </div>
-            
-            <div class="regional-content">
-                <div class="regional-info">
-                    <div class="president-info">
-                        <h3>Presidente</h3>
-                        <div class="president-card">
-                            <img src="images/antonio-zaforteza.jpg" alt="Antonio Zaforteza" class="president-photo">
-                            <div class="president-details">
-                                <h4>Antonio Zaforteza</h4>
-                                <p>Presidente de ANADE - Port Adriano</p>
-                            </div>
+                <div class="contact-form" data-aos="fade-up" data-aos-delay="200">
+                    <form>
+                        <div class="form-group">
+                            <input type="text" name="nombre" placeholder="Nombre completo" required>
                         </div>
-                    </div>
-                    
-                    <div class="activities-summary">
-                        <h3>Actividades Principales</h3>
-                        <ul>
-                            <li>Representación de 21 instalaciones náuticas</li>
-                            <li>Promoción del prestigio empresarial del sector</li>
-                            <li>Defensa ante administraciones públicas</li>
-                            <li>Fomento de la economía de mercado social</li>
-                            <li>Miembro de FEAPDT desde 1987</li>
-                        </ul>
-                    </div>
-                </div>
-                
-                <div class="ports-list">
-                    <h3>Puertos Asociados (21)</h3>
-                    <div class="ports-grid">
-                        <div class="port-item">Port Adriano</div>
-                        <div class="port-item">Marina Botafoc Ibiza</div>
-                        <div class="port-item">Marina Port de Mallorca</div>
-                        <div class="port-item">Moll Vell</div>
-                        <div class="port-item">Pantalán del Mediterráneo</div>
-                        <div class="port-item">Nautic Center Menorca</div>
-                        <div class="port-item">Marina de Santa Eulalia</div>
-                        <div class="port-item">[Pendiente completar lista]</div>
-                    </div>
-                    
-                    <div class="contact-info">
-                        <h4>Contacto</h4>
-                        <p>🌐 <a href="https://www.marinasdebaleares.com" target="_blank">marinasdebaleares.com</a></p>
-                    </div>
+                        <div class="form-group">
+                            <input type="email" name="email" placeholder="Email" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" name="organizacion" placeholder="Organización">
+                        </div>
+                        <div class="form-group">
+                            <textarea name="mensaje" placeholder="Mensaje" rows="5" required></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Enviar mensaje</button>
+                    </form>
                 </div>
             </div>
         </div>
@@ -575,53 +522,49 @@
     <footer class="footer">
         <div class="container">
             <div class="footer-content">
-                <div class="footer-section">
-                    <div class="footer-logo">
-                        <img src="images/logo-feapdt.png" alt="FEAPDT" class="footer-logo-img">
-                        <span class="footer-logo-text">FEAPDT</span>
+                <div class="footer-brand">
+                    <img src="images/logo-marinas-espana.jpg" alt="FEAPDT" class="footer-logo">
+                    <p>Federación Española de Asociaciones de Puertos Deportivos y Turísticos. Liderando la transformación sostenible del sector náutico español desde 1983.</p>
+                </div>
+                <div class="footer-links">
+                    <div class="footer-column">
+                        <h4>La Federación</h4>
+                        <ul>
+                            <li><a href="#federacion">Sobre Nosotros</a></li>
+                            <li><a href="#junta">Junta Directiva</a></li>
+                            <li><a href="#historia">Historia</a></li>
+                            <li><a href="#mision">Misión y Visión</a></li>
+                        </ul>
                     </div>
-                    <p class="footer-description">
-                        Federación Española de Asociaciones de Puertos Deportivos y Turísticos. 
-                        Liderando el sector náutico español desde 1983.
-                    </p>
-                </div>
-                
-                <div class="footer-section">
-                    <h4 class="footer-title">Enlaces Rápidos</h4>
-                    <ul class="footer-links">
-                        <li><a href="#federacion">La Federación</a></li>
-                        <li><a href="#asociaciones">Asociaciones</a></li>
-                        <li><a href="#noticias">Noticias</a></li>
-                        <li><a href="#patrocinadores">Patrocinadores</a></li>
-                    </ul>
-                </div>
-                
-                <div class="footer-section">
-                    <h4 class="footer-title">Contacto</h4>
-                    <div class="footer-contact">
-                        <p>📧 info@marinasdeespana.com</p>
-                        <p>📞 +34 971 23 XX XX</p>
-                        <p>📍 Port Adriano, Urbanización el Toro s/n, 07180 Calvià (Islas Baleares)</p>
+                    <div class="footer-column">
+                        <h4>Recursos</h4>
+                        <ul>
+                            <li><a href="#publicaciones">Publicaciones</a></li>
+                            <li><a href="#noticias">Noticias</a></li>
+                            <li><a href="#eventos">Eventos</a></li>
+                            <li><a href="#documentos">Documentos</a></li>
+                        </ul>
                     </div>
-                </div>
-                
-                <div class="footer-section">
-                    <h4 class="footer-title">Síguenos</h4>
-                    <div class="footer-social">
-                        <a href="#" class="social-link">LinkedIn</a>
-                        <a href="#" class="social-link">Twitter</a>
-                        <a href="#" class="social-link">Facebook</a>
+                    <div class="footer-column">
+                        <h4>Legal</h4>
+                        <ul>
+                            <li><a href="#privacidad">Política de Privacidad</a></li>
+                            <li><a href="#cookies">Política de Cookies</a></li>
+                            <li><a href="#legal">Aviso Legal</a></li>
+                            <li><a href="#transparencia">Transparencia</a></li>
+                        </ul>
                     </div>
                 </div>
             </div>
-            
             <div class="footer-bottom">
                 <p>&copy; 2025 FEAPDT. Todos los derechos reservados.</p>
             </div>
         </div>
     </footer>
 
-    <script src="js/modern-institutional.js"></script>
+    <!-- Scripts -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="js/luxury-modern.js"></script>
 </body>
 </html>
 
