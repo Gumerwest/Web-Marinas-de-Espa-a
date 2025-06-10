@@ -62,11 +62,59 @@ body {
     overflow-x: hidden;
 }
 
-/* Container */
+/* Container and Layout Improvements */
 .container {
     max-width: var(--container-max-width);
     margin: 0 auto;
     padding: 0 1.5rem;
+    width: 100%;
+}
+
+/* Improved centering for all sections */
+.section-title {
+    text-align: center;
+    margin-bottom: 1rem;
+    font-family: var(--font-display);
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: var(--primary-blue);
+    line-height: 1.2;
+}
+
+.section-subtitle {
+    text-align: center;
+    margin-bottom: 3rem;
+    font-size: 1.125rem;
+    color: var(--neutral-gray-600);
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Better spacing and alignment */
+section {
+    padding: var(--section-padding);
+    text-align: center;
+}
+
+/* Grid improvements */
+.grid {
+    display: grid;
+    gap: 2rem;
+    align-items: start;
+    justify-content: center;
+}
+
+.grid-2 {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.grid-3 {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+}
+
+.grid-4 {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 }
 
 /* Navigation */
@@ -92,18 +140,19 @@ body {
     height: 80px;
 }
 
-.nav-brand {
+.nav-logo {
     display: flex;
     align-items: center;
     gap: 0.75rem;
 }
 
-.nav-logo {
-    height: 40px;
+.logo-img {
+    height: 50px;
     width: auto;
+    object-fit: contain;
 }
 
-.nav-title {
+.logo-text {
     font-size: 1.5rem;
     font-weight: 700;
     color: var(--primary-blue);
@@ -246,14 +295,20 @@ body {
     position: relative;
     z-index: 1;
     width: 100%;
-}
-
-.hero-container {
     max-width: var(--container-max-width);
     margin: 0 auto;
     padding: 0 1.5rem;
     text-align: center;
     color: var(--neutral-white);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.hero-text {
+    margin-bottom: 3rem;
 }
 
 .hero-title {
@@ -280,7 +335,7 @@ body {
 .hero-description {
     font-size: 1.25rem;
     line-height: 1.6;
-    margin-bottom: 3rem;
+    margin-bottom: 0;
     max-width: 600px;
     margin-left: auto;
     margin-right: auto;
@@ -292,12 +347,15 @@ body {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     gap: 2rem;
-    margin-bottom: 3rem;
+    margin: 3rem 0;
     animation: fadeInUp 1s ease-out 0.4s both;
+    width: 100%;
+    max-width: 800px;
 }
 
 .stat-item {
     text-align: center;
+    padding: 1rem;
 }
 
 .stat-number {
@@ -306,6 +364,7 @@ body {
     font-weight: 700;
     color: var(--secondary-gold);
     font-family: var(--font-display);
+    margin-bottom: 0.5rem;
 }
 
 .stat-label {
@@ -313,7 +372,6 @@ body {
     font-size: 0.9rem;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    margin-top: 0.5rem;
     opacity: 0.9;
 }
 
@@ -323,9 +381,10 @@ body {
     justify-content: center;
     flex-wrap: wrap;
     animation: fadeInUp 1s ease-out 0.6s both;
+    margin-top: 2rem;
 }
 
-.hero-scroll {
+.hero-caption {
     position: absolute;
     bottom: 2rem;
     left: 50%;
@@ -333,22 +392,16 @@ body {
     text-align: center;
     color: var(--neutral-white);
     animation: fadeInUp 1s ease-out 0.8s both;
+    background: rgba(0, 0, 0, 0.3);
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    backdrop-filter: blur(10px);
 }
 
-.hero-scroll span {
-    display: block;
+.hero-caption p {
+    margin: 0;
     font-size: 0.9rem;
-    margin-bottom: 1rem;
-    opacity: 0.8;
-}
-
-.scroll-indicator {
-    width: 2px;
-    height: 30px;
-    background: var(--neutral-white);
-    margin: 0 auto;
-    opacity: 0.6;
-    animation: scrollPulse 2s infinite;
+    opacity: 0.9;
 }
 
 /* Buttons */
@@ -884,6 +937,227 @@ section {
     
     .sponsors-grid {
         grid-template-columns: 1fr;
+    }
+}
+
+
+/* Improved Gallery Section */
+.marina-gallery {
+    background: var(--neutral-gray-50);
+    padding: 5rem 0;
+}
+
+.gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin-top: 3rem;
+    justify-items: center;
+}
+
+.gallery-item {
+    background: var(--neutral-white);
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: var(--shadow-md);
+    transition: var(--transition-normal);
+    max-width: 400px;
+    width: 100%;
+}
+
+.gallery-item:hover {
+    transform: translateY(-8px);
+    box-shadow: var(--shadow-xl);
+}
+
+.gallery-item img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    transition: var(--transition-slow);
+}
+
+.gallery-item:hover img {
+    transform: scale(1.05);
+}
+
+.gallery-caption {
+    padding: 1.5rem;
+    text-align: center;
+}
+
+.gallery-caption h3 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--primary-blue);
+    margin-bottom: 0.75rem;
+    font-family: var(--font-display);
+}
+
+.gallery-caption p {
+    color: var(--neutral-gray-600);
+    line-height: 1.5;
+    font-size: 0.95rem;
+}
+
+/* Improved News Section */
+.news-section {
+    background: var(--neutral-white);
+    padding: 5rem 0;
+}
+
+.news-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 2rem;
+    margin-top: 3rem;
+    justify-items: center;
+}
+
+/* Improved Sponsors Section */
+.sponsors-section {
+    background: var(--neutral-gray-50);
+    padding: 4rem 0;
+}
+
+.sponsors-tiers {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    margin-top: 3rem;
+}
+
+.sponsor-tier {
+    text-align: center;
+}
+
+.tier-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--primary-blue);
+    margin-bottom: 2rem;
+    font-family: var(--font-display);
+}
+
+.sponsor-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+    justify-items: center;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.sponsor-card {
+    background: var(--neutral-white);
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: var(--shadow-sm);
+    transition: var(--transition-normal);
+    text-align: center;
+    width: 100%;
+    max-width: 250px;
+}
+
+.sponsor-card:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-md);
+}
+
+.sponsor-logo {
+    height: 60px;
+    width: auto;
+    margin-bottom: 1rem;
+    object-fit: contain;
+}
+
+.sponsor-name {
+    font-weight: 600;
+    color: var(--neutral-gray-800);
+    font-size: 1rem;
+}
+
+/* Improved Messages Section */
+.messages-section {
+    background: linear-gradient(135deg, var(--primary-blue) 0%, var(--primary-blue-dark) 100%);
+    color: var(--neutral-white);
+    padding: 5rem 0;
+}
+
+.messages-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 3rem;
+    margin-top: 3rem;
+    justify-items: center;
+}
+
+.message-card {
+    text-align: center;
+    padding: 2rem;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 16px;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    transition: var(--transition-normal);
+    max-width: 400px;
+    width: 100%;
+}
+
+.message-card:hover {
+    transform: translateY(-5px);
+    background: rgba(255, 255, 255, 0.15);
+}
+
+/* Responsive Design Improvements */
+@media (max-width: 768px) {
+    .container {
+        padding: 0 1rem;
+    }
+    
+    .section-title {
+        font-size: 2rem;
+    }
+    
+    .hero-stats {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.5rem;
+    }
+    
+    .gallery-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+    
+    .news-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+    
+    .sponsor-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.5rem;
+    }
+    
+    .messages-grid {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero-stats {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+    
+    .sponsor-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .hero-actions {
+        flex-direction: column;
+        align-items: center;
     }
 }
 
