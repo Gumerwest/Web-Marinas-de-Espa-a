@@ -733,3 +733,111 @@
     }
 }
 
+
+/* Enhanced Sponsors Section */
+.sponsors-section {
+    padding: 4rem 0;
+    background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+}
+
+.sponsors-grid.premium {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin-bottom: 3rem;
+}
+
+.sponsors-grid.reference {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    justify-items: center;
+}
+
+.sponsor-card.premium {
+    background: white;
+    padding: 2rem;
+    border-radius: 16px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+}
+
+.sponsor-card.premium:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 16px 48px rgba(0, 0, 0, 0.15);
+    border-color: var(--secondary-gold);
+}
+
+.sponsor-card.reference {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+    text-align: center;
+    transition: all 0.3s ease;
+    max-width: 200px;
+}
+
+.sponsor-card.reference:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+.sponsor-logo {
+    width: 100%;
+    max-width: 120px;
+    height: 60px;
+    object-fit: contain;
+    margin-bottom: 1rem;
+}
+
+.sponsor-card.reference .sponsor-logo {
+    max-width: 100px;
+    height: 50px;
+}
+
+.sponsor-name {
+    font-family: var(--font-display);
+    color: var(--primary-blue);
+    margin-bottom: 0.5rem;
+}
+
+.sponsor-card.premium .sponsor-name {
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+.sponsor-card.reference .sponsor-name {
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.sponsor-description {
+    color: var(--neutral-gray-600);
+    font-size: 0.9rem;
+    line-height: 1.4;
+}
+
+.sponsors-tier-title {
+    text-align: center;
+    font-family: var(--font-display);
+    font-size: 1.75rem;
+    color: var(--primary-blue);
+    margin-bottom: 2rem;
+    position: relative;
+}
+
+.sponsors-tier-title::after {
+    content: '';
+    position: absolute;
+    bottom: -8px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60px;
+    height: 3px;
+    background: var(--secondary-gold);
+    border-radius: 2px;
+}
+
