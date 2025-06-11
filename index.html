@@ -23,6 +23,7 @@
     <link rel="stylesheet" href="css/definitive-solution.css">
     <link rel="stylesheet" href="css/clean-video-integration.css">
     <link rel="stylesheet" href="css/video-integration-final.css">
+    <link rel="stylesheet" href="css/video-logo-transition.css">
 </head>
 <body>
     <!-- Premium Loader -->
@@ -82,11 +83,15 @@
     <!-- Hero Ultra Premium -->
     <section class="hero-ultra" id="inicio">
         <div class="hero-video-bg">
-            <video class="hero-video" autoplay muted loop playsinline>
-                <source src="videos/VideoSymposiumPuertosFinal-UHD.MP4" type="video/mp4">
+            <video class="hero-video" id="hero-video" autoplay muted playsinline>
+                <source src="videos/VideoSymposiumPuertosFinal-UHD.MOV" type="video/mp4">
             </video>
         </div>
         <div class="hero-overlay"></div>
+        
+        <div class="logo-container" id="logo-container">
+            <img src="images/logo-marinas-espana.jpeg" alt="Marinas de España" class="logo-image">
+        </div>
         
         <div class="hero-content">
             <h1 class="hero-title">
@@ -644,6 +649,7 @@
 
     <script src="js/marinas-espana-final.js"></script>
     <script src="js/force-display.js"></script>
+    <script src="js/video-logo-transition.js"></script>
 </body>
 </html>
 
