@@ -95,9 +95,14 @@ body {
 }
 
 .hero-badge {
-    background: rgba(250, 204, 21, 0.1);
-    border: 1px solid rgba(250, 204, 21, 0.3);
+    background: rgba(250, 204, 21, 0.3);
+    border: 1px solid rgba(250, 204, 21, 0.7);
     backdrop-filter: blur(10px);
+    position: relative;
+    z-index: 100;
+    display: inline-flex !important;
+    opacity: 1 !important;
+    visibility: visible !important;
 }
 
 .hero-title {
@@ -115,6 +120,10 @@ body {
     -webkit-text-fill-color: transparent;
     background-clip: text;
     animation: goldShimmer 3s ease-in-out infinite;
+    color: var(--accent-gold) !important; /* Fallback color */
+    text-shadow: 0 0 5px rgba(0,0,0,0.3);
+    position: relative;
+    z-index: 5;
 }
 
 @keyframes goldShimmer {
@@ -217,29 +226,7 @@ body {
 }
 
 /* Waves mejoradas - Simplificadas */
-.hero-waves {
-    position: absolute;
-    bottom: -5px;
-    left: 0;
-    width: 100%;
-    height: 120px;
-    overflow: hidden;
-}
-
-.wave {
-    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 120' preserveAspectRatio='none'%3E%3Cpath d='M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z' fill='%23ffffff'/%3E%3C/svg%3E") repeat-x;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 200%;
-    height: 100%;
-    animation: wave 25s cubic-bezier(0.36, 0.45, 0.63, 0.53) infinite;
-}
-
-@keyframes wave {
-    0% { transform: translateX(0); }
-    100% { transform: translateX(-50%); }
-}
+/* Eliminados los gráficos de olas */
 
 /* Secciones con mejor espaciado */
 .congreso-section,

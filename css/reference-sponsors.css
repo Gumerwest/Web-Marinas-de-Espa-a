@@ -1,63 +1,33 @@
 /* Estilos para los patrocinadores de referencia */
-.reference-sponsors-title {
-    text-align: center;
-    font-family: var(--font-display);
-    font-size: 1.5rem;
-    color: var(--primary-navy);
-    margin: 3rem 0 1.5rem;
-}
-
 .reference-sponsors-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 1.5rem;
-    max-width: 800px;
-    margin: 0 auto;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 1rem;
+    max-width: 600px;
+    margin: 1.5rem auto 0;
 }
 
 .reference-sponsor-card {
     position: relative;
     background: var(--white);
-    border-radius: 15px;
+    border-radius: 10px;
     overflow: hidden;
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);
     transition: all var(--transition-smooth);
-    height: 120px;
+    height: 80px;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .reference-sponsor-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+    transform: translateY(-3px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.08);
 }
 
 .reference-sponsor-card img {
-    width: 80%;
+    width: 70%;
     height: auto;
     object-fit: contain;
-    padding: 1rem;
-}
-
-.reference-sponsor-overlay {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    background: rgba(255, 255, 255, 0.9);
-    padding: 0.5rem;
-    text-align: center;
-    transform: translateY(100%);
-    transition: transform var(--transition-smooth);
-}
-
-.reference-sponsor-card:hover .reference-sponsor-overlay {
-    transform: translateY(0);
-}
-
-.reference-sponsor-overlay h4 {
-    font-size: 0.9rem;
-    margin: 0;
-    color: var(--primary-navy);
+    padding: 0.75rem;
 }
