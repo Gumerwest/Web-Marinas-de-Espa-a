@@ -1,0 +1,361 @@
+/* ========================================
+   MEJORAS ESTÉTICAS SELECTIVAS
+   Basado en el código sugerido, adaptado para Marinas de España
+   ======================================== */
+
+/* Variables mejoradas */
+:root {
+    /* Colores más elegantes y sofisticados */
+    --primary-navy: #0f172a;      /* Azul marino más profundo */
+    --primary-blue: #1e40af;      /* Azul más vibrante */
+    --accent-gold: #facc15;       /* Dorado más cálido */
+    --accent-gold-hover: #fbbf24; /* Dorado hover */
+    
+    /* Tipografía mejorada */
+    --font-display: 'Playfair Display', Georgia, serif;
+    --font-primary: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    
+    /* Transiciones más suaves */
+    --transition-smooth: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Mejoras generales */
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* Loader más elegante */
+.loader-premium {
+    background: linear-gradient(135deg, var(--primary-navy) 0%, var(--primary-blue) 50%, var(--primary-navy) 100%);
+    background-size: 400% 400%;
+    animation: gradientShift 3s ease infinite;
+}
+
+@keyframes gradientShift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+/* Navegación más premium */
+.navbar-ultra {
+    backdrop-filter: blur(20px);
+}
+
+.navbar-ultra.scrolled {
+    background: rgba(255, 255, 255, 0.95);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+}
+
+.nav-link {
+    font-size: 0.95rem;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+}
+
+.nav-link::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: var(--accent-gold);
+    transition: width 0.3s ease;
+}
+
+.nav-link:hover::after {
+    width: 100%;
+}
+
+.nav-cta {
+    background: linear-gradient(135deg, var(--accent-gold) 0%, var(--accent-gold-hover) 100%);
+    box-shadow: 0 4px 15px rgba(250, 204, 21, 0.3);
+    transition: var(--transition-smooth);
+}
+
+.nav-cta:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(250, 204, 21, 0.4);
+}
+
+/* Hero Section más elegante */
+.hero-ultra {
+    background: linear-gradient(165deg, var(--primary-navy) 0%, var(--primary-blue) 100%);
+}
+
+.hero-video {
+    opacity: 0.25;
+    filter: contrast(1.2);
+}
+
+.hero-badge {
+    background: rgba(250, 204, 21, 0.1);
+    border: 1px solid rgba(250, 204, 21, 0.3);
+    backdrop-filter: blur(10px);
+}
+
+.hero-title {
+    font-family: var(--font-display);
+    font-size: clamp(3rem, 7vw, 5.5rem);
+    font-weight: 700;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+}
+
+.golden {
+    background: linear-gradient(135deg, var(--accent-gold) 0%, #fde047 50%, var(--accent-gold) 100%);
+    background-size: 200% 200%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    animation: goldShimmer 3s ease-in-out infinite;
+}
+
+@keyframes goldShimmer {
+    0%, 100% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+}
+
+.hero-subtitle {
+    font-size: 1.25rem;
+    font-weight: 300;
+    line-height: 1.8;
+    opacity: 0.9;
+    max-width: 800px;
+    margin: 2rem auto 3rem;
+}
+
+/* Botones más elegantes */
+.btn-premium {
+    padding: 1rem 2.5rem;
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    border-radius: 50px;
+    transition: var(--transition-smooth);
+    position: relative;
+    overflow: hidden;
+}
+
+.btn-premium::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.1);
+    transform: translate(-50%, -50%);
+    transition: width 0.6s ease, height 0.6s ease;
+}
+
+.btn-premium:hover::before {
+    width: 300px;
+    height: 300px;
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, var(--accent-gold) 0%, var(--accent-gold-hover) 100%);
+    color: var(--primary-navy);
+    box-shadow: 0 10px 30px rgba(250, 204, 21, 0.3);
+}
+
+.btn-primary:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 15px 40px rgba(250, 204, 21, 0.4);
+}
+
+.btn-secondary {
+    background: rgba(255, 255, 255, 0.05);
+    color: white;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);
+}
+
+.btn-secondary:hover {
+    background: rgba(255, 255, 255, 0.1);
+    border-color: rgba(255, 255, 255, 0.4);
+    transform: translateY(-3px);
+}
+
+/* Stats más elegantes */
+.hero-stats {
+    margin-bottom: 0;
+    padding-bottom: 60px;
+}
+
+.stat-card {
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(20px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 2rem;
+    border-radius: 20px;
+    transition: var(--transition-smooth);
+}
+
+.stat-card:hover {
+    transform: translateY(-5px) scale(1.02);
+    background: rgba(255, 255, 255, 0.08);
+    border-color: rgba(250, 204, 21, 0.3);
+}
+
+.stat-number {
+    font-family: var(--font-display);
+    font-size: 3rem;
+    font-weight: 700;
+    background: linear-gradient(135deg, var(--accent-gold) 0%, white 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+/* Waves mejoradas - Simplificadas */
+.hero-waves {
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    width: 100%;
+    height: 120px;
+    overflow: hidden;
+}
+
+.wave {
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 120' preserveAspectRatio='none'%3E%3Cpath d='M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z' fill='%23ffffff'/%3E%3C/svg%3E") repeat-x;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 200%;
+    height: 100%;
+    animation: wave 25s cubic-bezier(0.36, 0.45, 0.63, 0.53) infinite;
+}
+
+@keyframes wave {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+}
+
+/* Secciones con mejor espaciado */
+.congreso-section,
+.sponsors-section,
+.news-section,
+.map-section,
+.federation-section,
+.associations-section,
+.contact-section {
+    padding: 6rem 0;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Headers de sección más elegantes */
+.section-header {
+    text-align: center;
+    margin-bottom: 4rem;
+}
+
+.section-tag {
+    display: inline-block;
+    background: linear-gradient(135deg, var(--accent-gold) 0%, var(--accent-gold-hover) 100%);
+    color: var(--primary-navy);
+    padding: 0.5rem 1.5rem;
+    border-radius: 50px;
+    font-size: 0.875rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 1.5rem;
+}
+
+.section-title {
+    font-family: var(--font-display);
+    font-size: clamp(2.5rem, 5vw, 3.5rem);
+    font-weight: 700;
+    color: var(--primary-navy);
+    line-height: 1.2;
+    margin-bottom: 1.5rem;
+}
+
+.section-subtitle {
+    font-size: 1.125rem;
+    color: var(--gray-500);
+    max-width: 700px;
+    margin: 0 auto;
+    line-height: 1.8;
+}
+
+/* Cards con efecto hover mejorado */
+.sponsor-card,
+.news-card,
+.partner-card,
+.association-card {
+    border-radius: 20px;
+    overflow: hidden;
+    transition: var(--transition-smooth);
+    cursor: pointer;
+}
+
+.sponsor-card:hover,
+.news-card:hover,
+.partner-card:hover,
+.association-card:hover {
+    transform: translateY(-10px) scale(1.02);
+    box-shadow: 0 30px 60px rgba(0, 0, 0, 0.15);
+}
+
+/* Imágenes con efecto zoom */
+.sponsor-card img,
+.news-image img,
+.association-image img {
+    transition: transform 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.sponsor-card:hover img,
+.news-card:hover .news-image img,
+.association-card:hover .association-image img {
+    transform: scale(1.1);
+}
+
+/* Mejoras responsive */
+@media (max-width: 968px) {
+    :root {
+        font-size: 15px;
+    }
+    
+    .hero-title {
+        font-size: clamp(2.5rem, 6vw, 4rem);
+    }
+    
+    .section-title {
+        font-size: clamp(2rem, 5vw, 3rem);
+    }
+    
+    .btn-premium {
+        padding: 0.875rem 2rem;
+        font-size: 0.95rem;
+    }
+}
+
+@media (max-width: 640px) {
+    :root {
+        font-size: 14px;
+    }
+    
+    .hero-title {
+        font-size: 2.5rem;
+    }
+    
+    .hero-subtitle {
+        font-size: 1.1rem;
+    }
+    
+    .stat-number {
+        font-size: 2.5rem;
+    }
+}
