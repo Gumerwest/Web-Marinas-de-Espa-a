@@ -1,0 +1,675 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marinas de España - FEAPDT</title>
+    <meta name="description" content="Marinas de España - FEAPDT representa a las marinas españolas, promoviendo el desarrollo sostenible del sector náutico y turístico en España. 146 instalaciones náuticas en 8 regiones.">
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&family=Inter:wght@300;400;500;600;700;800&family=Bebas+Neue&display=swap" rel="stylesheet">
+    
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <link rel="stylesheet" href="css/marinas-espana-final.css">
+</head>
+<body>
+    <!-- Premium Loader -->
+    <div class="loader-premium" id="loader">
+        <div class="loader-inner">
+            <div class="yacht-loader">
+                <svg class="yacht-svg" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M20 70L50 30L80 70L50 50L20 70Z" fill="#FFD700"/>
+                    <path d="M50 50L50 80" stroke="#FFD700" stroke-width="2"/>
+                    <path d="M10 80L90 80" stroke="#FFD700" stroke-width="3"/>
+                </svg>
+            </div>
+            <div class="loading-text">Cargando Marinas de España</div>
+            <div class="progress-bar-container">
+                <div class="progress-bar" id="progress-bar"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Custom Cursor -->
+    <div class="cursor" id="cursor">
+        <div class="cursor-dot"></div>
+        <div class="cursor-outline"></div>
+    </div>
+
+    <!-- Navigation Ultra Premium -->
+    <nav class="navbar-ultra" id="navbar">
+        <div class="container">
+            <div class="nav-container">
+                <div class="nav-brand">
+                    <img src="upload/MARINASDEESPAÑA.jpg" alt="Marinas de España" class="nav-logo">
+                </div>
+                
+                <div class="nav-menu" id="nav-menu">
+                    <a href="#inicio" class="nav-link active">Inicio</a>
+                    <a href="#congreso" class="nav-link">I Congreso</a>
+                    <a href="#patrocinadores" class="nav-link">Patrocinadores</a>
+                    <a href="#noticias" class="nav-link">Noticias</a>
+                    <a href="#mapa" class="nav-link">Mapa Puertos</a>
+                    <a href="#federacion" class="nav-link">La Federación</a>
+                    <a href="#asociaciones" class="nav-link">Asociaciones</a>
+                    <a href="#contacto" class="nav-cta">
+                        <i class="fas fa-envelope"></i>
+                        Contacto
+                    </a>
+                </div>
+                
+                <div class="nav-toggle" id="nav-toggle">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Ultra Premium -->
+    <section class="hero-ultra" id="inicio">
+        <div class="hero-video-bg">
+            <video class="hero-video" autoplay muted loop playsinline>
+                <source src="videos/barco-video-final-correcto.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="hero-overlay"></div>
+        
+        <div class="hero-content">
+            <div class="hero-badge">
+                <i class="fas fa-star"></i>
+                42 años liderando el sector náutico español
+            </div>
+            
+            <h1 class="hero-title">
+                <span class="title-line">Marinas de</span>
+                <span class="title-line golden">España</span>
+                <span class="title-line">Donde las familias crean</span>
+                <span class="title-line">recuerdos inolvidables</span>
+            </h1>
+            
+            <p class="hero-subtitle">
+                Descubre la red más completa de puertos deportivos de España. 
+                Desde 1983, FEAPDT conecta familias con el mar a través de 146 instalaciones 
+                náuticas distribuidas en 8 regiones costeras.
+            </p>
+            
+            <div class="hero-actions">
+                <a href="#congreso" class="btn-premium btn-primary">
+                    <i class="fas fa-calendar-alt"></i>
+                    I Congreso Marinas de España
+                </a>
+                <a href="#federacion" class="btn-premium btn-secondary">
+                    <i class="fas fa-play"></i>
+                    Conoce nuestra historia
+                </a>
+            </div>
+            
+            <div class="hero-stats">
+                <div class="stat-card">
+                    <div class="stat-number" data-count="146">0</div>
+                    <div class="stat-label">Marinas</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" data-count="134725">0</div>
+                    <div class="stat-label">Amarres</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" data-count="8">0</div>
+                    <div class="stat-label">Regiones</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" data-count="42">0</div>
+                    <div class="stat-label">Años</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="hero-waves">
+            <div class="wave"></div>
+        </div>
+    </section>
+
+    <!-- Congreso Section - PROMINENTE -->
+    <section class="congreso-section" id="congreso">
+        <div class="container">
+            <div class="congreso-content">
+                <div class="congreso-badge">
+                    <i class="fas fa-trophy"></i>
+                    Evento Principal 2025
+                </div>
+                
+                <h2 class="congreso-title">
+                    <span class="title-word">I</span>
+                    <span class="title-word">Congreso</span>
+                    <span class="title-word golden">Marinas de España</span>
+                </h2>
+                
+                <div class="congreso-details">
+                    <div class="congreso-date">
+                        <i class="fas fa-calendar"></i>
+                        <span>13-14 Noviembre 2025</span>
+                    </div>
+                    <div class="congreso-location">
+                        <i class="fas fa-map-marker-alt"></i>
+                        <span>Puerto Sotogrande, Cádiz</span>
+                    </div>
+                </div>
+                
+                <p class="congreso-description">
+                    El primer congreso nacional que reunirá a los principales actores del sector náutico. 
+                    Un evento único para debatir el futuro de las marinas españolas.
+                </p>
+                
+                <div class="congreso-actions">
+                    <a href="#" class="btn-premium btn-primary btn-large">
+                        <i class="fas fa-external-link-alt"></i>
+                        Ir a la Web del Congreso
+                    </a>
+                </div>
+            </div>
+            
+            <div class="congreso-visual">
+                <div class="congreso-image">
+                    <img src="https://images.unsplash.com/photo-1569163139394-de4798d9c2c3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" alt="Puerto Sotogrande">
+                    <div class="image-overlay">
+                        <div class="play-button">
+                            <i class="fas fa-play"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Patrocinadores Section -->
+    <section class="sponsors-section" id="patrocinadores">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Nuestros Socios</span>
+                <h2 class="section-title">
+                    <span class="title-word">Patrocinadores</span>
+                    <span class="title-word golden">Principales</span>
+                </h2>
+                <p class="section-subtitle">
+                    Empresas líderes que confían en Marinas de España para el desarrollo del sector náutico
+                </p>
+            </div>
+            
+            <div class="sponsors-grid">
+                <div class="sponsor-card featured">
+                    <img src="https://via.placeholder.com/300x150/1e3a8a/ffffff?text=IBERDROLA" alt="Iberdrola">
+                    <div class="sponsor-overlay">
+                        <h3>Iberdrola</h3>
+                        <p>Patrocinador Principal</p>
+                    </div>
+                </div>
+                <div class="sponsor-card">
+                    <img src="https://via.placeholder.com/250x120/f59e0b/ffffff?text=VILTEC" alt="Viltec">
+                    <div class="sponsor-overlay">
+                        <h3>Viltec</h3>
+                        <p>Socio Tecnológico</p>
+                    </div>
+                </div>
+                <div class="sponsor-card">
+                    <img src="https://via.placeholder.com/250x120/0c1e3d/ffffff?text=ALMARIN" alt="Almarín">
+                    <div class="sponsor-overlay">
+                        <h3>Almarín</h3>
+                        <p>Socio Estratégico</p>
+                    </div>
+                </div>
+                <div class="sponsor-card">
+                    <img src="https://via.placeholder.com/250x120/1e3a8a/ffffff?text=PANDORA" alt="Pandora Global">
+                    <div class="sponsor-overlay">
+                        <h3>Pandora Global</h3>
+                        <p>Socio de Innovación</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Noticias Section -->
+    <section class="news-section" id="noticias">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Actualidad</span>
+                <h2 class="section-title">
+                    <span class="title-word">Últimas</span>
+                    <span class="title-word golden">Noticias</span>
+                </h2>
+                <p class="section-subtitle">
+                    Mantente informado sobre las novedades del sector náutico español
+                </p>
+            </div>
+            
+            <div class="news-grid">
+                <article class="news-card featured">
+                    <div class="news-image">
+                        <img src="https://images.unsplash.com/photo-1569163139394-de4798d9c2c3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Congreso Marinas">
+                        <div class="news-category">Eventos</div>
+                    </div>
+                    <div class="news-content">
+                        <h3>I Congreso Marinas de España en Puerto Sotogrande</h3>
+                        <p>El evento más importante del sector náutico español se celebrará los días 13 y 14 de noviembre en Puerto Sotogrande.</p>
+                        <div class="news-meta">
+                            <span class="news-date">6 Junio 2025</span>
+                            <a href="#" class="news-link">Leer más</a>
+                        </div>
+                    </div>
+                </article>
+                
+                <article class="news-card">
+                    <div class="news-image">
+                        <img src="https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Digitalización">
+                        <div class="news-category">Innovación</div>
+                    </div>
+                    <div class="news-content">
+                        <h3>Digitalización de los puertos deportivos españoles</h3>
+                        <p>Las marinas españolas lideran la transformación digital del sector náutico europeo con nuevas tecnologías.</p>
+                        <div class="news-meta">
+                            <span class="news-date">25 Mayo 2025</span>
+                            <a href="#" class="news-link">Leer más</a>
+                        </div>
+                    </div>
+                </article>
+                
+                <article class="news-card">
+                    <div class="news-image">
+                        <img src="https://images.unsplash.com/photo-1544551763-46a013bb70d5?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80" alt="Sostenibilidad">
+                        <div class="news-category">Sostenibilidad</div>
+                    </div>
+                    <div class="news-content">
+                        <h3>Nuevas iniciativas de sostenibilidad en puertos deportivos</h3>
+                        <p>FEAPDT presenta su plan estratégico para la sostenibilidad del sector náutico español.</p>
+                        <div class="news-meta">
+                            <span class="news-date">15 Mayo 2025</span>
+                            <a href="#" class="news-link">Leer más</a>
+                        </div>
+                    </div>
+                </article>
+            </div>
+        </div>
+    </section>
+
+    <!-- Mapa Section (Placeholder) -->
+    <section class="map-section" id="mapa">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Ubicaciones</span>
+                <h2 class="section-title">
+                    <span class="title-word">Mapa</span>
+                    <span class="title-word golden">Interactivo</span>
+                </h2>
+                <p class="section-subtitle">
+                    Explora las 146 marinas distribuidas por toda la costa española
+                </p>
+            </div>
+            
+            <div class="map-placeholder">
+                <div class="map-content">
+                    <i class="fas fa-map-marked-alt"></i>
+                    <h3>Mapa Interactivo</h3>
+                    <p>Próximamente: Mapa interactivo con todas las marinas de España</p>
+                    <button class="btn-premium btn-primary">
+                        <i class="fas fa-code"></i>
+                        Integrar Código del Mapa
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- La Federación Section -->
+    <section class="federation-section" id="federacion">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Nuestra Historia</span>
+                <h2 class="section-title">
+                    <span class="title-word">La</span>
+                    <span class="title-word golden">Federación</span>
+                </h2>
+                <p class="section-subtitle">
+                    42 años liderando el desarrollo del sector náutico español
+                </p>
+            </div>
+            
+            <div class="federation-content">
+                <div class="federation-info">
+                    <div class="info-card">
+                        <div class="info-icon">
+                            <i class="fas fa-calendar-alt"></i>
+                        </div>
+                        <div class="info-content">
+                            <h3>Fundación</h3>
+                            <p>Establecida en 1983</p>
+                        </div>
+                    </div>
+                    
+                    <div class="info-card">
+                        <div class="info-icon">
+                            <i class="fas fa-user-tie"></i>
+                        </div>
+                        <div class="info-content">
+                            <h3>Gerente</h3>
+                            <p>Jordi Caballé</p>
+                        </div>
+                    </div>
+                    
+                    <div class="info-card">
+                        <div class="info-icon">
+                            <i class="fas fa-target"></i>
+                        </div>
+                        <div class="info-content">
+                            <h3>Misión</h3>
+                            <p>Unificar y fortalecer el sector náutico español</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="federation-description">
+                    <p>
+                        La Federación Española de Asociaciones de Puertos Deportivos y Turísticos (FEAPDT) 
+                        es la organización que representa y agrupa a las principales asociaciones regionales 
+                        de puertos deportivos de España.
+                    </p>
+                    <p>
+                        Desde 1983, trabajamos para promover el desarrollo sostenible del sector náutico, 
+                        defender los intereses comunes de nuestros asociados y posicionar a España como 
+                        líder mundial en turismo náutico.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Asociaciones Section -->
+    <section class="associations-section" id="asociaciones">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Nuestras Asociaciones</span>
+                <h2 class="section-title">
+                    <span class="title-word">8</span>
+                    <span class="title-word golden">Asociaciones</span>
+                    <span class="title-word">Regionales</span>
+                </h2>
+                <p class="section-subtitle">
+                    Marinas de España agrupa a las principales asociaciones regionales de puertos deportivos
+                </p>
+            </div>
+            
+            <div class="associations-grid">
+                <div class="association-card featured">
+                    <div class="association-image">
+                        <img src="https://images.unsplash.com/photo-1569163139394-de4798d9c2c3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Andalucía">
+                        <div class="association-overlay">
+                            <div class="association-content">
+                                <h3>Marinas de Andalucía</h3>
+                                <p class="association-president">Presidente: Manuel Raigón</p>
+                                <p class="association-stats">18 puertos deportivos</p>
+                                <p class="association-description">Asociación de Puertos Deportivos y Turísticos de Andalucía. Fundada en 1982, representa el 90% de los puertos privados andaluces.</p>
+                                <div class="association-highlights">
+                                    <span class="highlight">Puerto Banús</span>
+                                    <span class="highlight">Puerto Sotogrande</span>
+                                    <span class="highlight">Marina del Este</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="association-card">
+                    <div class="association-image">
+                        <img src="https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Cataluña">
+                        <div class="association-overlay">
+                            <div class="association-content">
+                                <h3>Ports Esportius Catalunya</h3>
+                                <p class="association-stats">48 puertos deportivos</p>
+                                <p class="association-description">Asociación Catalana de Ports Esportius i Turístics. La región con mayor número de instalaciones náuticas de España.</p>
+                                <div class="association-highlights">
+                                    <span class="highlight">Port Olímpic</span>
+                                    <span class="highlight">Marina Vela</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="association-card">
+                    <div class="association-image">
+                        <img src="https://images.unsplash.com/photo-1544551763-46a013bb70d5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Baleares">
+                        <div class="association-overlay">
+                            <div class="association-content">
+                                <h3>Instalaciones Náutico Deportivas Baleares</h3>
+                                <p class="association-stats">22 puertos deportivos</p>
+                                <p class="association-description">Asociación de Instalaciones Náutico Deportivas de Baleares. Referente en turismo náutico mediterráneo.</p>
+                                <div class="association-highlights">
+                                    <span class="highlight">Puerto Portals</span>
+                                    <span class="highlight">Marina Ibiza</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="association-card">
+                    <div class="association-image">
+                        <img src="https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Murcia">
+                        <div class="association-overlay">
+                            <div class="association-content">
+                                <h3>Clubes Náuticos Murcia</h3>
+                                <p class="association-stats">17 puertos deportivos</p>
+                                <p class="association-description">Asociación de Clubes Náuticos y Puertos Deportivos de la Región de Murcia.</p>
+                                <div class="association-highlights">
+                                    <span class="highlight">Marina de las Salinas</span>
+                                    <span class="highlight">Puerto Tomás Maestre</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="association-card">
+                    <div class="association-image">
+                        <img src="https://images.unsplash.com/photo-1523457120040-e526c1d8e833?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Canarias">
+                        <div class="association-overlay">
+                            <div class="association-content">
+                                <h3>Puertos Deportivos Canarias</h3>
+                                <p class="association-stats">17 puertos deportivos</p>
+                                <p class="association-description">Asociación de Puertos Deportivos de Canarias. Puerta atlántica del turismo náutico español.</p>
+                                <div class="association-highlights">
+                                    <span class="highlight">Marina Las Palmas</span>
+                                    <span class="highlight">Puerto Calero</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="association-card">
+                    <div class="association-image">
+                        <img src="https://images.unsplash.com/photo-1559827260-dc66d52bef19?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Valencia">
+                        <div class="association-overlay">
+                            <div class="association-content">
+                                <h3>Puertos Deportivos Valencia</h3>
+                                <p class="association-stats">14 puertos deportivos</p>
+                                <p class="association-description">Agrupación Puertos Deportivos y Turísticos Comunidad Valenciana.</p>
+                                <div class="association-highlights">
+                                    <span class="highlight">Marina Real Juan Carlos I</span>
+                                    <span class="highlight">Puerto de Dénia</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="association-card">
+                    <div class="association-image">
+                        <img src="https://images.unsplash.com/photo-1540946485063-a40da27545f8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Galicia">
+                        <div class="association-overlay">
+                            <div class="association-content">
+                                <h3>Marinas de Galicia</h3>
+                                <p class="association-stats">9 puertos deportivos</p>
+                                <p class="association-description">Marinas de Galicia. Especialistas en turismo náutico atlántico.</p>
+                                <div class="association-highlights">
+                                    <span class="highlight">Marina Coruña</span>
+                                    <span class="highlight">Marina Vigo</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="association-card">
+                    <div class="association-image">
+                        <img src="https://images.unsplash.com/photo-1514649923863-ceaf75b7ec00?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Asturias">
+                        <div class="association-overlay">
+                            <div class="association-content">
+                                <h3>Puertos Deportivos Asturias</h3>
+                                <p class="association-stats">1 puerto deportivo</p>
+                                <p class="association-description">Asociación Asturiana de Puertos Deportivos y Turísticos.</p>
+                                <div class="association-highlights">
+                                    <span class="highlight">Marina Gijón</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="contact-section" id="contacto">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-tag">Contacto</span>
+                <h2 class="section-title">
+                    <span class="title-word">Conecta</span>
+                    <span class="title-word golden">con nosotros</span>
+                </h2>
+                <p class="section-subtitle">
+                    ¿Tienes alguna pregunta? Estamos aquí para ayudarte
+                </p>
+            </div>
+            
+            <div class="contact-content">
+                <div class="contact-info">
+                    <div class="contact-item">
+                        <div class="contact-icon">
+                            <i class="fas fa-envelope"></i>
+                        </div>
+                        <div class="contact-details">
+                            <h3>Email</h3>
+                            <p>info@marinasdeespana.com</p>
+                        </div>
+                    </div>
+                    
+                    <div class="contact-item">
+                        <div class="contact-icon">
+                            <i class="fas fa-phone"></i>
+                        </div>
+                        <div class="contact-details">
+                            <h3>Teléfono</h3>
+                            <p>+34 900 000 000</p>
+                        </div>
+                    </div>
+                    
+                    <div class="contact-item">
+                        <div class="contact-icon">
+                            <i class="fas fa-map-marker-alt"></i>
+                        </div>
+                        <div class="contact-details">
+                            <h3>Oficina</h3>
+                            <p>Madrid, España</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <form class="contact-form" id="contact-form">
+                    <div class="form-group">
+                        <input type="text" id="name" name="name" required>
+                        <label for="name">Nombre completo</label>
+                    </div>
+                    
+                    <div class="form-group">
+                        <input type="email" id="email" name="email" required>
+                        <label for="email">Email</label>
+                    </div>
+                    
+                    <div class="form-group">
+                        <textarea id="message" name="message" rows="5" required></textarea>
+                        <label for="message">Mensaje</label>
+                    </div>
+                    
+                    <button type="submit" class="btn-premium btn-primary btn-full">
+                        <i class="fas fa-paper-plane"></i>
+                        Enviar mensaje
+                    </button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer-premium">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <img src="upload/MARINASDEESPAÑA.jpg" alt="Marinas de España" class="footer-logo">
+                    <p>Liderando el sector náutico español desde 1983</p>
+                </div>
+                
+                <div class="footer-links">
+                    <div class="footer-column">
+                        <h4>Marinas de España</h4>
+                        <ul>
+                            <li><a href="#federacion">La Federación</a></li>
+                            <li><a href="#asociaciones">Asociaciones</a></li>
+                            <li><a href="#congreso">I Congreso</a></li>
+                            <li><a href="#noticias">Noticias</a></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="footer-column">
+                        <h4>Servicios</h4>
+                        <ul>
+                            <li><a href="#">Certificaciones</a></li>
+                            <li><a href="#">Formación</a></li>
+                            <li><a href="#">Consultoría</a></li>
+                            <li><a href="#">Publicaciones</a></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="footer-column">
+                        <h4>Contacto</h4>
+                        <ul>
+                            <li><a href="mailto:info@marinasdeespana.com">info@marinasdeespana.com</a></li>
+                            <li><a href="tel:+34900000000">+34 900 000 000</a></li>
+                            <li><a href="#">Madrid, España</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <p>&copy; 2025 Marinas de España - FEAPDT. Todos los derechos reservados.</p>
+                <div class="footer-social">
+                    <a href="#"><i class="fab fa-linkedin"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-youtube"></i></a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/marinas-espana-final.js"></script>
+</body>
+</html>
+
