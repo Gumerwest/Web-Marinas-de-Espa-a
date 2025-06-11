@@ -1411,24 +1411,25 @@ section {
 
 
 
-/* Congreso Banner Compacto */
+/* Congreso Banner Compacto - CORREGIDO */
 .congreso-banner {
-    padding: 1.5rem 0;
+    padding: 2rem 0;
     background: transparent;
-    margin: 1rem 0;
+    margin: 2rem 0;
 }
 
 .congreso-compact {
     background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-light) 100%);
     border-radius: 15px;
-    padding: 1.5rem 2rem;
+    padding: 2rem;
     display: flex;
     align-items: center;
-    gap: 1.5rem;
+    gap: 2rem;
     box-shadow: 0 10px 30px rgba(30, 58, 138, 0.2);
     transition: all 0.3s ease;
     position: relative;
     overflow: hidden;
+    min-height: 80px;
 }
 
 .congreso-compact::before {
@@ -1447,8 +1448,8 @@ section {
 }
 
 .congreso-icon-small {
-    width: 50px;
-    height: 50px;
+    width: 60px;
+    height: 60px;
     background: rgba(255, 215, 0, 0.2);
     border-radius: 50%;
     display: flex;
@@ -1458,7 +1459,7 @@ section {
 }
 
 .congreso-icon-small i {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     color: var(--accent-gold);
 }
 
@@ -1466,36 +1467,38 @@ section {
     flex: 1;
     display: flex;
     flex-direction: column;
-    gap: 0.25rem;
+    gap: 0.5rem;
 }
 
 .congreso-label {
     font-family: var(--font-display);
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     font-weight: 700;
     color: white;
     line-height: 1.2;
+    margin: 0;
 }
 
 .congreso-date-compact {
-    font-size: 0.9rem;
-    color: rgba(255, 255, 255, 0.8);
+    font-size: 1rem;
+    color: rgba(255, 255, 255, 0.9);
     font-weight: 500;
 }
 
 .btn-congreso-small {
     display: flex;
     align-items: center;
-    gap: 0.5rem;
+    gap: 0.75rem;
     background: var(--accent-gold);
     color: var(--primary-color);
-    padding: 0.75rem 1.5rem;
-    border-radius: 25px;
+    padding: 1rem 2rem;
+    border-radius: 30px;
     text-decoration: none;
     font-weight: 700;
-    font-size: 0.9rem;
+    font-size: 1rem;
     transition: all 0.3s ease;
     flex-shrink: 0;
+    white-space: nowrap;
 }
 
 .btn-congreso-small:hover {
@@ -1505,20 +1508,20 @@ section {
 }
 
 .btn-congreso-small i {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     transition: transform 0.3s ease;
 }
 
 .btn-congreso-small:hover i {
-    transform: translateX(2px);
+    transform: translateX(3px);
 }
 
 @media (max-width: 768px) {
     .congreso-compact {
         flex-direction: column;
         text-align: center;
-        gap: 1rem;
-        padding: 1.5rem;
+        gap: 1.5rem;
+        padding: 2rem 1.5rem;
     }
     
     .congreso-content-compact {
@@ -1526,7 +1529,11 @@ section {
     }
     
     .congreso-label {
-        font-size: 1.1rem;
+        font-size: 1.3rem;
+    }
+    
+    .congreso-date-compact {
+        font-size: 0.9rem;
     }
 }
 
