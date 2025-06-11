@@ -1,0 +1,110 @@
+/* Solución definitiva para el banner de 42 años */
+.hero-badge {
+  background: #d64045 !important; /* Rojo coral */
+  color: white !important;
+  border: none !important;
+  padding: 12px 24px !important;
+  border-radius: 30px !important;
+  font-weight: bold !important;
+  font-family: 'Bebas Neue', sans-serif !important;
+  letter-spacing: 1px !important;
+  position: fixed !important;
+  top: 120px !important;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+  z-index: 9999 !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3) !important;
+  text-align: center !important;
+  display: block !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+  width: auto !important;
+  max-width: 90% !important;
+  font-size: 18px !important;
+}
+
+/* Eliminar completamente todos los gráficos decorativos */
+.hero-waves, 
+.wave, 
+.stats-wave, 
+.stats-background,
+.section-wave,
+.wave-top,
+.wave-bottom {
+  display: none !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
+}
+
+/* Cambiar todos los amarillos por azul elegante */
+.golden, 
+.section-title span, 
+.highlight, 
+.stats-highlight,
+.section-badge,
+.badge,
+.ubicaciones-section .section-badge,
+.mapa-section .section-badge,
+.btn-primary.yellow-btn {
+  color: #2c8c99 !important; /* Azul turquesa elegante */
+  background: none !important;
+  -webkit-text-fill-color: #2c8c99 !important;
+  background-image: none !important;
+}
+
+/* Botones con colores más elegantes */
+.btn-primary, 
+.hero-cta .btn-primary, 
+.congreso-banner {
+  background: #126e82 !important; /* Azul marino */
+  border-color: #126e82 !important;
+  color: white !important;
+}
+
+.btn-secondary, 
+.hero-cta .btn-secondary {
+  background: #d64045 !important; /* Rojo coral */
+  border-color: #d64045 !important;
+  color: white !important;
+}
+
+/* Eliminar todos los elementos amarillos */
+[class*="yellow"],
+.yellow-bg,
+.yellow-text,
+.yellow-highlight,
+.yellow-accent {
+  background: #2c8c99 !important;
+  color: white !important;
+}
+
+/* Asegurar que las cifras se vean bien */
+.stats-section {
+  background: #f5f7fa !important;
+  position: relative !important;
+  padding: 4rem 0 !important;
+  margin-top: 60px !important;
+  border-top: 1px solid #e9ecef !important;
+  border-bottom: 1px solid #e9ecef !important;
+}
+
+.stats-grid {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)) !important;
+  gap: 2rem !important;
+  max-width: 1200px !important;
+  margin: 0 auto !important;
+  padding: 2rem !important;
+  background: white !important;
+  border-radius: 10px !important;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05) !important;
+}
+
+/* Asegurar que España se vea bien */
+.title-line.golden {
+  color: #2c8c99 !important;
+  -webkit-text-fill-color: #2c8c99 !important;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1) !important;
+  font-weight: bold !important;
+  font-size: 3.5rem !important;
+}
