@@ -1772,3 +1772,134 @@ body {
     }
 }
 
+
+/* Associations Section */
+.associations-section {
+    padding: var(--space-4xl) 0;
+    background: var(--white);
+}
+
+.associations-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: var(--space-xl);
+    grid-auto-rows: 400px;
+}
+
+.association-card {
+    position: relative;
+    border-radius: 20px;
+    overflow: hidden;
+    cursor: none;
+    transition: all var(--transition-premium);
+    box-shadow: var(--shadow-lg);
+}
+
+.association-card.featured {
+    grid-column: span 2;
+    grid-row: span 1;
+}
+
+.association-image {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.association-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform var(--transition-premium);
+}
+
+.association-card:hover .association-image img {
+    transform: scale(1.1);
+}
+
+.association-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+        180deg,
+        transparent 0%,
+        rgba(12, 30, 61, 0.7) 50%,
+        rgba(12, 30, 61, 0.95) 100%
+    );
+    display: flex;
+    align-items: flex-end;
+    padding: var(--space-xl);
+    opacity: 0;
+    transition: opacity var(--transition-premium);
+}
+
+.association-card:hover .association-overlay {
+    opacity: 1;
+}
+
+.association-content {
+    color: var(--white);
+}
+
+.association-content h3 {
+    font-family: var(--font-display);
+    font-size: 1.5rem;
+    margin-bottom: var(--space-sm);
+    color: var(--white);
+}
+
+.association-president {
+    color: var(--accent-gold);
+    font-weight: 600;
+    margin-bottom: var(--space-xs);
+}
+
+.association-stats {
+    color: var(--accent-gold);
+    font-weight: 600;
+    margin-bottom: var(--space-md);
+    font-size: 1.1rem;
+}
+
+.association-description {
+    margin-bottom: var(--space-md);
+    opacity: 0.9;
+    line-height: 1.6;
+}
+
+.association-highlights {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-sm);
+}
+
+.highlight {
+    background: rgba(255, 215, 0, 0.2);
+    color: var(--accent-gold);
+    padding: var(--space-xs) var(--space-sm);
+    border-radius: 20px;
+    font-size: 0.875rem;
+    border: 1px solid rgba(255, 215, 0, 0.3);
+}
+
+@media (max-width: 1024px) {
+    .association-card.featured {
+        grid-column: span 1;
+    }
+    
+    .associations-grid {
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        grid-auto-rows: 350px;
+    }
+}
+
+@media (max-width: 768px) {
+    .associations-grid {
+        grid-template-columns: 1fr;
+        grid-auto-rows: 300px;
+    }
+}
+
