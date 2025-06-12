@@ -1,0 +1,69 @@
+/* 
+ * Marinas de España - Corrección Final de Títulos
+ * Solución definitiva para eliminar etiquetas literales en títulos
+ */
+
+/* Asegurar que los títulos se muestren correctamente */
+.section-title {
+  font-family: var(--font-primary);
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  position: relative;
+  display: inline-block;
+  text-align: center;
+}
+
+/* Estilo específico para los títulos */
+.title-word {
+  display: inline-block;
+  margin-right: 0.5rem;
+  transition: all 0.3s ease;
+  position: relative;
+  font-size: 2.5rem;
+  line-height: 1.2;
+}
+
+.title-word.golden {
+  color: var(--color-accent);
+  text-shadow: 0 2px 10px rgba(212, 175, 55, 0.2);
+}
+
+/* Asegurar que los títulos estén centrados */
+.section-header {
+  text-align: center;
+  width: 100%;
+}
+
+.section-title {
+  width: auto;
+  display: inline-block;
+  text-align: center;
+}
+
+/* Estilos específicos para patrocinadores */
+.sponsors-section .section-title .title-word.golden {
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Ajustes responsivos para títulos */
+@media (max-width: 768px) {
+  .section-title {
+    font-size: 2.2rem;
+  }
+  
+  .title-word {
+    font-size: 2.2rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .section-title {
+    font-size: 1.8rem;
+  }
+  
+  .title-word {
+    font-size: 1.8rem;
+    margin-right: 0.3rem;
+  }
+}
