@@ -19,6 +19,22 @@
     <link rel="stylesheet" href="css/title-fix-final-clean.css">
     <link rel="stylesheet" href="css/title-adjustments.css">
     <link rel="stylesheet" href="css/footer-contact-improvements.css">
+    
+    <!-- Script para forzar la reproducción del vídeo antes de que cargue la página -->
+    <script>
+        // Solución inmediata para la reproducción del vídeo
+        window.addEventListener('DOMContentLoaded', function() {
+            setTimeout(function() {
+                var video = document.getElementById('hero-video');
+                if (video) {
+                    video.muted = true;
+                    video.play().catch(function(error) {
+                        console.log('Error al reproducir el vídeo:', error);
+                    });
+                }
+            }, 100);
+        });
+    </script>
 </head>
 <body>
     <!-- Premium Loader -->
@@ -78,7 +94,7 @@
     <!-- Hero Ultra Premium -->
     <section class="hero-ultra" id="inicio">
        <div class="hero-video-bg">
-        <video class="hero-video" id="hero-video" autoplay muted playsinline>
+        <video class="hero-video" id="hero-video" autoplay muted playsinline loop>
             <source src="videos/nuevo-video-marinas.mp4" type="video/mp4">
         </video>
         <div class="hero-overlay"></div>
@@ -606,11 +622,48 @@
         <div class="cursor-outline"></div>
     </div>
 
+    <!-- Scripts -->
     <script src="js/marinas-espana-final.js"></script>
     <script src="js/force-display.js"></script>
     <script src="js/premium-effects.js"></script>
     <script src="js/title-cleaner-enhanced.js"></script>
     <script src="js/video-logo-transition.js"></script>
-    <script src="js/video-autoplay-fix.js"></script>
+    <script src="js/video-autoplay-aggressive.js"></script>
+    
+    <!-- Script final para garantizar la reproducción del vídeo -->
+    <script>
+        // Solución final para garantizar la reproducción del vídeo
+        window.addEventListener('load', function() {
+            // Esperar a que todo esté cargado
+            setTimeout(function() {
+                var video = document.getElementById('hero-video');
+                if (video) {
+                    // Asegurar que el vídeo esté visible
+                    video.style.opacity = '1';
+                    video.style.visibility = 'visible';
+                    
+                    // Forzar reproducción
+                    video.muted = true;
+                    video.play().catch(function(error) {
+                        console.log('Error en reproducción final:', error);
+                    });
+                    
+                    // Verificar periódicamente si el vídeo está pausado
+                    var checkInterval = setInterval(function() {
+                        if (video.paused) {
+                            video.play().catch(function() {});
+                        } else {
+                            clearInterval(checkInterval);
+                        }
+                    }, 1000);
+                    
+                    // Detener verificación después de 10 segundos
+                    setTimeout(function() {
+                        clearInterval(checkInterval);
+                    }, 10000);
+                }
+            }, 500);
+        });
+    </script>
 </body>
 </html>
