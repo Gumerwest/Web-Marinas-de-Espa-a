@@ -1,0 +1,103 @@
+/* 
+ * Marinas de España - Corrección Definitiva de Títulos
+ * Solución específica para eliminar etiquetas literales en títulos
+ */
+
+/* Ocultar completamente las etiquetas literales en títulos */
+.section-title::before,
+.section-title::after {
+  content: none !important;
+}
+
+/* Asegurar que los títulos se muestren correctamente */
+.section-title {
+  font-family: var(--font-primary);
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  position: relative;
+  display: inline-block;
+  text-align: center;
+}
+
+/* Eliminar cualquier contenido generado por pseudoelementos */
+.title-word::before,
+.title-word::after,
+.title-word.golden::before,
+.title-word.golden::after {
+  content: none !important;
+  display: none !important;
+}
+
+/* Estilo específico para los títulos */
+.title-word {
+  display: inline-block;
+  margin-right: 0.5rem;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.title-word.golden {
+  color: var(--color-accent);
+  text-shadow: 0 2px 10px rgba(212, 175, 55, 0.2);
+}
+
+/* Asegurar que no haya texto no deseado */
+.section-header {
+  overflow: hidden;
+}
+
+/* Solución específica para ocultar texto literal en títulos */
+h2.section-title span.title-word,
+h2.section-title span.title-word.golden {
+  font-size: 0;
+  line-height: 0;
+}
+
+h2.section-title span.title-word::after,
+h2.section-title span.title-word.golden::after {
+  content: attr(data-text) !important;
+  font-size: 2.5rem;
+  line-height: 1.2;
+  display: inline-block;
+}
+
+/* Añadir contenido específico para cada título */
+.news-section h2.section-title span.title-word:first-child::after {
+  content: "Últimas" !important;
+}
+
+.news-section h2.section-title span.title-word.golden::after {
+  content: "Noticias" !important;
+}
+
+.map-section h2.section-title span.title-word:first-child::after {
+  content: "Mapa" !important;
+}
+
+.map-section h2.section-title span.title-word.golden::after {
+  content: "Interactivo" !important;
+}
+
+.federation-section h2.section-title span.title-word:first-child::after {
+  content: "La" !important;
+}
+
+.federation-section h2.section-title span.title-word.golden::after {
+  content: "Federación" !important;
+}
+
+.sponsors-section h2.section-title span.title-word.golden::after {
+  content: "PATROCINADORES" !important;
+}
+
+/* Asegurar que los títulos estén centrados */
+.section-header {
+  text-align: center;
+  width: 100%;
+}
+
+.section-title {
+  width: auto;
+  display: inline-block;
+  text-align: center;
+}
