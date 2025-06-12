@@ -14,7 +14,7 @@
     <!-- Icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
-    <link rel="stylesheet" href="css/ultra-modern.css">
+    <link rel="stylesheet" href="css/marinas-espana-consolidated.css">
 </head>
 <body>
     <!-- Premium Loader -->
@@ -73,13 +73,12 @@
 
     <!-- Hero Ultra Premium -->
     <section class="hero-ultra" id="inicio">
-       <div class="hero-video-bg">
-        <video class="hero-video" id="hero-video" autoplay muted playsinline>
-            <source src="videos/nuevo-video-marinas.mp4" type="video/mp4">
-        </video>
+        <div class="hero-video-bg">
+            <video class="hero-video" id="hero-video" autoplay muted playsinline>
+                <source src="videos/nuevo-video-marinas.mp4" type="video/mp4">
+            </video>
+        </div>
         <div class="hero-overlay"></div>
-        <div class="particles-container"></div>
-    </div>
         
         <div class="logo-container" id="logo-container">
             <img src="images/logo-marinas-espana.jpeg" alt="Marinas de España" class="logo-image">
@@ -639,20 +638,9 @@
         </div>
     </footer>
 
-    <!-- Botón Scroll to Top -->
-    <div class="scroll-to-top" id="scrollToTop">
-        <i class="fas fa-arrow-up"></i>
-    </div>
-
-    <!-- Cursor Personalizado -->
-    <div class="cursor" id="cursor">
-        <div class="cursor-dot"></div>
-        <div class="cursor-outline"></div>
-    </div>
-
     <script src="js/marinas-espana-final.js"></script>
     <script src="js/force-display.js"></script>
-    <script src="js/premium-effects.js"></script>
+    <script src="js/video-logo-transition.js"></script>
 </body>
 </html>
 
