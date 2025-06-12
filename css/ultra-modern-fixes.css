@@ -1,0 +1,146 @@
+/* 
+ * Marinas de España - CSS Ultra Moderno con Correcciones Específicas
+ * Versión con transiciones fluidas y efectos visuales de última generación
+ * Ajustado para corregir títulos, cuadros de asociaciones y cifras del hero
+ */
+
+/* ===== CORRECCIONES PARA TÍTULOS ===== */
+/* Ocultar las etiquetas class="title-word" y class="title-word golden" */
+.section-title .title-word::before,
+.section-title .title-word.golden::before {
+  content: none !important;
+}
+
+/* Restaurar visualización correcta de títulos */
+.section-title {
+  font-family: var(--font-primary);
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  position: relative;
+  display: inline-block;
+}
+
+.title-word {
+  display: inline-block;
+  margin-right: 0.5rem;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.title-word.golden {
+  color: var(--color-accent);
+  text-shadow: 0 2px 10px rgba(212, 175, 55, 0.2);
+}
+
+/* ===== CORRECCIONES PARA CUADROS DE ASOCIACIONES ===== */
+/* Hacer que los cuadros de asociaciones sean cuadrados */
+.association-card {
+  background-color: #f8f9fa;
+  border-radius: var(--border-radius-md);
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+  transition: all 0.3s var(--transition-smooth);
+  height: auto;
+  aspect-ratio: 1/1; /* Forzar proporción cuadrada */
+  display: flex;
+  flex-direction: column;
+}
+
+.association-header {
+  display: flex;
+  align-items: center;
+  padding: 1.5rem;
+  background: var(--gradient-primary);
+  color: white;
+}
+
+.association-content {
+  padding: 1.5rem;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+/* ===== CORRECCIONES PARA CIFRAS DEL HERO ===== */
+/* Centrar las cifras del hero */
+.hero-stats {
+  position: absolute;
+  bottom: 5%;
+  left: 0;
+  right: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center; /* Centrar horizontalmente */
+  gap: 1.5rem;
+  z-index: 4;
+  animation: fadeInUp 1s ease-out 0.5s both;
+}
+
+.stat-card {
+  background: var(--gradient-glass);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  padding: 1rem 1.5rem;
+  border-radius: var(--border-radius-md);
+  text-align: center;
+  color: var(--color-light);
+  transition: all 0.3s var(--transition-smooth);
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  min-width: 120px; /* Ancho mínimo para evitar desalineaciones */
+}
+
+.stat-number {
+  font-family: var(--font-accent);
+  font-size: 2rem;
+  color: var(--color-accent);
+  display: block;
+  text-shadow: 0 2px 10px rgba(212, 175, 55, 0.5);
+  transition: transform 0.3s ease;
+  text-align: center; /* Asegurar centrado del texto */
+}
+
+.stat-label {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  opacity: 0.9;
+  text-align: center; /* Asegurar centrado del texto */
+}
+
+/* Ajustes responsivos para las cifras del hero */
+@media (max-width: 768px) {
+  .hero-stats {
+    flex-wrap: wrap;
+    bottom: 10%;
+    padding: 0 1rem;
+  }
+  
+  .stat-card {
+    flex: 1 1 calc(50% - 1rem);
+    min-width: 100px;
+    padding: 0.75rem 1rem;
+  }
+  
+  .stat-number {
+    font-size: 1.75rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .hero-stats {
+    bottom: 15%;
+  }
+  
+  .stat-card {
+    flex: 1 1 calc(50% - 0.5rem);
+    min-width: 80px;
+    padding: 0.5rem 0.75rem;
+  }
+  
+  .stat-number {
+    font-size: 1.5rem;
+  }
+}
