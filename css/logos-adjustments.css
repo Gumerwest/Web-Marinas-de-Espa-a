@@ -56,6 +56,11 @@
     background-color: white;
 }
 
+/* Ocultar completamente los overlays de texto */
+.sponsor-overlay {
+    display: none;
+}
+
 /* Mejora la transición al pasar el cursor */
 .sponsor-card img, 
 .reference-sponsor-card img {
@@ -65,4 +70,30 @@
 .sponsor-card:hover img, 
 .reference-sponsor-card:hover img {
     transform: scale(1.05);
+}
+
+/* Ajustes responsivos para dispositivos móviles */
+@media (max-width: 768px) {
+    .sponsors-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .reference-sponsors-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .sponsor-card {
+        height: 150px;
+    }
+}
+
+@media (max-width: 480px) {
+    .sponsors-grid .sponsor-card img,
+    .reference-sponsors-grid .reference-sponsor-card img {
+        max-height: 50px;
+    }
+    
+    .sponsor-card {
+        height: 120px;
+    }
 }
