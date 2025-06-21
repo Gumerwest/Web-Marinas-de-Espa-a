@@ -756,9 +756,12 @@ body {
 
 .federation-banners {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: var(--spacing-xl);
     margin-top: var(--spacing-3xl);
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .federation-banner {
