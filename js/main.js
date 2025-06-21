@@ -418,19 +418,33 @@ function initializeLazyLoading() {
                 if (entry.isIntersecting) {
                     const img = entry.target;
                     
-                    // Add fade-in effect
-                    img.style.opacity = '0';
-                    img.style.transition = 'opacity 0.3s ease-in-out';
-                    
-                    img.addEventListener('load', function() {
+                    // Check if image is already loaded
+                    if (img.complete && img.naturalHeight !== 0) {
+                        // Image is already loaded, show it immediately
                         img.style.opacity = '1';
-                    });
-                    
-                    // Handle error case
-                    img.addEventListener('error', function() {
-                        img.style.opacity = '1';
-                        console.log('Image failed to load:', img.src);
-                    });
+                        img.style.transition = 'opacity 0.3s ease-in-out';
+                    } else {
+                        // Image not loaded yet, set up fade-in effect
+                        img.style.opacity = '0';
+                        img.style.transition = 'opacity 0.3s ease-in-out';
+                        
+                        img.addEventListener('load', function() {
+                            img.style.opacity = '1';
+                        });
+                        
+                        // Handle error case
+                        img.addEventListener('error', function() {
+                            img.style.opacity = '1';
+                            console.log('Image failed to load:', img.src);
+                        });
+                        
+                        // Fallback: show image after 1 second regardless
+                        setTimeout(() => {
+                            if (img.style.opacity === '0') {
+                                img.style.opacity = '1';
+                            }
+                        }, 1000);
+                    }
                     
                     imageObserver.unobserve(img);
                 }
@@ -439,6 +453,11 @@ function initializeLazyLoading() {
         
         images.forEach(img => {
             imageObserver.observe(img);
+        });
+    } else {
+        // Fallback for browsers without IntersectionObserver
+        images.forEach(img => {
+            img.style.opacity = '1';
         });
     }
 }
