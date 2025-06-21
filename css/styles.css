@@ -543,6 +543,12 @@ body {
     transition: all var(--transition-normal);
 }
 
+/* Hacer el logo de Pandora un poco más grande */
+.sponsor-item img[alt="Pandora Global"] {
+    max-width: 115%;
+    max-height: 115%;
+}
+
 .sponsor-item:hover img {
     transform: scale(1.05);
 }
