@@ -301,30 +301,11 @@
         });
     }
     
-    // ===== ANIMACIÓN DE TEXTO DINÁMICO =====
+    // ===== ANIMACIÓN DE TEXTO DINÁMICO (DESHABILITADO) =====
     function initTextAnimations() {
-        const animatedTexts = document.querySelectorAll('.hero-title, .section-title');
-        
-        animatedTexts.forEach(text => {
-            const words = text.innerHTML.split(' ');
-            text.innerHTML = words.map(word => `<span class="animated-word">${word}</span>`).join(' ');
-        });
-        
-        const animatedWords = document.querySelectorAll('.animated-word');
-        
-        const wordObserver = new IntersectionObserver((entries) => {
-            entries.forEach((entry, index) => {
-                if (entry.isIntersecting) {
-                    setTimeout(() => {
-                        entry.target.style.animation = 'fadeInUp 0.6s ease-out forwards';
-                    }, index * 100);
-                }
-            });
-        }, { threshold: 0.5 });
-        
-        animatedWords.forEach(word => {
-            wordObserver.observe(word);
-        });
+        // FUNCIÓN DESHABILITADA - CAUSABA PROBLEMAS CON LOS TÍTULOS HTML
+        // Los títulos ahora mantienen su estructura HTML original
+        console.log('Animaciones de texto deshabilitadas para preservar estructura HTML');
     }
     
     // ===== FORMULARIO INTERACTIVO =====
