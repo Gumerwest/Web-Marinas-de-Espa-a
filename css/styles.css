@@ -734,72 +734,123 @@ body {
 
 .map-cta {
     margin-top: var(--spacing-xl);
+    text-align: center;
 }
 
 /* ===== FEDERATION SECTION ===== */
 .federation-section {
-    padding: var(--spacing-3xl) 0;
-    background: var(--light-color);
+    padding: var(--spacing-4xl) 0;
+    background: var(--light-bg);
 }
 
-.federation-content {
-    max-width: 800px;
-    margin: 0 auto;
-    text-align: center;
-}
-
-.federation-description {
+.federation-intro {
     font-size: var(--font-size-lg);
     color: var(--gray-600);
     margin-bottom: var(--spacing-3xl);
     line-height: 1.7;
+    text-align: center;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.federation-features {
+.federation-banners {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: var(--spacing-xl);
     margin-top: var(--spacing-3xl);
 }
 
-.feature-item {
+.federation-banner {
     display: flex;
-    align-items: flex-start;
+    align-items: center;
     gap: var(--spacing-lg);
-    text-align: left;
     padding: var(--spacing-xl);
     background: var(--white);
-    border-radius: var(--radius-lg);
+    border-radius: var(--radius-xl);
     box-shadow: var(--shadow-sm);
     transition: all var(--transition-normal);
+    text-decoration: none;
+    color: inherit;
+    border: 2px solid transparent;
 }
 
-.feature-item:hover {
-    transform: translateY(-3px);
-    box-shadow: var(--shadow-md);
+.federation-banner:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-xl);
+    border-color: var(--primary-color);
+    text-decoration: none;
+    color: inherit;
 }
 
-.feature-item i {
-    color: var(--primary-color);
-    font-size: var(--font-size-2xl);
-    margin-top: var(--spacing-xs);
+.banner-icon {
+    flex-shrink: 0;
+    width: 60px;
+    height: 60px;
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    border-radius: var(--radius-lg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--white);
+    font-size: var(--font-size-xl);
 }
 
-.feature-item h4 {
+.banner-content {
+    flex: 1;
+}
+
+.banner-content h3 {
     font-size: var(--font-size-lg);
     font-weight: 600;
     color: var(--dark-color);
     margin-bottom: var(--spacing-sm);
 }
 
-.feature-item p {
+.banner-content p {
     color: var(--gray-600);
     line-height: 1.6;
+    font-size: var(--font-size-md);
 }
 
-/* ===== ASSOCIATIONS SECTION ===== */
-.associations-section {
-    padding: var(--spacing-3xl) 0;
+.banner-arrow {
+    flex-shrink: 0;
+    color: var(--primary-color);
+    font-size: var(--font-size-lg);
+    transition: transform var(--transition-normal);
+}
+
+.federation-banner:hover .banner-arrow {
+    transform: translateX(5px);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .federation-banners {
+        grid-template-columns: 1fr;
+        gap: var(--spacing-lg);
+    }
+    
+    .federation-banner {
+        padding: var(--spacing-lg);
+    }
+    
+    .banner-icon {
+        width: 50px;
+        height: 50px;
+        font-size: var(--font-size-lg);
+    }
+    
+    .banner-content h3 {
+        font-size: var(--font-size-md);
+    }
+    
+    .banner-content p {
+        font-size: var(--font-size-sm);
+    }
+}
+
+/* ===== ASSOCIATIONS SECTION ===== */    padding: var(--spacing-3xl) 0;
     background: var(--white);
 }
 
