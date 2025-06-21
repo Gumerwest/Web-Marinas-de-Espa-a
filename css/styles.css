@@ -500,6 +500,8 @@ body {
     overflow: hidden;
     box-shadow: var(--shadow-xl);
     background: transparent;
+    line-height: 0;
+    font-size: 0;
 }
 
 .congress-image img {
@@ -510,6 +512,9 @@ body {
     object-fit: cover;
     transition: transform var(--transition-slow);
     display: block;
+    vertical-align: top;
+    margin: 0;
+    padding: 0;
 }
 
 .congress-image:hover img {
