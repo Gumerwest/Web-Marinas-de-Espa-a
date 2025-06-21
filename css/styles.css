@@ -473,7 +473,6 @@ body {
 
 .congress-image {
     position: relative;
-    border-radius: var(--radius-xl);
     overflow: hidden;
     box-shadow: var(--shadow-xl);
 }
