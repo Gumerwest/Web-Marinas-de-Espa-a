@@ -648,54 +648,45 @@ if (typeof module !== 'undefined' && module.exports) {
 
 // ===== MAGAZINE DROPDOWN =====
 function initializeMagazineDropdown() {
+    console.log('Initializing magazine dropdown...');
+    
     const magazineBanner = document.getElementById('magazine-banner');
     const magazineDropdown = document.getElementById('magazine-dropdown');
     
-    if (!magazineBanner || !magazineDropdown) return;
+    console.log('Magazine banner:', magazineBanner);
+    console.log('Magazine dropdown:', magazineDropdown);
+    
+    if (!magazineBanner || !magazineDropdown) {
+        console.log('Magazine elements not found');
+        return;
+    }
     
     // Toggle dropdown on banner click
     magazineBanner.addEventListener('click', function(e) {
+        console.log('Magazine banner clicked');
         e.preventDefault();
         e.stopPropagation();
         
         const isActive = magazineBanner.classList.contains('active');
+        console.log('Is active:', isActive);
         
-        // Close all other dropdowns first
-        closeAllDropdowns();
-        
-        if (!isActive) {
+        if (isActive) {
+            magazineBanner.classList.remove('active');
+            magazineDropdown.classList.remove('show');
+        } else {
             magazineBanner.classList.add('active');
             magazineDropdown.classList.add('show');
         }
     });
     
-    // Handle clicks on dropdown options
-    const magazineOptions = magazineDropdown.querySelectorAll('.magazine-option');
-    magazineOptions.forEach(option => {
-        option.addEventListener('click', function(e) {
-            e.stopPropagation();
-            // Let the link work normally
-            closeAllDropdowns();
-        });
-    });
-    
     // Close dropdown when clicking outside
     document.addEventListener('click', function(e) {
         if (!magazineBanner.contains(e.target)) {
-            closeAllDropdowns();
+            magazineBanner.classList.remove('active');
+            magazineDropdown.classList.remove('show');
         }
     });
     
-    // Close dropdown on escape key
-    document.addEventListener('keydown', function(e) {
-        if (e.key === 'Escape') {
-            closeAllDropdowns();
-        }
-    });
-    
-    function closeAllDropdowns() {
-        magazineBanner.classList.remove('active');
-        magazineDropdown.classList.remove('show');
-    }
+    console.log('Magazine dropdown initialized successfully');
 }
 
