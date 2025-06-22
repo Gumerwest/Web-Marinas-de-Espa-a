@@ -3037,13 +3037,14 @@ textarea:focus {
     background: var(--white);
     border: 1px solid var(--gray-200);
     border-radius: var(--radius-lg);
-    box-shadow: var(--shadow-lg);
+    box-shadow: var(--shadow-xl);
     opacity: 0;
     visibility: hidden;
     transform: translateY(-10px);
     transition: all var(--transition-normal);
-    z-index: var(--z-dropdown);
+    z-index: 1000;
     margin-top: var(--spacing-sm);
+    margin-bottom: var(--spacing-xl);
 }
 
 .magazine-dropdown.show {
@@ -3071,6 +3072,11 @@ textarea:focus {
 
 .magazine-option:first-child {
     border-bottom: 1px solid var(--gray-200);
+    border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+}
+
+.magazine-option:last-child {
+    border-radius: 0 0 var(--radius-lg) var(--radius-lg);
 }
 
 .magazine-option i {
@@ -3085,5 +3091,10 @@ textarea:focus {
 
 .magazine-option:hover i {
     color: var(--primary-color);
+}
+
+/* Add spacing to federation section to accommodate dropdown */
+.federation-section {
+    padding-bottom: calc(var(--spacing-3xl) + 120px);
 }
 

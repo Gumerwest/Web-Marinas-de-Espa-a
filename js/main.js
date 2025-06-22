@@ -669,6 +669,16 @@ function initializeMagazineDropdown() {
         }
     });
     
+    // Handle clicks on dropdown options
+    const magazineOptions = magazineDropdown.querySelectorAll('.magazine-option');
+    magazineOptions.forEach(option => {
+        option.addEventListener('click', function(e) {
+            e.stopPropagation();
+            // Let the link work normally
+            closeAllDropdowns();
+        });
+    });
+    
     // Close dropdown when clicking outside
     document.addEventListener('click', function(e) {
         if (!magazineBanner.contains(e.target)) {
