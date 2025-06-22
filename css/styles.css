@@ -2409,9 +2409,9 @@ textarea:focus {
 .executive-title {
     font-size: var(--font-size-sm);
     font-weight: 600;
-    color: var(--primary-color);
+    color: var(--secondary-color);
     text-transform: uppercase;
-    letter-spacing: 1px;
+    letter-spacing: 0.5px;
     margin-bottom: var(--spacing-md);
 }
 
