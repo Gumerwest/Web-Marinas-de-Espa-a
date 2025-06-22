@@ -2409,7 +2409,7 @@ textarea:focus {
 .executive-title {
     font-size: var(--font-size-sm);
     font-weight: 600;
-    color: var(--secondary-color);
+    color: var(--primary-color);
     text-transform: uppercase;
     letter-spacing: 0.5px;
     margin-bottom: var(--spacing-md);
@@ -2475,7 +2475,7 @@ textarea:focus {
 .vocal-title {
     font-size: var(--font-size-xs);
     font-weight: 600;
-    color: var(--secondary-color);
+    color: var(--primary-color);
     text-transform: uppercase;
     letter-spacing: 1px;
     margin-bottom: var(--spacing-md);
