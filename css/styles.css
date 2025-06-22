@@ -1538,7 +1538,7 @@ textarea:focus {
     font-size: var(--font-size-lg);
     line-height: 1.8;
     color: var(--gray-700);
-    padding-top: 100px; /* Añadir espacio superior para evitar superposición con el menú */
+    padding-top: 140px; /* Aumentar espacio superior para evitar cualquier superposición con el menú */
 }
 
 .article-content h2 {
