@@ -12,6 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
     initializeBackToTop();
     initializeLazyLoading();
     initializeScrollEffects();
+    initializeMagazineDropdown();
 });
 
 // ===== LOADING SCREEN =====
@@ -642,5 +643,49 @@ if (typeof module !== 'undefined' && module.exports) {
         validateField,
         showNotification
     };
+}
+
+
+// ===== MAGAZINE DROPDOWN =====
+function initializeMagazineDropdown() {
+    const magazineBanner = document.getElementById('magazine-banner');
+    const magazineDropdown = document.getElementById('magazine-dropdown');
+    
+    if (!magazineBanner || !magazineDropdown) return;
+    
+    // Toggle dropdown on banner click
+    magazineBanner.addEventListener('click', function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        
+        const isActive = magazineBanner.classList.contains('active');
+        
+        // Close all other dropdowns first
+        closeAllDropdowns();
+        
+        if (!isActive) {
+            magazineBanner.classList.add('active');
+            magazineDropdown.classList.add('show');
+        }
+    });
+    
+    // Close dropdown when clicking outside
+    document.addEventListener('click', function(e) {
+        if (!magazineBanner.contains(e.target)) {
+            closeAllDropdowns();
+        }
+    });
+    
+    // Close dropdown on escape key
+    document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape') {
+            closeAllDropdowns();
+        }
+    });
+    
+    function closeAllDropdowns() {
+        magazineBanner.classList.remove('active');
+        magazineDropdown.classList.remove('show');
+    }
 }
 

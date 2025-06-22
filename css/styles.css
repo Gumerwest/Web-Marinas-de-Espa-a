@@ -3014,3 +3014,76 @@ textarea:focus {
     margin-bottom: var(--spacing-md);
 }
 
+
+/* Magazine Dropdown Styles */
+.magazine-banner {
+    position: relative;
+    cursor: pointer;
+}
+
+.magazine-banner .banner-arrow i {
+    transition: transform var(--transition-normal);
+}
+
+.magazine-banner.active .banner-arrow i {
+    transform: rotate(180deg);
+}
+
+.magazine-dropdown {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: var(--white);
+    border: 1px solid var(--gray-200);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-lg);
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-10px);
+    transition: all var(--transition-normal);
+    z-index: var(--z-dropdown);
+    margin-top: var(--spacing-sm);
+}
+
+.magazine-dropdown.show {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+
+.magazine-option {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-md);
+    padding: var(--spacing-lg);
+    text-decoration: none;
+    color: var(--gray-700);
+    transition: all var(--transition-fast);
+    border-radius: var(--radius-lg);
+}
+
+.magazine-option:hover {
+    background: var(--gray-100);
+    color: var(--primary-color);
+    transform: translateX(5px);
+}
+
+.magazine-option:first-child {
+    border-bottom: 1px solid var(--gray-200);
+}
+
+.magazine-option i {
+    color: var(--secondary-color);
+    font-size: var(--font-size-lg);
+}
+
+.magazine-option span {
+    font-weight: 500;
+    font-size: var(--font-size-base);
+}
+
+.magazine-option:hover i {
+    color: var(--primary-color);
+}
+
