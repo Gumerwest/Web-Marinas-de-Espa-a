@@ -2651,20 +2651,82 @@ textarea:focus {
     text-decoration: underline;
 }
 
+/* New organized structure for association cards */
+.association-card {
+    background: var(--white);
+    border-radius: var(--radius-xl);
+    padding: var(--spacing-xl);
+    box-shadow: var(--shadow-sm);
+    transition: all var(--transition-normal);
+    border: 1px solid var(--gray-200);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.association-card:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-lg);
+    border-color: var(--secondary-color);
+}
+
+.association-logo {
+    margin-bottom: var(--spacing-lg);
+}
+
+.association-content {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: var(--spacing-lg);
+}
+
+.association-region-top {
+    display: inline-block;
+    background: var(--primary-color);
+    color: var(--white);
+    padding: var(--spacing-sm) var(--spacing-lg);
+    border-radius: var(--radius-sm);
+    font-size: var(--font-size-md);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: var(--spacing-md);
+}
+
+.association-content h3 {
+    margin: var(--spacing-md) 0;
+    flex-grow: 0;
+}
+
+.association-description {
+    color: var(--gray-600);
+    margin-bottom: 0;
+    line-height: 1.5;
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
 .ports-button {
     display: inline-flex;
     align-items: center;
+    justify-content: center;
     gap: var(--spacing-xs);
     background: var(--secondary-color);
     color: var(--white);
-    padding: var(--spacing-sm) var(--spacing-md);
+    padding: var(--spacing-md) var(--spacing-lg);
     border-radius: var(--radius-md);
     text-decoration: none;
     font-size: var(--font-size-sm);
     font-weight: 500;
-    margin-top: var(--spacing-md);
     transition: all var(--transition-fast);
     border: 2px solid var(--secondary-color);
+    margin-top: auto;
+    width: 100%;
 }
 
 .ports-button:hover {
@@ -2676,23 +2738,5 @@ textarea:focus {
 
 .ports-button i {
     font-size: var(--font-size-sm);
-}
-
-/* Update association card to remove hover effects since it's no longer a link */
-.association-card {
-    background: var(--white);
-    border-radius: var(--radius-xl);
-    padding: var(--spacing-xl);
-    box-shadow: var(--shadow-sm);
-    transition: all var(--transition-normal);
-    border: 1px solid var(--gray-200);
-    text-align: center;
-    display: block;
-}
-
-.association-card:hover {
-    transform: translateY(-3px);
-    box-shadow: var(--shadow-lg);
-    border-color: var(--secondary-color);
 }
 
