@@ -2349,7 +2349,7 @@ textarea:focus {
 
 .executive-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-template-columns: repeat(4, 1fr);
     gap: var(--spacing-xl);
     margin-top: var(--spacing-3xl);
 }
@@ -2415,7 +2415,7 @@ textarea:focus {
 
 .vocales-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-template-columns: repeat(4, 1fr);
     gap: var(--spacing-xl);
     margin-top: var(--spacing-3xl);
 }
@@ -2476,6 +2476,14 @@ textarea:focus {
 }
 
 /* Responsive adjustments */
+@media (max-width: 1024px) {
+    .executive-grid,
+    .vocales-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: var(--spacing-lg);
+    }
+}
+
 @media (max-width: 768px) {
     .page-title {
         font-size: var(--font-size-2xl);
@@ -2485,11 +2493,7 @@ textarea:focus {
         font-size: var(--font-size-md);
     }
     
-    .executive-grid {
-        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-        gap: var(--spacing-lg);
-    }
-    
+    .executive-grid,
     .vocales-grid {
         grid-template-columns: 1fr;
         gap: var(--spacing-lg);
@@ -2512,10 +2516,6 @@ textarea:focus {
 }
 
 @media (max-width: 480px) {
-    .executive-grid {
-        grid-template-columns: 1fr;
-    }
-    
     .executive-photo {
         width: 80px;
         height: 80px;
