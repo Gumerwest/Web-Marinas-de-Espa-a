@@ -1091,6 +1091,8 @@ body {
 .footer-logo img {
     height: 40px;
     width: auto;
+    max-width: 200px;
+    object-fit: contain;
 }
 
 .footer-logo span {
@@ -1538,7 +1540,7 @@ textarea:focus {
     font-size: var(--font-size-lg);
     line-height: 1.8;
     color: var(--gray-700);
-    padding-top: 180px; /* Aumentar aún más el espacio superior para evitar cualquier superposición */
+    padding-top: 250px; /* Aumentar drásticamente el espacio superior */
 }
 
 .article-content h2 {
@@ -2943,9 +2945,11 @@ textarea:focus {
 
 /* Back Navigation Button */
 .back-navigation {
-    margin-top: var(--spacing-3xl);
-    margin-bottom: var(--spacing-2xl);
+    margin-top: 80px;
+    margin-bottom: 60px;
     text-align: center;
+    padding-top: 40px;
+    border-top: 1px solid var(--gray-200);
 }
 
 .back-navigation .btn {
