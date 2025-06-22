@@ -2916,11 +2916,6 @@ textarea:focus {
     letter-spacing: 0.5px;
 }
 
-.back-navigation {
-    margin-top: var(--spacing-4xl);
-    text-align: center;
-}
-
 /* Responsive adjustments */
 @media (max-width: 768px) {
     .article-title {
