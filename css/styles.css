@@ -1538,7 +1538,7 @@ textarea:focus {
     font-size: var(--font-size-lg);
     line-height: 1.8;
     color: var(--gray-700);
-    padding-top: 140px; /* Aumentar espacio superior para evitar cualquier superposición con el menú */
+    padding-top: 180px; /* Aumentar aún más el espacio superior para evitar cualquier superposición */
 }
 
 .article-content h2 {
@@ -2937,5 +2937,34 @@ textarea:focus {
     .stat-number {
         font-size: var(--font-size-2xl);
     }
+}
+
+
+
+/* Back Navigation Button */
+.back-navigation {
+    margin-top: var(--spacing-3xl);
+    margin-bottom: var(--spacing-2xl);
+    text-align: center;
+}
+
+.back-navigation .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--spacing-sm);
+    background-color: var(--primary-color);
+    color: var(--white);
+    padding: var(--spacing-md) var(--spacing-xl);
+    border-radius: var(--radius-lg);
+    text-decoration: none;
+    font-weight: 500;
+    transition: var(--transition-normal);
+    box-shadow: var(--shadow-md);
+}
+
+.back-navigation .btn:hover {
+    background-color: var(--secondary-color);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-lg);
 }
 
