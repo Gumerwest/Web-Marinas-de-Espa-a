@@ -2638,3 +2638,61 @@ textarea:focus {
     }
 }
 
+
+/* Association Links and Ports Button Styles */
+.association-link {
+    color: var(--dark-color);
+    text-decoration: none;
+    transition: color var(--transition-fast);
+}
+
+.association-link:hover {
+    color: var(--primary-color);
+    text-decoration: underline;
+}
+
+.ports-button {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--spacing-xs);
+    background: var(--secondary-color);
+    color: var(--white);
+    padding: var(--spacing-sm) var(--spacing-md);
+    border-radius: var(--radius-md);
+    text-decoration: none;
+    font-size: var(--font-size-sm);
+    font-weight: 500;
+    margin-top: var(--spacing-md);
+    transition: all var(--transition-fast);
+    border: 2px solid var(--secondary-color);
+}
+
+.ports-button:hover {
+    background: var(--white);
+    color: var(--secondary-color);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.ports-button i {
+    font-size: var(--font-size-sm);
+}
+
+/* Update association card to remove hover effects since it's no longer a link */
+.association-card {
+    background: var(--white);
+    border-radius: var(--radius-xl);
+    padding: var(--spacing-xl);
+    box-shadow: var(--shadow-sm);
+    transition: all var(--transition-normal);
+    border: 1px solid var(--gray-200);
+    text-align: center;
+    display: block;
+}
+
+.association-card:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-lg);
+    border-color: var(--secondary-color);
+}
+
