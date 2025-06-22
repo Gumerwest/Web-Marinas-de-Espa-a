@@ -755,8 +755,8 @@ body {
 }
 
 .federation-banners {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    display: grid !important;
+    grid-template-columns: repeat(3, 1fr) !important;
     gap: var(--spacing-xl);
     margin-top: var(--spacing-3xl);
     max-width: 1200px;
@@ -776,6 +776,8 @@ body {
     text-decoration: none;
     color: inherit;
     border: 2px solid transparent;
+    width: 100%;
+    box-sizing: border-box;
 }
 
 .federation-banner:hover {
