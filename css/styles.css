@@ -3095,6 +3095,6 @@ textarea:focus {
 
 /* Add spacing to federation section to accommodate dropdown */
 .federation-section {
-    padding-bottom: calc(var(--spacing-3xl) + 120px);
+    padding-bottom: calc(var(--spacing-3xl) + 60px);
 }
 
