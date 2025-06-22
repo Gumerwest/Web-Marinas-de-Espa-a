@@ -2527,3 +2527,112 @@ textarea:focus {
     }
 }
 
+
+/* Regional Presidents Styles */
+.regional-presidents {
+    padding: var(--spacing-4xl) 0;
+    background: var(--light-bg);
+}
+
+.presidents-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: var(--spacing-xl);
+    margin-top: var(--spacing-3xl);
+}
+
+.president-card {
+    background: var(--white);
+    border-radius: var(--radius-xl);
+    padding: var(--spacing-xl);
+    box-shadow: var(--shadow-sm);
+    transition: all var(--transition-normal);
+    border: 1px solid var(--gray-200);
+    text-align: center;
+}
+
+.president-card:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-lg);
+    border-color: var(--secondary-color);
+}
+
+.president-photo {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto var(--spacing-lg);
+    border-radius: 50%;
+    overflow: hidden;
+    border: 3px solid var(--secondary-color);
+}
+
+.president-photo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.president-name {
+    font-size: var(--font-size-lg);
+    font-weight: 600;
+    color: var(--dark-color);
+    margin-bottom: var(--spacing-xs);
+}
+
+.president-association {
+    font-size: var(--font-size-sm);
+    font-weight: 600;
+    color: var(--secondary-color);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: var(--spacing-md);
+}
+
+.president-bio {
+    color: var(--gray-600);
+    line-height: 1.6;
+    font-size: var(--font-size-sm);
+    text-align: left;
+}
+
+/* Executive association style */
+.executive-association {
+    font-size: var(--font-size-xs);
+    font-weight: 500;
+    color: var(--secondary-color);
+    font-style: italic;
+    margin-bottom: var(--spacing-sm);
+}
+
+/* Update responsive for new structure */
+@media (max-width: 1024px) {
+    .executive-grid,
+    .presidents-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: var(--spacing-lg);
+    }
+    
+    .vocales-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: var(--spacing-lg);
+    }
+}
+
+@media (max-width: 768px) {
+    .executive-grid,
+    .presidents-grid,
+    .vocales-grid {
+        grid-template-columns: 1fr;
+        gap: var(--spacing-lg);
+    }
+    
+    .president-photo {
+        width: 80px;
+        height: 80px;
+    }
+    
+    .president-card {
+        padding: var(--spacing-lg);
+    }
+}
+
