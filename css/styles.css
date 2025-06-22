@@ -380,6 +380,7 @@ body {
     font-size: var(--font-size-3xl);
     font-weight: 700;
     text-align: center;
+    margin-top: var(--spacing-3xl);
     margin-bottom: var(--spacing-3xl);
     color: var(--dark-color);
 }
