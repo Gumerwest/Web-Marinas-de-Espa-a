@@ -2418,7 +2418,7 @@ textarea:focus {
 .executive-bio {
     color: var(--gray-600);
     line-height: 1.6;
-    font-size: var(--font-size-md);
+    font-size: var(--font-size-sm);
 }
 
 /* Vocales Board Styles */
@@ -3001,5 +3001,15 @@ textarea:focus {
     max-width: 800px !important;
     margin-left: auto !important;
     margin-right: auto !important;
+}
+
+
+.vocal-association {
+    font-size: var(--font-size-sm);
+    font-weight: 600;
+    color: var(--secondary-color);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: var(--spacing-md);
 }
 
