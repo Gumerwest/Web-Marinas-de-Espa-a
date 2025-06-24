@@ -3244,3 +3244,91 @@ textarea:focus {
     }
 }
 
+/* ===== ANDALUCIA SPECIAL STYLING ===== */
+
+.andalucia-special .association-logo {
+    width: 160px !important;
+    height: 120px !important;
+    flex-shrink: 0 !important;
+    background: transparent !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    padding: 0 !important;
+}
+
+.andalucia-special .association-logo img {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: contain !important;
+    border-radius: 0 !important;
+    border: none !important;
+}
+
+.andalucia-special {
+    background: linear-gradient(135deg, #f8fafc 0%, #ffffff 100%) !important;
+    border: 2px solid #e2e8f0 !important;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1) !important;
+}
+
+.andalucia-special:hover {
+    transform: translateY(-5px) !important;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15) !important;
+}
+
+@media (max-width: 768px) {
+    .andalucia-special .association-logo {
+        width: 120px !important;
+        height: 90px !important;
+    }
+    
+    .andalucia-special .association-logo img {
+        width: 100% !important;
+        height: 100% !important;
+    }
+}
+
+/* ===== GALICIA SPECIAL STYLING ===== */
+
+.galicia-special .association-logo {
+    width: 160px !important;
+    height: 120px !important;
+    flex-shrink: 0 !important;
+    background: transparent !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    padding: 0 !important;
+}
+
+.galicia-special .association-logo img {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: contain !important;
+    border-radius: 0 !important;
+    border: none !important;
+}
+
+.galicia-special {
+    background: linear-gradient(135deg, #f8fafc 0%, #ffffff 100%) !important;
+    border: 2px solid #e2e8f0 !important;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1) !important;
+}
+
+.galicia-special:hover {
+    transform: translateY(-5px) !important;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15) !important;
+}
+
+@media (max-width: 768px) {
+    .galicia-special .association-logo {
+        width: 120px !important;
+        height: 90px !important;
+    }
+    
+    .galicia-special .association-logo img {
+        width: 100% !important;
+        height: 100% !important;
+    }
+}
+
