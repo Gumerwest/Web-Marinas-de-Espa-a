@@ -7,76 +7,44 @@
     <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
-        :root {
-            --primary-blue: #1e3a8a;
-            --secondary-blue: #3b82f6;
-            --accent-gold: #fbbf24;
-            --light-gray: #f8fafc;
-            --gray-100: #f1f5f9;
-            --gray-200: #e2e8f0;
-            --gray-600: #475569;
-            --gray-800: #1e293b;
-            --white: #ffffff;
-        }
-
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            line-height: 1.6;
-            color: var(--gray-800);
-            background: linear-gradient(135deg, var(--light-gray) 0%, var(--gray-100) 100%);
-            min-height: 100vh;
-        }
-
-        .hero-section {
-            background: linear-gradient(135deg, var(--primary-blue) 0%, var(--secondary-blue) 100%);
-            color: var(--white);
-            padding: 4rem 0;
+        .ports-hero {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            color: white;
+            padding: 120px 0 80px;
             text-align: center;
             position: relative;
             overflow: hidden;
         }
 
-        .hero-section::before {
+        .ports-hero::before {
             content: '';
             position: absolute;
             top: 0;
             left: 0;
             right: 0;
             bottom: 0;
-            background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><pattern id="anchor" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse"><text x="10" y="15" text-anchor="middle" fill="rgba(255,255,255,0.1)" font-size="12">⚓</text></pattern></defs><rect width="100" height="100" fill="url(%23anchor)"/></svg>');
+            background: url('images/hero-bg.jpg') center/cover;
             opacity: 0.1;
-        }
-
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 2rem;
-            position: relative;
             z-index: 1;
         }
 
-        .hero-title {
-            font-size: 3rem;
-            font-weight: 700;
-            margin-bottom: 1rem;
-            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        .ports-hero .container {
+            position: relative;
+            z-index: 2;
         }
 
-        .hero-subtitle {
+        .ports-hero h1 {
+            font-size: 3.5rem;
+            font-weight: 800;
+            margin-bottom: 1rem;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .ports-hero .subtitle {
             font-size: 1.25rem;
             opacity: 0.9;
             max-width: 600px;
             margin: 0 auto;
-        }
-
-        .ports-section {
-            padding: 4rem 0;
         }
 
         .zone-section {
@@ -86,7 +54,7 @@
         .zone-title {
             font-size: 2rem;
             font-weight: 600;
-            color: var(--primary-blue);
+            color: var(--primary-color);
             text-align: center;
             margin-bottom: 2rem;
             position: relative;
@@ -101,7 +69,7 @@
             transform: translateX(-50%);
             width: 80px;
             height: 3px;
-            background: linear-gradient(90deg, var(--accent-gold), var(--secondary-blue));
+            background: linear-gradient(90deg, var(--gold-color), var(--accent-color));
             border-radius: 2px;
         }
 
@@ -109,37 +77,45 @@
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
             gap: 2rem;
-            margin-top: 2rem;
+            padding: 2rem 0;
         }
 
         .port-card {
-            background: var(--white);
+            background: white;
             border-radius: 16px;
             padding: 2rem;
-            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+            box-shadow: 0 4px 20px rgba(0,0,0,0.08);
             transition: all 0.3s ease;
             border: 1px solid var(--gray-200);
+            position: relative;
+            overflow: hidden;
             display: flex;
             flex-direction: column;
             height: 100%;
         }
 
+        .port-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, var(--gold-color), var(--accent-color));
+        }
+
         .port-card:hover {
             transform: translateY(-8px);
-            box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
-            border-color: var(--secondary-blue);
+            box-shadow: 0 12px 40px rgba(0,0,0,0.15);
         }
 
         .port-name {
             font-size: 1.5rem;
-            font-weight: 600;
-            color: var(--primary-blue);
+            font-weight: 700;
+            color: var(--dark-color);
             margin-bottom: 1.5rem;
-            text-align: center;
+            line-height: 1.3;
             flex-grow: 1;
-            display: flex;
-            align-items: center;
-            justify-content: center;
         }
 
         .port-links {
@@ -152,34 +128,35 @@
         .port-link {
             display: flex;
             align-items: center;
-            justify-content: center;
-            gap: 0.75rem;
-            padding: 1rem 1.5rem;
+            padding: 0.75rem 1rem;
             border-radius: 12px;
             text-decoration: none;
-            font-weight: 500;
             transition: all 0.3s ease;
+            font-weight: 500;
             border: 2px solid transparent;
         }
 
         .port-link.website {
-            background: linear-gradient(135deg, var(--secondary-blue), var(--primary-blue));
-            color: var(--white);
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            color: white;
         }
 
         .port-link.website:hover {
-            background: linear-gradient(135deg, var(--primary-blue), var(--secondary-blue));
-            transform: scale(1.02);
+            transform: translateX(4px);
+            box-shadow: 0 4px 12px rgba(30, 58, 138, 0.3);
         }
 
         .port-link.maps {
-            background: linear-gradient(135deg, var(--accent-gold), #f59e0b);
-            color: var(--gray-800);
+            background: var(--gray-100);
+            color: var(--gray-700);
+            border-color: var(--gray-200);
         }
 
         .port-link.maps:hover {
-            background: linear-gradient(135deg, #f59e0b, var(--accent-gold));
-            transform: scale(1.02);
+            background: var(--gold-color);
+            color: white;
+            border-color: var(--gold-color);
+            transform: translateX(4px);
         }
 
         .port-link.disabled {
@@ -195,6 +172,7 @@
         }
 
         .port-link i {
+            margin-right: 0.75rem;
             font-size: 1.1rem;
         }
 
@@ -205,28 +183,9 @@
             margin-top: 2rem;
         }
 
-        .back-link {
-            display: inline-flex;
-            align-items: center;
-            gap: 0.75rem;
-            padding: 1rem 2rem;
-            background: linear-gradient(135deg, var(--primary-blue), var(--secondary-blue));
-            color: var(--white);
-            text-decoration: none;
-            border-radius: 12px;
-            font-weight: 500;
-            transition: all 0.3s ease;
-            box-shadow: 0 4px 15px rgba(30, 58, 138, 0.3);
-        }
-
-        .back-link:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 8px 25px rgba(30, 58, 138, 0.4);
-        }
-
         @media (max-width: 768px) {
-            .hero-title {
-                font-size: 2rem;
+            .ports-hero h1 {
+                font-size: 2.5rem;
             }
 
             .ports-grid {
@@ -236,10 +195,6 @@
 
             .port-card {
                 padding: 1.5rem;
-            }
-
-            .container {
-                padding: 0 1rem;
             }
         }
     </style>
@@ -285,21 +240,21 @@
     </nav>
 
     <!-- Hero Section -->
-    <section class="hero-section">
+    <section class="ports-hero">
         <div class="container">
-            <h1 class="hero-title">
+            <h1>
                 <i class="fas fa-anchor"></i>
                 Puertos Asociados de Canarias
             </h1>
-            <p class="hero-subtitle">
+            <p class="subtitle">
                 Descubre los puertos deportivos que forman parte de la red de Marinas de España en las Islas Canarias
             </p>
         </div>
     </section>
 
     <!-- Ports Grid -->
-    <section class="ports-section">
-        <div class="container">
+    <section class="container">
+        <div style="padding: 4rem 0;">
             <!-- Gran Canaria -->
             <div class="zone-section">
                 <h2 class="zone-title">Gran Canaria</h2>
