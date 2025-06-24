@@ -9,78 +9,25 @@
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="images/favicon.ico">
     
-    <!-- Font Awesome -->
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-    
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        
         body {
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            padding-top: 90px !important;
             background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
             min-height: 100vh;
             display: flex;
             flex-direction: column;
         }
         
-        /* Navbar */
-        .navbar {
-            background: rgba(255, 255, 255, 0.95);
-            backdrop-filter: blur(10px);
-            border-bottom: 1px solid #e2e8f0;
-            position: fixed;
-            top: 0;
-            left: 0;
-            right: 0;
-            z-index: 1000;
-            padding: 1rem 0;
-        }
-        
-        .nav-container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 2rem;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-        }
-        
-        .nav-logo {
-            height: 40px;
-            width: auto;
-        }
-        
-        .nav-links {
-            display: flex;
-            gap: 2rem;
-            list-style: none;
-        }
-        
-        .nav-link {
-            color: #374151;
-            text-decoration: none;
-            font-weight: 500;
-            transition: color 0.3s ease;
-        }
-        
-        .nav-link:hover {
-            color: #1d4ed8;
-        }
-        
-        /* Main Content */
         .main-content {
             flex: 1;
             display: flex;
             align-items: center;
             justify-content: center;
-            padding: 6rem 2rem 2rem;
+            padding: 2rem;
         }
         
         .coming-soon-card {
@@ -137,7 +84,6 @@
             gap: 1rem;
             justify-content: center;
             flex-wrap: wrap;
-            margin-bottom: 2rem;
         }
         
         .btn {
@@ -174,62 +120,13 @@
             transform: translateY(-2px);
         }
         
-        .features {
-            margin-top: 2rem;
-            padding-top: 2rem;
-            border-top: 1px solid #e5e7eb;
-        }
-        
-        .features-title {
-            color: #6b7280;
-            font-weight: 600;
-            margin-bottom: 1rem;
-        }
-        
-        .features-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-            gap: 1rem;
-        }
-        
-        .feature-item {
-            text-align: center;
-        }
-        
-        .feature-icon {
-            font-size: 2rem;
-            color: #3b82f6;
-            margin-bottom: 0.5rem;
-        }
-        
-        .feature-text {
-            font-size: 0.875rem;
-            color: #6b7280;
-            font-weight: 500;
-        }
-        
-        /* Footer */
-        .footer {
-            background: #1f2937;
-            color: white;
-            padding: 2rem 0;
-            text-align: center;
-        }
-        
-        .footer-content {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 2rem;
-        }
-        
-        /* Responsive */
         @media (max-width: 768px) {
-            .nav-links {
-                display: none;
+            body {
+                padding-top: 80px !important;
             }
             
             .main-content {
-                padding: 5rem 1rem 1rem;
+                padding: 1rem;
             }
             
             .coming-soon-card {
@@ -253,17 +150,34 @@
     </style>
 </head>
 <body>
-    <!-- Navbar -->
-    <nav class="navbar">
-        <div class="nav-container">
-            <img src="images/logo-marinas-espana-recortado.png" alt="Marinas de España" class="nav-logo">
-            <ul class="nav-links">
-                <li><a href="index.html#inicio" class="nav-link">Inicio</a></li>
-                <li><a href="index.html#congreso" class="nav-link">I Congreso</a></li>
-                <li><a href="index.html#noticias" class="nav-link">Noticias</a></li>
-                <li><a href="index.html#asociaciones" class="nav-link">Asociaciones</a></li>
-                <li><a href="index.html#contacto" class="nav-link">Contacto</a></li>
-            </ul>
+    <!-- Navigation Ultra Premium -->
+    <nav class="navbar-ultra" id="navbar">
+        <div class="container">
+            <div class="nav-container">
+                <div class="nav-brand">
+                    <img src="images/logo-marinas-espana-recortado.png" alt="Marinas de España" class="nav-logo">
+                </div>
+                
+                <div class="nav-menu" id="nav-menu">
+                    <a href="index.html#inicio" class="nav-link">Inicio</a>
+                    <a href="index.html#congreso" class="nav-link">I Congreso</a>
+                    <a href="index.html#patrocinadores" class="nav-link">Patrocinadores</a>
+                    <a href="todas-las-noticias.html" class="nav-link">Noticias</a>
+                    <a href="index.html#mapa" class="nav-link">Mapa Puertos</a>
+                    <a href="index.html#federacion" class="nav-link">La Federación</a>
+                    <a href="index.html#asociaciones" class="nav-link">Asociaciones</a>
+                    <a href="index.html#contacto" class="nav-cta">
+                        <i class="fas fa-envelope"></i>
+                        Contacto
+                    </a>
+                </div>
+                
+                <div class="nav-toggle" id="nav-toggle">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
         </div>
     </nav>
 
@@ -292,45 +206,45 @@
                     Contactar
                 </a>
             </div>
-            
-            <div class="features">
-                <p class="features-title">Mientras tanto, puedes explorar:</p>
-                <div class="features-grid">
-                    <div class="feature-item">
-                        <div class="feature-icon">
-                            <i class="fas fa-calendar-alt"></i>
-                        </div>
-                        <div class="feature-text">I Congreso</div>
-                    </div>
-                    <div class="feature-item">
-                        <div class="feature-icon">
-                            <i class="fas fa-newspaper"></i>
-                        </div>
-                        <div class="feature-text">Noticias</div>
-                    </div>
-                    <div class="feature-item">
-                        <div class="feature-icon">
-                            <i class="fas fa-users"></i>
-                        </div>
-                        <div class="feature-text">Junta Directiva</div>
-                    </div>
-                    <div class="feature-item">
-                        <div class="feature-icon">
-                            <i class="fas fa-map-marked-alt"></i>
-                        </div>
-                        <div class="feature-text">Mapa Puertos</div>
-                    </div>
-                </div>
-            </div>
         </div>
     </main>
 
     <!-- Footer -->
     <footer class="footer">
-        <div class="footer-content">
-            <p>&copy; 2024 Marinas de España. Todos los derechos reservados.</p>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>Marinas de España</h4>
+                    <p>Federación Española de Asociaciones de Puertos Deportivos y Turísticos</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Enlaces Rápidos</h4>
+                    <ul class="footer-links">
+                        <li><a href="index.html#inicio">Inicio</a></li>
+                        <li><a href="index.html#congreso">I Congreso</a></li>
+                        <li><a href="index.html#noticias">Noticias</a></li>
+                        <li><a href="mapa.html">Mapa Puertos</a></li>
+                        <li><a href="index.html#asociaciones">Asociaciones</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Síguenos</h4>
+                    <div class="social-links">
+                        <a href="#" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
+                        <a href="#" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+                        <a href="#" aria-label="Facebook"><i class="fab fa-facebook"></i></a>
+                        <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 Marinas de España. Todos los derechos reservados.</p>
+            </div>
         </div>
     </footer>
+
+    <!-- JavaScript -->
+    <script src="js/main.js"></script>
 </body>
 </html>
 
