@@ -4,215 +4,360 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Próximamente - Marinas de España</title>
+    <meta name="description" content="Esta sección estará disponible próximamente. Disculpen las molestias.">
+    
+    <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+    
+    <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <link rel="stylesheet" href="css/styles.css">
     
     <style>
-        /* ULTRA-AGRESIVO CSS PARA ELIMINAR CUALQUIER LOGO DE FONDO */
+        /* RESET COMPLETO Y ESTILOS INLINE PARA EVITAR CONFLICTOS */
         * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
             background-image: none !important;
             background: none !important;
         }
         
-        *::before, *::after {
+        html, body {
+            height: 100%;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%) !important;
             background-image: none !important;
-            background: none !important;
-            content: none !important;
-        }
-        
-        html {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
-            background-image: none !important;
-            min-height: 100vh !important;
         }
         
         body {
-            background: none !important;
-            background-image: none !important;
-            margin: 0 !important;
-            padding: 0 !important;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
-            min-height: 100vh !important;
-            padding-top: 80px !important;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            padding-top: 90px;
         }
         
+        /* NAVBAR SIMPLE */
+        .navbar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            background: white;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            z-index: 1000;
+            height: 80px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 2rem;
+        }
+        
+        .navbar-logo {
+            height: 50px;
+            width: auto;
+        }
+        
+        .navbar-nav {
+            display: flex;
+            list-style: none;
+            gap: 2rem;
+            align-items: center;
+        }
+        
+        .navbar-nav a {
+            text-decoration: none;
+            color: #1f2937;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+        
+        .navbar-nav a:hover {
+            color: #1d4ed8;
+        }
+        
+        .navbar-cta {
+            background: #1d4ed8 !important;
+            color: white !important;
+            padding: 0.5rem 1rem !important;
+            border-radius: 0.5rem !important;
+            text-decoration: none !important;
+            font-weight: 600 !important;
+            display: flex !important;
+            align-items: center !important;
+            gap: 0.5rem !important;
+        }
+        
+        .navbar-cta:hover {
+            background: #1e40af !important;
+            color: white !important;
+        }
+        
+        /* CONTENIDO PRINCIPAL */
         .main-content {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
             background: none !important;
             background-image: none !important;
-            display: flex !important;
-            justify-content: center !important;
-            align-items: center !important;
-            min-height: calc(100vh - 160px) !important;
-            padding: 2rem !important;
         }
         
         .coming-soon-card {
             background: white !important;
             background-image: none !important;
-            border-radius: 20px !important;
-            padding: 3rem !important;
-            box-shadow: 0 20px 40px rgba(0,0,0,0.1) !important;
-            text-align: center !important;
-            max-width: 600px !important;
-            width: 100% !important;
-            border-top: 4px solid #4285f4 !important;
+            border-radius: 1rem;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+            padding: 3rem;
+            text-align: center;
+            max-width: 600px;
+            width: 100%;
+            position: relative;
+            overflow: hidden;
         }
         
-        .coming-soon-icon {
-            font-size: 4rem !important;
-            color: #4285f4 !important;
-            margin-bottom: 2rem !important;
+        .coming-soon-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, #1d4ed8, #3b82f6);
         }
         
-        .coming-soon-title {
-            font-size: 2.5rem !important;
-            color: #2c3e50 !important;
-            margin-bottom: 1rem !important;
-            font-weight: 700 !important;
+        .tools-icon {
+            font-size: 4rem;
+            color: #3b82f6;
+            margin-bottom: 2rem;
         }
         
-        .coming-soon-subtitle {
-            font-size: 1.25rem !important;
-            color: #4285f4 !important;
-            margin-bottom: 2rem !important;
-            font-weight: 500 !important;
+        .title {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: #1f2937;
+            margin-bottom: 1rem;
         }
         
-        .coming-soon-description {
-            font-size: 1rem !important;
-            color: #6c757d !important;
-            line-height: 1.6 !important;
-            margin-bottom: 3rem !important;
+        .subtitle {
+            font-size: 1.5rem;
+            color: #1d4ed8;
+            font-weight: 600;
+            margin-bottom: 2rem;
         }
         
-        .coming-soon-buttons {
-            display: flex !important;
-            gap: 1rem !important;
-            justify-content: center !important;
-            flex-wrap: wrap !important;
+        .message {
+            font-size: 1.125rem;
+            color: #6b7280;
+            line-height: 1.6;
+            margin-bottom: 2rem;
+        }
+        
+        .buttons {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.75rem 1.5rem;
+            border-radius: 0.5rem;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
         }
         
         .btn-primary {
-            background: #4285f4 !important;
-            background-image: none !important;
+            background: #1d4ed8 !important;
             color: white !important;
-            padding: 12px 24px !important;
-            border: none !important;
-            border-radius: 8px !important;
-            text-decoration: none !important;
-            font-weight: 500 !important;
-            transition: all 0.3s ease !important;
-            display: inline-flex !important;
-            align-items: center !important;
-            gap: 8px !important;
         }
         
         .btn-primary:hover {
-            background: #3367d6 !important;
-            background-image: none !important;
-            transform: translateY(-2px) !important;
+            background: #1e40af !important;
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(29, 78, 216, 0.3);
         }
         
-        .btn-outline {
+        .btn-secondary {
             background: transparent !important;
-            background-image: none !important;
-            color: #4285f4 !important;
-            padding: 12px 24px !important;
-            border: 2px solid #4285f4 !important;
-            border-radius: 8px !important;
-            text-decoration: none !important;
-            font-weight: 500 !important;
-            transition: all 0.3s ease !important;
-            display: inline-flex !important;
-            align-items: center !important;
-            gap: 8px !important;
+            color: #1d4ed8 !important;
+            border: 2px solid #1d4ed8 !important;
         }
         
-        .btn-outline:hover {
-            background: #4285f4 !important;
-            background-image: none !important;
+        .btn-secondary:hover {
+            background: #1d4ed8 !important;
             color: white !important;
-            transform: translateY(-2px) !important;
+            transform: translateY(-2px);
         }
         
+        /* FOOTER SIMPLE */
+        .footer {
+            background: #1f2937;
+            color: white;
+            padding: 2rem 0;
+            text-align: center;
+        }
+        
+        .footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+        }
+        
+        .footer-section h4 {
+            margin-bottom: 1rem;
+            color: #f9fafb;
+        }
+        
+        .footer-section p {
+            color: #d1d5db;
+            line-height: 1.6;
+        }
+        
+        .footer-links {
+            list-style: none;
+        }
+        
+        .footer-links li {
+            margin-bottom: 0.5rem;
+        }
+        
+        .footer-links a {
+            color: #d1d5db;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+        
+        .footer-links a:hover {
+            color: #3b82f6;
+        }
+        
+        .social-links {
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+        }
+        
+        .social-links a {
+            color: #d1d5db;
+            font-size: 1.5rem;
+            transition: color 0.3s ease;
+        }
+        
+        .social-links a:hover {
+            color: #3b82f6;
+        }
+        
+        .footer-bottom {
+            margin-top: 2rem;
+            padding-top: 2rem;
+            border-top: 1px solid #374151;
+            text-align: center;
+            color: #9ca3af;
+        }
+        
+        /* RESPONSIVE */
         @media (max-width: 768px) {
             body {
-                padding-top: 70px !important;
+                padding-top: 70px;
+            }
+            
+            .navbar {
+                height: 70px;
+                padding: 0 1rem;
+            }
+            
+            .navbar-nav {
+                display: none;
+            }
+            
+            .main-content {
+                padding: 1rem;
             }
             
             .coming-soon-card {
-                padding: 2rem !important;
-                margin: 1rem !important;
+                padding: 2rem;
             }
             
-            .coming-soon-title {
-                font-size: 2rem !important;
+            .title {
+                font-size: 2rem;
             }
             
-            .coming-soon-buttons {
-                flex-direction: column !important;
-                align-items: center !important;
+            .buttons {
+                flex-direction: column;
+                align-items: center;
+            }
+            
+            .btn {
+                width: 100%;
+                justify-content: center;
+            }
+            
+            .footer-content {
+                grid-template-columns: 1fr;
+                text-align: center;
+            }
+            
+            .social-links {
+                justify-content: center;
             }
         }
     </style>
 </head>
 <body>
-    <!-- Navbar -->
+    <!-- Navigation -->
     <nav class="navbar">
-        <div class="nav-container">
-            <div class="nav-logo">
-                <a href="index.html">
-                    <img src="images/logo.png" alt="Marinas de España" class="logo-img">
-                </a>
-            </div>
-            <ul class="nav-menu">
-                <li class="nav-item">
-                    <a href="index.html" class="nav-link">Inicio</a>
-                </li>
-                <li class="nav-item">
-                    <a href="proximamente.html" class="nav-link">I Congreso</a>
-                </li>
-                <li class="nav-item">
-                    <a href="proximamente.html" class="nav-link">Patrocinadores</a>
-                </li>
-                <li class="nav-item">
-                    <a href="proximamente.html" class="nav-link">Noticias</a>
-                </li>
-                <li class="nav-item">
-                    <a href="proximamente.html" class="nav-link">Mapa Puertos</a>
-                </li>
-                <li class="nav-item">
-                    <a href="proximamente.html" class="nav-link">La Federación</a>
-                </li>
-                <li class="nav-item">
-                    <a href="index.html#asociaciones" class="nav-link">Asociaciones</a>
-                </li>
-                <li class="nav-item">
-                    <a href="proximamente.html" class="nav-link">Contacto</a>
-                </li>
-            </ul>
+        <div>
+            <img src="images/logo-marinas-espana-recortado.png" alt="Marinas de España" class="navbar-logo">
         </div>
+        
+        <ul class="navbar-nav">
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="index.html#congreso">I Congreso</a></li>
+            <li><a href="index.html#patrocinadores">Patrocinadores</a></li>
+            <li><a href="todas-las-noticias.html">Noticias</a></li>
+            <li><a href="index.html#mapa">Mapa Puertos</a></li>
+            <li><a href="index.html#federacion">La Federación</a></li>
+            <li><a href="index.html#asociaciones">Asociaciones</a></li>
+            <li>
+                <a href="index.html#contacto" class="navbar-cta">
+                    <i class="fas fa-envelope"></i>
+                    Contacto
+                </a>
+            </li>
+        </ul>
     </nav>
 
     <!-- Main Content -->
     <main class="main-content">
         <div class="coming-soon-card">
-            <div class="coming-soon-icon">
+            <div class="tools-icon">
                 <i class="fas fa-tools"></i>
             </div>
-            <h1 class="coming-soon-title">Próximamente</h1>
-            <h2 class="coming-soon-subtitle">Estamos trabajando en algo increíble</h2>
-            <p class="coming-soon-description">
-                Disculpen las molestias. Esta sección estará disponible muy pronto con 
-                nuevas funcionalidades que mejorarán su experiencia en nuestra plataforma digital.
+            
+            <h1 class="title">Próximamente</h1>
+            <h2 class="subtitle">Estamos trabajando en algo increíble</h2>
+            
+            <p class="message">
+                Disculpen las molestias. Esta sección estará disponible muy pronto con nuevas funcionalidades 
+                que mejorarán su experiencia en nuestra plataforma digital.
             </p>
-            <div class="coming-soon-buttons">
-                <a href="index.html" class="btn-primary">
+            
+            <div class="buttons">
+                <a href="index.html" class="btn btn-primary">
                     <i class="fas fa-home"></i>
                     Volver al Inicio
                 </a>
-                <a href="mailto:info@marinasdeespana.es" class="btn-outline">
+                <a href="index.html#contacto" class="btn btn-secondary">
                     <i class="fas fa-envelope"></i>
                     Contactar
                 </a>
@@ -222,20 +367,23 @@
 
     <!-- Footer -->
     <footer class="footer">
-        <div class="footer-container">
+        <div class="footer-content">
             <div class="footer-section">
-                <h3>Marinas de España</h3>
+                <h4>Marinas de España</h4>
                 <p>Federación Española de Asociaciones de Puertos Deportivos y Turísticos</p>
             </div>
             <div class="footer-section">
-                <h3>Enlaces Rápidos</h3>
-                <ul>
-                    <li><a href="index.html">Inicio</a></li>
-                    <li><a href="proximamente.html">I Congreso</a></li>
+                <h4>Enlaces Rápidos</h4>
+                <ul class="footer-links">
+                    <li><a href="index.html#inicio">Inicio</a></li>
+                    <li><a href="index.html#congreso">I Congreso</a></li>
+                    <li><a href="todas-las-noticias.html">Noticias</a></li>
+                    <li><a href="index.html#mapa">Mapa Puertos</a></li>
+                    <li><a href="index.html#asociaciones">Asociaciones</a></li>
                 </ul>
             </div>
             <div class="footer-section">
-                <h3>Síguenos</h3>
+                <h4>Síguenos</h4>
                 <div class="social-links">
                     <a href="#" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
                     <a href="#" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
@@ -243,6 +391,9 @@
                     <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
                 </div>
             </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 Marinas de España. Todos los derechos reservados.</p>
         </div>
     </footer>
 </body>
