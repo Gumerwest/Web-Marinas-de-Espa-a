@@ -2728,7 +2728,7 @@ textarea:focus {
     align-items: center;
     justify-content: center;
     gap: var(--spacing-xs);
-    background: var(--gray-700);
+    background: var(--primary-color);
     color: var(--white);
     padding: var(--spacing-md) var(--spacing-lg);
     border-radius: var(--radius-md);
@@ -2736,16 +2736,16 @@ textarea:focus {
     font-size: var(--font-size-sm);
     font-weight: 500;
     transition: all var(--transition-fast);
-    border: 2px solid var(--gray-700);
+    border: 2px solid var(--primary-color);
     width: 100%;
     margin-top: auto;
 }
 
 .ports-button:hover {
-    background: var(--primary-color);
-    border-color: var(--primary-color);
+    background: var(--secondary-color);
+    border-color: var(--secondary-color);
     transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 4px 12px rgba(30, 58, 138, 0.3);
 }
 
 .ports-button i {
