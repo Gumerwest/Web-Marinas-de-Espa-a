@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Puertos Asociados - Murcia | Marinas de España</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        .ports-hero {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            color: white;
+            padding: 120px 0 80px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .ports-hero::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: url('images/hero-bg.jpg') center/cover;
+            opacity: 0.1;
+            z-index: 1;
+        }
+
+        .ports-hero .container {
+            position: relative;
+            z-index: 2;
+        }
+
+        .ports-hero h1 {
+            font-size: 3.5rem;
+            font-weight: 800;
+            margin-bottom: 1rem;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .ports-hero .subtitle {
+            font-size: 1.25rem;
+            opacity: 0.9;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .zone-section {
+            margin-bottom: 4rem;
+        }
+
+        .zone-title {
+            font-size: 2rem;
+            font-weight: 600;
+            color: var(--primary-color);
+            text-align: center;
+            margin-bottom: 2rem;
+            position: relative;
+            padding-bottom: 1rem;
+        }
+
+        .zone-title::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 80px;
+            height: 3px;
+            background: linear-gradient(90deg, var(--gold-color), var(--accent-color));
+            border-radius: 2px;
+        }
+
+        .ports-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 2rem;
+            padding: 2rem 0;
+        }
+
+        .port-card {
+            background: white;
+            border-radius: 16px;
+            padding: 2rem;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+            transition: all 0.3s ease;
+            border: 1px solid var(--gray-200);
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+        }
+
+        .port-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(90deg, var(--gold-color), var(--accent-color));
+        }
+
+        .port-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 12px 40px rgba(0,0,0,0.15);
+        }
+
+        .port-name {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--dark-color);
+            margin-bottom: 1.5rem;
+            line-height: 1.3;
+            flex-grow: 1;
+        }
+
+        .port-links {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            margin-top: auto;
+        }
+
+        .port-link {
+            display: flex;
+            align-items: center;
+            padding: 0.75rem 1rem;
+            border-radius: 12px;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            font-weight: 500;
+            border: 2px solid transparent;
+        }
+
+        .port-link.website {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            color: white;
+        }
+
+        .port-link.website:hover {
+            transform: translateX(4px);
+            box-shadow: 0 4px 12px rgba(30, 58, 138, 0.3);
+        }
+
+        .port-link.maps {
+            background: var(--gray-100);
+            color: var(--gray-700);
+            border-color: var(--gray-200);
+        }
+
+        .port-link.maps:hover {
+            background: var(--gold-color);
+            color: white;
+            border-color: var(--gold-color);
+            transform: translateX(4px);
+        }
+
+        .port-link i {
+            margin-right: 0.75rem;
+            font-size: 1.1rem;
+        }
+
+        .back-navigation {
+            text-align: center;
+            padding: 3rem 0;
+            border-top: 1px solid var(--gray-200);
+            margin-top: 2rem;
+        }
+
+        @media (max-width: 768px) {
+            .ports-hero h1 {
+                font-size: 2.5rem;
+            }
+
+            .ports-grid {
+                grid-template-columns: 1fr;
+                gap: 1.5rem;
+            }
+
+            .port-card {
+                padding: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <a href="index.html">
+                    <img src="images/logo.png" alt="Marinas de España" class="logo-img">
+                </a>
+            </div>
+            <div class="nav-menu" id="nav-menu">
+                <ul class="nav-list">
+                    <li class="nav-item">
+                        <a href="index.html" class="nav-link">Inicio</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle">I Congreso <i class="fas fa-chevron-down"></i></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="proximamente.html" class="dropdown-link">Información General</a></li>
+                            <li><a href="proximamente.html" class="dropdown-link">Programa</a></li>
+                            <li><a href="proximamente.html" class="dropdown-link">Ponentes</a></li>
+                            <li><a href="proximamente.html" class="dropdown-link">Registro</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a href="proximamente.html" class="nav-link">Patrocinadores</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="proximamente.html" class="nav-link">Noticias</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="mapa.html" class="nav-link">Mapa Puertos</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle">La Federación <i class="fas fa-chevron-down"></i></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="nuestra-historia.html" class="dropdown-link">Nuestra Historia</a></li>
+                            <li><a href="mision.html" class="dropdown-link">Misión</a></li>
+                            <li><a href="junta-directiva.html" class="dropdown-link">Junta Directiva</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a href="index.html#asociaciones" class="nav-link">Asociaciones</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="proximamente.html" class="nav-link">Contacto</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="nav-toggle" id="nav-toggle">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="ports-hero">
+        <div class="container">
+            <h1>
+                <i class="fas fa-anchor"></i>
+                Puertos Asociados de Murcia
+            </h1>
+            <p class="subtitle">
+                Descubre los puertos deportivos que forman parte de la red de Marinas de España en la Región de Murcia
+            </p>
+        </div>
+    </section>
+
+    <!-- Ports Grid -->
+    <section class="container">
+        <div style="padding: 4rem 0;">
+            <!-- Mar Menor -->
+            <div class="zone-section">
+                <h2 class="zone-title">Mar Menor</h2>
+                <div class="ports-grid">
+                    <!-- Puerto Deportivo Tomás Maestre -->
+                    <div class="port-card">
+                        <h3 class="port-name">Puerto Deportivo Tomás Maestre</h3>
+                        <div class="port-links">
+                            <a href="http://www.puertomaestre.com/" target="_blank" class="port-link website">
+                                <i class="fas fa-globe"></i>
+                                Visitar Página Web
+                            </a>
+                            <a href="https://www.google.com/maps/search/?api=1&query=Puerto+Deportivo+Tom%C3%A1s+Maestre&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_cp" target="_blank" class="port-link maps">
+                                <i class="fas fa-map-marker-alt"></i>
+                                Ver en Google Maps
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Club Náutico Los Nietos -->
+                    <div class="port-card">
+                        <h3 class="port-name">Club Náutico Los Nietos</h3>
+                        <div class="port-links">
+                            <a href="https://cnlosnietos.com/" target="_blank" class="port-link website">
+                                <i class="fas fa-globe"></i>
+                                Visitar Página Web
+                            </a>
+                            <a href="https://www.google.com/maps/search/?api=1&query=Club+N%C3%A1utico+Los+Nietos&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_cq" target="_blank" class="port-link maps">
+                                <i class="fas fa-map-marker-alt"></i>
+                                Ver en Google Maps
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Club Náutico Mar Menor -->
+                    <div class="port-card">
+                        <h3 class="port-name">Club Náutico Mar Menor</h3>
+                        <div class="port-links">
+                            <a href="https://cnmarmenor.com/" target="_blank" class="port-link website">
+                                <i class="fas fa-globe"></i>
+                                Visitar Página Web
+                            </a>
+                            <a href="https://www.google.com/maps/search/?api=1&query=Club+N%C3%A1utico+Mar+Menor&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_cs" target="_blank" class="port-link maps">
+                                <i class="fas fa-map-marker-alt"></i>
+                                Ver en Google Maps
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Club Náutico Lo Pagán -->
+                    <div class="port-card">
+                        <h3 class="port-name">Club Náutico Lo Pagán</h3>
+                        <div class="port-links">
+                            <a href="http://www.clubnauticolopagan.es/" target="_blank" class="port-link website">
+                                <i class="fas fa-globe"></i>
+                                Visitar Página Web
+                            </a>
+                            <a href="https://www.google.com/maps/search/?api=1&query=Club+N%C3%A1utico+Lo+Pag%C3%A1n&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_ct" target="_blank" class="port-link maps">
+                                <i class="fas fa-map-marker-alt"></i>
+                                Ver en Google Maps
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Real Club Regatas Santiago de la Ribera -->
+                    <div class="port-card">
+                        <h3 class="port-name">Real Club Regatas Santiago de la Ribera</h3>
+                        <div class="port-links">
+                            <a href="http://www.rcrsr.es/" target="_blank" class="port-link website">
+                                <i class="fas fa-globe"></i>
+                                Visitar Página Web
+                            </a>
+                            <a href="https://www.google.com/maps/search/?api=1&query=Real+Club+de+Regatas+Santiago+de+la+Ribera&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_cu" target="_blank" class="port-link maps">
+                                <i class="fas fa-map-marker-alt"></i>
+                                Ver en Google Maps
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Club Náutico Dos Mares -->
+                    <div class="port-card">
+                        <h3 class="port-name">Club Náutico Dos Mares</h3>
+                        <div class="port-links">
+                            <a href="http://clubnauticodosmares.com/" target="_blank" class="port-link website">
+                                <i class="fas fa-globe"></i>
+                                Visitar Página Web
+                            </a>
+                            <a href="https://www.google.com/maps/search/?api=1&query=Club+N%C3%A1utico+Dos+Mares&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_cv" target="_blank" class="port-link maps">
+                                <i class="fas fa-map-marker-alt"></i>
+                                Ver en Google Maps
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Club de Regatas Mar Menor -->
+                    <div class="port-card">
+                        <h3 class="port-name">Club de Regatas Mar Menor</h3>
+                        <div class="port-links">
+                            <a href="http://www.clubregatasmarmenor.com/" target="_blank" class="port-link website">
+                                <i class="fas fa-globe"></i>
+                                Visitar Página Web
+                            </a>
+                            <a href="https://www.google.com/maps/search/?api=1&query=Club+de+Regatas+Mar+Menor&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_dd" target="_blank" class="port-link maps">
+                                <i class="fas fa-map-marker-alt"></i>
+                                Ver en Google Maps
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Puerto Deportivo Marina de las Salinas -->
+                    <div class="port-card">
+                        <h3 class="port-name">Puerto Deportivo Marina de las Salinas</h3>
+                        <div class="port-links">
+                            <a href="https://www.marinadelassalinas.es/" target="_blank" class="port-link website">
+                                <i class="fas fa-globe"></i>
+                                Visitar Página Web
+                            </a>
+                            <a href="https://www.google.com/maps/search/?api=1&query=Puerto+Deportivo+Marina+de+las+Salinas&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_df" target="_blank" class="port-link maps">
+                                <i class="fas fa-map-marker-alt"></i>
+                                Ver en Google Maps
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Cartagena -->
+            <div class="zone-section">
+                <h2 class="zone-title">Cartagena</h2>
+                <div class="ports-grid">
+                    <!-- Real Club de Regatas Cartagena -->
+                    <div class="port-card">
+                        <h3 class="port-name">Real Club de Regatas Cartagena</h3>
+                        <div class="port-links">
+                            <a href="http://clubregatascartagena.es/" target="_blank" class="port-link website">
+                                <i class="fas fa-globe"></i>
+                                Visitar Página Web
+                            </a>
+                            <a href="https://www.google.com/maps/search/?api=1&query=Real+Club+de+Regatas+de+Cartagena&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_cr" target="_blank" class="port-link maps">
+                                <i class="fas fa-map-marker-alt"></i>
+                                Ver en Google Maps
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Yacht Port Cartagena -->
+                    <div class="port-card">
+                        <h3 class="port-name">Yacht Port Cartagena</h3>
+                        <div class="port-links">
+                            <a href="http://www.yachtportcartagena.com/" target="_blank" class="port-link website">
+                                <i class="fas fa-globe"></i>
+                                Visitar Página Web
+                            </a>
+                            <a href="https://www.google.com/maps/search/?api=1&query=Yacht+Port+Cartagena&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_cz" target="_blank" class="port-link maps">
+                                <i class="fas fa-map-marker-alt"></i>
+                                Ver en Google Maps
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Club Náutico Portmán -->
+                    <div class="port-card">
+                        <h3 class="port-name">Club Náutico Portmán</h3>
+                        <div class="port-links">
+                            <a href="https://cnportman.com/" target="_blank" class="port-link website">
+                                <i class="fas fa-globe"></i>
+                                Visitar Página Web
+                            </a>
+                            <a href="https://www.google.com/maps/search/?api=1&query=Club+N%C3%A1utico+Portm%C3%A1n&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_db" target="_blank" class="port-link maps">
+                                <i class="fas fa-map-marker-alt"></i>
+                                Ver en Google Maps
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Club Náutico La Isleta -->
+                    <div class="port-card">
+                        <h3 class="port-name">Club Náutico La Isleta</h3>
+                        <div class="port-links">
+                            <a href="http://clubnauticolaisleta.es/" target="_blank" class="port-link website">
+                                <i class="fas fa-globe"></i>
+                                Visitar Página Web
+                            </a>
+                            <a href="https://www.google.com/maps/search/?api=1&query=Club+N%C3%A1utico+La+Isleta&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_cy" target="_blank" class="port-link maps">
+                                <i class="fas fa-map-marker-alt"></i>
+                                Ver en Google Maps
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Club Náutico La Puntica -->
+                    <div class="port-card">
+                        <h3 class="port-name">Club Náutico La Puntica</h3>
+                        <div class="port-links">
+                            <a href="https://www.clubnauticolapuntica.com/" target="_blank" class="port-link website">
+                                <i class="fas fa-globe"></i>
+                                Visitar Página Web
+                            </a>
+                            <a href="https://www.google.com/maps/search/?api=1&query=Club+N%C3%A1utico+La+Puntica&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_de" target="_blank" class="port-link maps">
+                                <i class="fas fa-map-marker-alt"></i>
+                                Ver en Google Maps
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Costa Cálida -->
+            <div class="zone-section">
+                <h2 class="zone-title">Costa Cálida</h2>
+                <div class="ports-grid">
+                    <!-- Club Náutico Villa de San Pedro -->
+                    <div class="port-card">
+                        <h3 class="port-name">Club Náutico Villa de San Pedro</h3>
+                        <div class="port-links">
+                            <a href="https://clubnauticovillasanpedro.com/" target="_blank" class="port-link website">
+                                <i class="fas fa-globe"></i>
+                                Visitar Página Web
+                            </a>
+                            <a href="https://www.google.com/maps/search/?api=1&query=Club+N%C3%A1utico+Villa+de+San+Pedro&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_cw" target="_blank" class="port-link maps">
+                                <i class="fas fa-map-marker-alt"></i>
+                                Ver en Google Maps
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Club Náutico de Águilas -->
+                    <div class="port-card">
+                        <h3 class="port-name">Club Náutico de Águilas</h3>
+                        <div class="port-links">
+                            <a href="http://www.cnaguilas.com/" target="_blank" class="port-link website">
+                                <i class="fas fa-globe"></i>
+                                Visitar Página Web
+                            </a>
+                            <a href="https://www.google.com/maps/search/?api=1&query=Club+N%C3%A1utico+de+%C3%81guilas&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_cx" target="_blank" class="port-link maps">
+                                <i class="fas fa-map-marker-alt"></i>
+                                Ver en Google Maps
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Puerto Deportivo Juan Montiel -->
+                    <div class="port-card">
+                        <h3 class="port-name">Puerto Deportivo Juan Montiel</h3>
+                        <div class="port-links">
+                            <a href="https://www.puertodeportivojuanmontiel.es/" target="_blank" class="port-link website">
+                                <i class="fas fa-globe"></i>
+                                Visitar Página Web
+                            </a>
+                            <a href="https://www.google.com/maps/search/?api=1&query=Puerto+Deportivo+Juan+Montiel&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_da" target="_blank" class="port-link maps">
+                                <i class="fas fa-map-marker-alt"></i>
+                                Ver en Google Maps
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Puerto Deportivo Mazarrón -->
+                    <div class="port-card">
+                        <h3 class="port-name">Puerto Deportivo Mazarrón</h3>
+                        <div class="port-links">
+                            <a href="http://www.crmazarron.com/" target="_blank" class="port-link website">
+                                <i class="fas fa-globe"></i>
+                                Visitar Página Web
+                            </a>
+                            <a href="https://www.google.com/maps/search/?api=1&query=Puerto+Deportivo+de+Mazarr%C3%B3n&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_dc" target="_blank" class="port-link maps">
+                                <i class="fas fa-map-marker-alt"></i>
+                                Ver en Google Maps
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Back Navigation -->
+    <section class="back-navigation">
+        <div class="container">
+            <a href="index.html#asociaciones" class="back-link">
+                <i class="fas fa-arrow-left"></i>
+                Volver a Asociaciones
+            </a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <div class="footer-logo">
+                        <img src="images/logo.png" alt="Marinas de España">
+                    </div>
+                    <p class="footer-description">
+                        Federación Española de Asociaciones de Puertos Deportivos y Turísticos
+                    </p>
+                    <div class="social-links">
+                        <a href="#" class="social-link"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#" class="social-link"><i class="fab fa-twitter"></i></a>
+                        <a href="#" class="social-link"><i class="fab fa-linkedin-in"></i></a>
+                        <a href="#" class="social-link"><i class="fab fa-instagram"></i></a>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4>La Federación</h4>
+                    <ul class="footer-links">
+                        <li><a href="nuestra-historia.html">Nuestra Historia</a></li>
+                        <li><a href="mision.html">Misión</a></li>
+                        <li><a href="junta-directiva.html">Junta Directiva</a></li>
+                        <li><a href="index.html#asociaciones">Asociaciones</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Contacto</h4>
+                    <div class="contact-info">
+                        <p><i class="fas fa-envelope"></i> info@marinasdeespana.com</p>
+                        <p><i class="fas fa-phone"></i> +34 XXX XXX XXX</p>
+                        <p><i class="fas fa-map-marker-alt"></i> Madrid, España</p>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 Marinas de España. Todos los derechos reservados.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
+
