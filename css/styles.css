@@ -3113,9 +3113,6 @@ textarea:focus {
 
 
 /* ===== CANARIAS SPECIAL STYLING ===== */
-.canarias-special .association-region-top {
-    display: none !important;
-}
 
 .canarias-special .association-logo {
     width: 160px !important;
