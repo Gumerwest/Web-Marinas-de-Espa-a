@@ -3116,7 +3116,7 @@ textarea:focus {
 
 .canarias-special .association-logo {
     width: 160px !important;
-    height: 160px !important;
+    height: 120px !important;
     flex-shrink: 0 !important;
     background: transparent !important;
     display: flex !important;
@@ -3126,11 +3126,11 @@ textarea:focus {
 }
 
 .canarias-special .association-logo img {
-    width: 160px !important;
-    height: 160px !important;
-    object-fit: cover !important;
-    border-radius: 50% !important;
-    border: 3px solid #e2e8f0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: contain !important;
+    border-radius: 0 !important;
+    border: none !important;
 }
 
 .canarias-special {
@@ -3147,12 +3147,12 @@ textarea:focus {
 @media (max-width: 768px) {
     .canarias-special .association-logo {
         width: 120px !important;
-        height: 120px !important;
+        height: 90px !important;
     }
     
     .canarias-special .association-logo img {
-        width: 120px !important;
-        height: 120px !important;
+        width: 100% !important;
+        height: 100% !important;
     }
 }
 
