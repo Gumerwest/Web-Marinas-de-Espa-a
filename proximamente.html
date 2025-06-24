@@ -28,6 +28,7 @@
             justify-content: center;
             background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
             padding: var(--spacing-xl);
+            padding-top: 120px; /* Espacio para el navbar fijo */
         }
         
         .coming-soon-card {
@@ -161,6 +162,10 @@
         }
         
         @media (max-width: 768px) {
+            .coming-soon-container {
+                padding-top: 100px; /* Menos padding en móviles */
+            }
+            
             .coming-soon-card {
                 padding: var(--spacing-2xl);
                 margin: var(--spacing-lg);
