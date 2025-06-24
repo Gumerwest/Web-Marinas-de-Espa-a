@@ -3539,3 +3539,96 @@ textarea:focus {
     margin-bottom: var(--spacing-2xl);
 }
 
+
+/* ===== PORTS GRID AND CARDS UNIFORM SIZING ===== */
+.ports-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: var(--spacing-xl);
+    margin-bottom: var(--spacing-2xl);
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.port-card {
+    background: var(--white);
+    border-radius: var(--border-radius);
+    padding: var(--spacing-lg);
+    box-shadow: var(--shadow-sm);
+    transition: all var(--transition-normal);
+    border: 1px solid var(--gray-200);
+    width: 100%;
+    max-width: 400px;
+    min-width: 350px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+}
+
+.port-card:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-lg);
+}
+
+.port-name {
+    font-size: var(--font-size-lg);
+    font-weight: 600;
+    margin-bottom: var(--spacing-md);
+    color: var(--text-dark);
+    text-align: center;
+    border-bottom: 2px solid var(--accent-color);
+    padding-bottom: var(--spacing-sm);
+}
+
+.port-links {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-sm);
+    margin-top: auto;
+}
+
+.port-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--spacing-sm);
+    padding: var(--spacing-sm) var(--spacing-md);
+    border-radius: var(--border-radius);
+    text-decoration: none;
+    font-weight: 500;
+    transition: all var(--transition-fast);
+}
+
+.port-link.website {
+    background-color: var(--primary-color);
+    color: var(--white);
+}
+
+.port-link.website:hover {
+    background-color: var(--primary-dark);
+}
+
+.port-link.maps {
+    background-color: var(--secondary-color);
+    color: var(--white);
+}
+
+.port-link.maps:hover {
+    background-color: var(--secondary-dark);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .ports-grid {
+        grid-template-columns: 1fr;
+        gap: var(--spacing-lg);
+    }
+    
+    .port-card {
+        min-width: auto;
+        max-width: 100%;
+    }
+}
+
