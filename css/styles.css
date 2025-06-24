@@ -2752,13 +2752,6 @@ textarea:focus {
 
 
 /* ===== HISTORIA PAGE STYLES ===== */
-.article-header {
-    background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
-    color: var(--white);
-    padding: var(--spacing-4xl) 0 var(--spacing-3xl);
-    margin-top: 80px;
-}
-
 .breadcrumb {
     margin-bottom: var(--spacing-lg);
     font-size: var(--font-size-sm);
