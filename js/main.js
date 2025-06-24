@@ -661,9 +661,16 @@ function initializeMagazineDropdown() {
         return;
     }
     
-    // Toggle dropdown on banner click
+    // Toggle dropdown on banner click (but not on dropdown links)
     magazineBanner.addEventListener('click', function(e) {
         console.log('Magazine banner clicked');
+        
+        // Don't prevent default if clicking on a link inside the dropdown
+        if (e.target.tagName === 'A' || e.target.closest('a')) {
+            console.log('Link clicked, allowing default behavior');
+            return; // Let the link work normally
+        }
+        
         e.preventDefault();
         e.stopPropagation();
         
