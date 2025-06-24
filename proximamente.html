@@ -21,18 +21,19 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     
     <style>
-        /* Asegurar que el body tenga padding-top para el navbar fijo */
+        /* Forzar el padding-top para evitar superposición con navbar */
         body {
-            padding-top: 80px;
+            padding-top: 90px !important;
         }
         
         .coming-soon-container {
-            min-height: calc(100vh - 80px);
+            min-height: calc(100vh - 90px) !important;
             display: flex;
             align-items: center;
             justify-content: center;
             background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
             padding: var(--spacing-xl);
+            margin-top: 0 !important;
         }
         
         .coming-soon-card {
@@ -167,11 +168,11 @@
         
         @media (max-width: 768px) {
             body {
-                padding-top: 70px; /* Menos padding en móviles */
+                padding-top: 80px !important; /* Menos padding en móviles */
             }
             
             .coming-soon-container {
-                min-height: calc(100vh - 70px);
+                min-height: calc(100vh - 80px) !important;
             }
             
             .coming-soon-card {
