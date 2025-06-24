@@ -3508,3 +3508,34 @@ textarea:focus {
     }
 }
 
+
+
+/* ===== ZONE TITLE STYLES ===== */
+.zone-title {
+    font-size: var(--font-size-2xl);
+    font-weight: 700;
+    text-align: center;
+    margin: var(--spacing-xl) 0 var(--spacing-lg) 0;
+    padding: var(--spacing-md) 0;
+    background-color: #f8f9fa;
+    border-radius: var(--border-radius);
+    position: relative;
+    color: var(--text-dark);
+}
+
+.zone-title::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60px;
+    height: 3px;
+    background-color: var(--accent-color);
+    border-radius: 2px;
+}
+
+.zone-section {
+    margin-bottom: var(--spacing-2xl);
+}
+
