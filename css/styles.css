@@ -3110,3 +3110,41 @@ textarea:focus {
     margin: 0 auto;
 }
 
+
+
+/* ===== CANARIAS SPECIAL STYLING ===== */
+.canarias-special .association-region-top {
+    display: none !important;
+}
+
+.canarias-special .association-logo {
+    width: 120px !important;
+    height: 120px !important;
+    flex-shrink: 0 !important;
+}
+
+.canarias-special .association-logo img {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: contain !important;
+    border-radius: 50% !important;
+}
+
+.canarias-special {
+    background: linear-gradient(135deg, #f8fafc 0%, #ffffff 100%) !important;
+    border: 2px solid #e2e8f0 !important;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1) !important;
+}
+
+.canarias-special:hover {
+    transform: translateY(-5px) !important;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15) !important;
+}
+
+@media (max-width: 768px) {
+    .canarias-special .association-logo {
+        width: 100px !important;
+        height: 100px !important;
+    }
+}
+
