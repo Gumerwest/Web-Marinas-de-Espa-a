@@ -335,6 +335,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT DE MALLORCA",
@@ -664,6 +721,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Esportiu Alcudiamar",
@@ -993,6 +1107,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "SERVICIOS TECNICOS PORTUARIOS",
@@ -1322,6 +1493,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina de Bonaire Cocodrilo",
@@ -1651,6 +1879,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina Tramontana",
@@ -1980,6 +2265,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Adriano",
@@ -2309,6 +2651,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Moll Vell",
@@ -2638,6 +3037,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Pantalan Mediterraneo",
@@ -2967,6 +3423,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Olimpic Calanova",
@@ -3296,6 +3809,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "NAUTIC CENTER MENORCA",
@@ -3625,6 +4195,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA DEPORTIVA DE MENORCA",
@@ -3954,6 +4581,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "CLUB NAUTIC FORNELLS",
@@ -4283,6 +4967,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PUERTO ADDAYA",
@@ -4612,6 +5353,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Cala'n Bosch",
@@ -4941,6 +5739,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT MAHON",
@@ -5270,6 +6125,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PORT DE LLEVANT",
@@ -5599,6 +6511,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "VARADERO IBIZA",
@@ -5928,6 +6897,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT IBIZA",
@@ -6257,6 +7283,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA IBIZA",
@@ -6586,6 +7669,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Botafoc Ibiza",
@@ -6915,6 +8055,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA SANTA EULALIA",
@@ -7244,6 +8441,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
 
   {
@@ -7582,6 +8836,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT DE MALLORCA",
@@ -7911,6 +9222,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Esportiu Alcudiamar",
@@ -8240,6 +9608,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "SERVICIOS TECNICOS PORTUARIOS",
@@ -8569,6 +9994,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina de Bonaire Cocodrilo",
@@ -8898,6 +10380,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina Tramontana",
@@ -9227,6 +10766,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Adriano",
@@ -9556,6 +11152,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Moll Vell",
@@ -9885,6 +11538,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Pantalan Mediterraneo",
@@ -10214,6 +11924,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Olimpic Calanova",
@@ -10543,6 +12310,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "NAUTIC CENTER MENORCA",
@@ -10872,6 +12696,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA DEPORTIVA DE MENORCA",
@@ -11201,6 +13082,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "CLUB NAUTIC FORNELLS",
@@ -11530,6 +13468,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PUERTO ADDAYA",
@@ -11859,6 +13854,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Cala'n Bosch",
@@ -12188,6 +14240,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT MAHON",
@@ -12517,6 +14626,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PORT DE LLEVANT",
@@ -12846,6 +15012,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "VARADERO IBIZA",
@@ -13175,6 +15398,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT IBIZA",
@@ -13504,6 +15784,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA IBIZA",
@@ -13833,6 +16170,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Botafoc Ibiza",
@@ -14162,6 +16556,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA SANTA EULALIA",
@@ -14491,6 +16942,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
 
   {
@@ -14829,6 +17337,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT DE MALLORCA",
@@ -15158,6 +17723,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Esportiu Alcudiamar",
@@ -15487,6 +18109,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "SERVICIOS TECNICOS PORTUARIOS",
@@ -15816,6 +18495,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina de Bonaire Cocodrilo",
@@ -16145,6 +18881,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina Tramontana",
@@ -16474,6 +19267,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Adriano",
@@ -16803,6 +19653,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Moll Vell",
@@ -17132,6 +20039,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Pantalan Mediterraneo",
@@ -17461,6 +20425,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Olimpic Calanova",
@@ -17790,6 +20811,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "NAUTIC CENTER MENORCA",
@@ -18119,6 +21197,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA DEPORTIVA DE MENORCA",
@@ -18448,6 +21583,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "CLUB NAUTIC FORNELLS",
@@ -18777,6 +21969,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PUERTO ADDAYA",
@@ -19106,6 +22355,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Cala'n Bosch",
@@ -19435,6 +22741,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT MAHON",
@@ -19764,6 +23127,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PORT DE LLEVANT",
@@ -20093,6 +23513,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "VARADERO IBIZA",
@@ -20422,6 +23899,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT IBIZA",
@@ -20751,6 +24285,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA IBIZA",
@@ -21080,6 +24671,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Botafoc Ibiza",
@@ -21409,6 +25057,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA SANTA EULALIA",
@@ -21738,6 +25443,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
 
   {
@@ -22076,6 +25838,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT DE MALLORCA",
@@ -22405,6 +26224,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Esportiu Alcudiamar",
@@ -22734,6 +26610,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "SERVICIOS TECNICOS PORTUARIOS",
@@ -23063,6 +26996,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina de Bonaire Cocodrilo",
@@ -23392,6 +27382,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina Tramontana",
@@ -23721,6 +27768,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Adriano",
@@ -24050,6 +28154,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Moll Vell",
@@ -24379,6 +28540,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Pantalan Mediterraneo",
@@ -24708,6 +28926,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Olimpic Calanova",
@@ -25037,6 +29312,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "NAUTIC CENTER MENORCA",
@@ -25366,6 +29698,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA DEPORTIVA DE MENORCA",
@@ -25695,6 +30084,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "CLUB NAUTIC FORNELLS",
@@ -26024,6 +30470,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PUERTO ADDAYA",
@@ -26353,6 +30856,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Cala'n Bosch",
@@ -26682,6 +31242,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT MAHON",
@@ -27011,6 +31628,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PORT DE LLEVANT",
@@ -27340,6 +32014,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "VARADERO IBIZA",
@@ -27669,6 +32400,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT IBIZA",
@@ -27998,6 +32786,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA IBIZA",
@@ -28327,6 +33172,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Botafoc Ibiza",
@@ -28656,6 +33558,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA SANTA EULALIA",
@@ -28985,6 +33944,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
 
   {
@@ -29323,6 +34339,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT DE MALLORCA",
@@ -29652,6 +34725,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Esportiu Alcudiamar",
@@ -29981,6 +35111,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "SERVICIOS TECNICOS PORTUARIOS",
@@ -30310,6 +35497,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina de Bonaire Cocodrilo",
@@ -30639,6 +35883,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina Tramontana",
@@ -30968,6 +36269,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Adriano",
@@ -31297,6 +36655,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Moll Vell",
@@ -31626,6 +37041,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Pantalan Mediterraneo",
@@ -31955,6 +37427,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Olimpic Calanova",
@@ -32284,6 +37813,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "NAUTIC CENTER MENORCA",
@@ -32613,6 +38199,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA DEPORTIVA DE MENORCA",
@@ -32942,6 +38585,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "CLUB NAUTIC FORNELLS",
@@ -33271,6 +38971,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PUERTO ADDAYA",
@@ -33600,6 +39357,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Cala'n Bosch",
@@ -33929,6 +39743,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT MAHON",
@@ -34258,6 +40129,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PORT DE LLEVANT",
@@ -34587,6 +40515,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "VARADERO IBIZA",
@@ -34916,6 +40901,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT IBIZA",
@@ -35245,6 +41287,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA IBIZA",
@@ -35574,6 +41673,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Botafoc Ibiza",
@@ -35903,6 +42059,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA SANTA EULALIA",
@@ -36232,6 +42445,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
 
   {
@@ -36570,6 +42840,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT DE MALLORCA",
@@ -36899,6 +43226,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Esportiu Alcudiamar",
@@ -37228,6 +43612,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "SERVICIOS TECNICOS PORTUARIOS",
@@ -37557,6 +43998,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina de Bonaire Cocodrilo",
@@ -37886,6 +44384,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina Tramontana",
@@ -38215,6 +44770,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Adriano",
@@ -38544,6 +45156,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Moll Vell",
@@ -38873,6 +45542,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Pantalan Mediterraneo",
@@ -39202,6 +45928,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Olimpic Calanova",
@@ -39531,6 +46314,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "NAUTIC CENTER MENORCA",
@@ -39860,6 +46700,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA DEPORTIVA DE MENORCA",
@@ -40189,6 +47086,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "CLUB NAUTIC FORNELLS",
@@ -40518,6 +47472,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PUERTO ADDAYA",
@@ -40847,6 +47858,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Cala'n Bosch",
@@ -41176,6 +48244,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT MAHON",
@@ -41505,6 +48630,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PORT DE LLEVANT",
@@ -41834,6 +49016,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "VARADERO IBIZA",
@@ -42163,6 +49402,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT IBIZA",
@@ -42492,6 +49788,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA IBIZA",
@@ -42821,6 +50174,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Botafoc Ibiza",
@@ -43150,6 +50560,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA SANTA EULALIA",
@@ -43479,6 +50946,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
 
   {
@@ -43817,6 +51341,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT DE MALLORCA",
@@ -44146,6 +51727,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Esportiu Alcudiamar",
@@ -44475,6 +52113,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "SERVICIOS TECNICOS PORTUARIOS",
@@ -44804,6 +52499,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina de Bonaire Cocodrilo",
@@ -45133,6 +52885,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina Tramontana",
@@ -45462,6 +53271,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Adriano",
@@ -45791,6 +53657,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Moll Vell",
@@ -46120,6 +54043,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Pantalan Mediterraneo",
@@ -46449,6 +54429,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Olimpic Calanova",
@@ -46778,6 +54815,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "NAUTIC CENTER MENORCA",
@@ -47107,6 +55201,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA DEPORTIVA DE MENORCA",
@@ -47436,6 +55587,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "CLUB NAUTIC FORNELLS",
@@ -47765,6 +55973,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PUERTO ADDAYA",
@@ -48094,6 +56359,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Cala'n Bosch",
@@ -48423,6 +56745,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT MAHON",
@@ -48752,6 +57131,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PORT DE LLEVANT",
@@ -49081,6 +57517,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "VARADERO IBIZA",
@@ -49410,6 +57903,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT IBIZA",
@@ -49739,6 +58289,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA IBIZA",
@@ -50068,6 +58675,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Botafoc Ibiza",
@@ -50397,6 +59061,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA SANTA EULALIA",
@@ -50726,6 +59447,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
 
   {
@@ -51064,6 +59842,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT DE MALLORCA",
@@ -51393,6 +60228,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Esportiu Alcudiamar",
@@ -51722,6 +60614,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "SERVICIOS TECNICOS PORTUARIOS",
@@ -52051,6 +61000,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina de Bonaire Cocodrilo",
@@ -52380,6 +61386,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina Tramontana",
@@ -52709,6 +61772,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Adriano",
@@ -53038,6 +62158,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Moll Vell",
@@ -53367,6 +62544,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Pantalan Mediterraneo",
@@ -53696,6 +62930,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Olimpic Calanova",
@@ -54025,6 +63316,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "NAUTIC CENTER MENORCA",
@@ -54354,6 +63702,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA DEPORTIVA DE MENORCA",
@@ -54683,6 +64088,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "CLUB NAUTIC FORNELLS",
@@ -55012,6 +64474,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PUERTO ADDAYA",
@@ -55341,6 +64860,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Cala'n Bosch",
@@ -55670,6 +65246,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT MAHON",
@@ -55999,6 +65632,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PORT DE LLEVANT",
@@ -56328,6 +66018,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "VARADERO IBIZA",
@@ -56657,6 +66404,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT IBIZA",
@@ -56986,6 +66790,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA IBIZA",
@@ -57315,6 +67176,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Botafoc Ibiza",
@@ -57644,6 +67562,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA SANTA EULALIA",
@@ -57973,6 +67948,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
 
   {
@@ -58311,6 +68343,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT DE MALLORCA",
@@ -58640,6 +68729,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Esportiu Alcudiamar",
@@ -58969,6 +69115,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "SERVICIOS TECNICOS PORTUARIOS",
@@ -59298,6 +69501,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina de Bonaire Cocodrilo",
@@ -59627,6 +69887,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina Tramontana",
@@ -59956,6 +70273,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Adriano",
@@ -60285,6 +70659,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Moll Vell",
@@ -60614,6 +71045,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Pantalan Mediterraneo",
@@ -60943,6 +71431,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Olimpic Calanova",
@@ -61272,6 +71817,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "NAUTIC CENTER MENORCA",
@@ -61601,6 +72203,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA DEPORTIVA DE MENORCA",
@@ -61930,6 +72589,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "CLUB NAUTIC FORNELLS",
@@ -62259,6 +72975,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PUERTO ADDAYA",
@@ -62588,6 +73361,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Cala'n Bosch",
@@ -62917,6 +73747,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT MAHON",
@@ -63246,6 +74133,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PORT DE LLEVANT",
@@ -63575,6 +74519,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "VARADERO IBIZA",
@@ -63904,6 +74905,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT IBIZA",
@@ -64233,6 +75291,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA IBIZA",
@@ -64562,6 +75677,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Botafoc Ibiza",
@@ -64891,6 +76063,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA SANTA EULALIA",
@@ -65220,6 +76449,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
 
   {
@@ -65558,6 +76844,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT DE MALLORCA",
@@ -65887,6 +77230,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Esportiu Alcudiamar",
@@ -66216,6 +77616,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "SERVICIOS TECNICOS PORTUARIOS",
@@ -66545,6 +78002,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina de Bonaire Cocodrilo",
@@ -66874,6 +78388,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina Tramontana",
@@ -67203,6 +78774,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Adriano",
@@ -67532,6 +79160,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Moll Vell",
@@ -67861,6 +79546,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Pantalan Mediterraneo",
@@ -68190,6 +79932,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Olimpic Calanova",
@@ -68519,6 +80318,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "NAUTIC CENTER MENORCA",
@@ -68848,6 +80704,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA DEPORTIVA DE MENORCA",
@@ -69177,6 +81090,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "CLUB NAUTIC FORNELLS",
@@ -69506,6 +81476,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PUERTO ADDAYA",
@@ -69835,6 +81862,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Cala'n Bosch",
@@ -70164,6 +82248,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT MAHON",
@@ -70493,6 +82634,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PORT DE LLEVANT",
@@ -70822,6 +83020,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "VARADERO IBIZA",
@@ -71151,6 +83406,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT IBIZA",
@@ -71480,6 +83792,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA IBIZA",
@@ -71809,6 +84178,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Botafoc Ibiza",
@@ -72138,6 +84564,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA SANTA EULALIA",
@@ -72467,6 +84950,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
 
   {
@@ -72805,6 +85345,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT DE MALLORCA",
@@ -73134,6 +85731,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Esportiu Alcudiamar",
@@ -73463,6 +86117,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "SERVICIOS TECNICOS PORTUARIOS",
@@ -73792,6 +86503,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina de Bonaire Cocodrilo",
@@ -74121,6 +86889,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina Tramontana",
@@ -74450,6 +87275,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Adriano",
@@ -74779,6 +87661,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Moll Vell",
@@ -75108,6 +88047,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Pantalan Mediterraneo",
@@ -75437,6 +88433,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Olimpic Calanova",
@@ -75766,6 +88819,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "NAUTIC CENTER MENORCA",
@@ -76095,6 +89205,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA DEPORTIVA DE MENORCA",
@@ -76424,6 +89591,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "CLUB NAUTIC FORNELLS",
@@ -76753,6 +89977,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PUERTO ADDAYA",
@@ -77082,6 +90363,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Cala'n Bosch",
@@ -77411,6 +90749,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT MAHON",
@@ -77740,6 +91135,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PORT DE LLEVANT",
@@ -78069,6 +91521,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "VARADERO IBIZA",
@@ -78398,6 +91907,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT IBIZA",
@@ -78727,6 +92293,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA IBIZA",
@@ -79056,6 +92679,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Botafoc Ibiza",
@@ -79385,6 +93065,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA SANTA EULALIA",
@@ -79714,6 +93451,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
 
   {
@@ -80052,6 +93846,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT DE MALLORCA",
@@ -80381,6 +94232,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Esportiu Alcudiamar",
@@ -80710,6 +94618,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "SERVICIOS TECNICOS PORTUARIOS",
@@ -81039,6 +95004,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina de Bonaire Cocodrilo",
@@ -81368,6 +95390,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina Tramontana",
@@ -81697,6 +95776,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Adriano",
@@ -82026,6 +96162,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Moll Vell",
@@ -82355,6 +96548,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Pantalan Mediterraneo",
@@ -82684,6 +96934,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Olimpic Calanova",
@@ -83013,6 +97320,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "NAUTIC CENTER MENORCA",
@@ -83342,6 +97706,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA DEPORTIVA DE MENORCA",
@@ -83671,6 +98092,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "CLUB NAUTIC FORNELLS",
@@ -84000,6 +98478,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PUERTO ADDAYA",
@@ -84329,6 +98864,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Cala'n Bosch",
@@ -84658,6 +99250,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT MAHON",
@@ -84987,6 +99636,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PORT DE LLEVANT",
@@ -85316,6 +100022,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "VARADERO IBIZA",
@@ -85645,6 +100408,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT IBIZA",
@@ -85974,6 +100794,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA IBIZA",
@@ -86303,6 +101180,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Botafoc Ibiza",
@@ -86632,6 +101566,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA SANTA EULALIA",
@@ -86961,6 +101952,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
 
   {
@@ -87299,6 +102347,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT DE MALLORCA",
@@ -87628,6 +102733,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Esportiu Alcudiamar",
@@ -87957,6 +103119,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "SERVICIOS TECNICOS PORTUARIOS",
@@ -88286,6 +103505,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina de Bonaire Cocodrilo",
@@ -88615,6 +103891,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina Tramontana",
@@ -88944,6 +104277,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Adriano",
@@ -89273,6 +104663,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Moll Vell",
@@ -89602,6 +105049,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Pantalan Mediterraneo",
@@ -89931,6 +105435,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Olimpic Calanova",
@@ -90260,6 +105821,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "NAUTIC CENTER MENORCA",
@@ -90589,6 +106207,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA DEPORTIVA DE MENORCA",
@@ -90918,6 +106593,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "CLUB NAUTIC FORNELLS",
@@ -91247,6 +106979,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PUERTO ADDAYA",
@@ -91576,6 +107365,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Cala'n Bosch",
@@ -91905,6 +107751,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT MAHON",
@@ -92234,6 +108137,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PORT DE LLEVANT",
@@ -92563,6 +108523,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "VARADERO IBIZA",
@@ -92892,6 +108909,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT IBIZA",
@@ -93221,6 +109295,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA IBIZA",
@@ -93550,6 +109681,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Botafoc Ibiza",
@@ -93879,6 +110067,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA SANTA EULALIA",
@@ -94208,6 +110453,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
 
   {
@@ -94546,6 +110848,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT DE MALLORCA",
@@ -94875,6 +111234,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Esportiu Alcudiamar",
@@ -95204,6 +111620,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "SERVICIOS TECNICOS PORTUARIOS",
@@ -95533,6 +112006,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina de Bonaire Cocodrilo",
@@ -95862,6 +112392,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina Tramontana",
@@ -96191,6 +112778,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Adriano",
@@ -96520,6 +113164,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Moll Vell",
@@ -96849,6 +113550,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Pantalan Mediterraneo",
@@ -97178,6 +113936,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Olimpic Calanova",
@@ -97507,6 +114322,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "NAUTIC CENTER MENORCA",
@@ -97836,6 +114708,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA DEPORTIVA DE MENORCA",
@@ -98165,6 +115094,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "CLUB NAUTIC FORNELLS",
@@ -98494,6 +115480,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PUERTO ADDAYA",
@@ -98823,6 +115866,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Cala'n Bosch",
@@ -99152,6 +116252,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT MAHON",
@@ -99481,6 +116638,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PORT DE LLEVANT",
@@ -99810,6 +117024,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "VARADERO IBIZA",
@@ -100139,6 +117410,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT IBIZA",
@@ -100468,6 +117796,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA IBIZA",
@@ -100797,6 +118182,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Botafoc Ibiza",
@@ -101126,6 +118568,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA SANTA EULALIA",
@@ -101455,6 +118954,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
 
   {
@@ -101793,6 +119349,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT DE MALLORCA",
@@ -102122,6 +119735,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Esportiu Alcudiamar",
@@ -102451,6 +120121,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "SERVICIOS TECNICOS PORTUARIOS",
@@ -102780,6 +120507,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina de Bonaire Cocodrilo",
@@ -103109,6 +120893,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina Tramontana",
@@ -103438,6 +121279,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Adriano",
@@ -103767,6 +121665,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Moll Vell",
@@ -104096,6 +122051,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Pantalan Mediterraneo",
@@ -104425,6 +122437,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Olimpic Calanova",
@@ -104754,6 +122823,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "NAUTIC CENTER MENORCA",
@@ -105083,6 +123209,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA DEPORTIVA DE MENORCA",
@@ -105412,6 +123595,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "CLUB NAUTIC FORNELLS",
@@ -105741,6 +123981,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PUERTO ADDAYA",
@@ -106070,6 +124367,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Cala'n Bosch",
@@ -106399,6 +124753,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT MAHON",
@@ -106728,6 +125139,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PORT DE LLEVANT",
@@ -107057,6 +125525,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "VARADERO IBIZA",
@@ -107386,6 +125911,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT IBIZA",
@@ -107715,6 +126297,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA IBIZA",
@@ -108044,6 +126683,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Botafoc Ibiza",
@@ -108373,6 +127069,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA SANTA EULALIA",
@@ -108702,6 +127455,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
 
   {
@@ -109040,6 +127850,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT DE MALLORCA",
@@ -109369,6 +128236,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Esportiu Alcudiamar",
@@ -109698,6 +128622,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "SERVICIOS TECNICOS PORTUARIOS",
@@ -110027,6 +129008,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina de Bonaire Cocodrilo",
@@ -110356,6 +129394,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina Tramontana",
@@ -110685,6 +129780,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Adriano",
@@ -111014,6 +130166,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Moll Vell",
@@ -111343,6 +130552,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Pantalan Mediterraneo",
@@ -111672,6 +130938,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Olimpic Calanova",
@@ -112001,6 +131324,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "NAUTIC CENTER MENORCA",
@@ -112330,6 +131710,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA DEPORTIVA DE MENORCA",
@@ -112659,6 +132096,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "CLUB NAUTIC FORNELLS",
@@ -112988,6 +132482,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PUERTO ADDAYA",
@@ -113317,6 +132868,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Cala'n Bosch",
@@ -113646,6 +133254,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT MAHON",
@@ -113975,6 +133640,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PORT DE LLEVANT",
@@ -114304,6 +134026,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "VARADERO IBIZA",
@@ -114633,6 +134412,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT IBIZA",
@@ -114962,6 +134798,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA IBIZA",
@@ -115291,6 +135184,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Botafoc Ibiza",
@@ -115620,6 +135570,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA SANTA EULALIA",
@@ -115949,6 +135956,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
 
   {
@@ -116287,6 +136351,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT DE MALLORCA",
@@ -116616,6 +136737,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Esportiu Alcudiamar",
@@ -116945,6 +137123,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "SERVICIOS TECNICOS PORTUARIOS",
@@ -117274,6 +137509,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina de Bonaire Cocodrilo",
@@ -117603,6 +137895,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina Tramontana",
@@ -117932,6 +138281,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Adriano",
@@ -118261,6 +138667,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Moll Vell",
@@ -118590,6 +139053,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Pantalan Mediterraneo",
@@ -118919,6 +139439,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Olimpic Calanova",
@@ -119248,6 +139825,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "NAUTIC CENTER MENORCA",
@@ -119577,6 +140211,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA DEPORTIVA DE MENORCA",
@@ -119906,6 +140597,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "CLUB NAUTIC FORNELLS",
@@ -120235,6 +140983,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PUERTO ADDAYA",
@@ -120564,6 +141369,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Cala'n Bosch",
@@ -120893,6 +141755,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT MAHON",
@@ -121222,6 +142141,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PORT DE LLEVANT",
@@ -121551,6 +142527,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "VARADERO IBIZA",
@@ -121880,6 +142913,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT IBIZA",
@@ -122209,6 +143299,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA IBIZA",
@@ -122538,6 +143685,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Botafoc Ibiza",
@@ -122867,6 +144071,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA SANTA EULALIA",
@@ -123196,6 +144457,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
 
   {
@@ -123534,6 +144852,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT DE MALLORCA",
@@ -123863,6 +145238,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Esportiu Alcudiamar",
@@ -124192,6 +145624,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "SERVICIOS TECNICOS PORTUARIOS",
@@ -124521,6 +146010,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina de Bonaire Cocodrilo",
@@ -124850,6 +146396,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina Tramontana",
@@ -125179,6 +146782,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Adriano",
@@ -125508,6 +147168,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Moll Vell",
@@ -125837,6 +147554,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Pantalan Mediterraneo",
@@ -126166,6 +147940,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Port Olimpic Calanova",
@@ -126495,6 +148326,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "NAUTIC CENTER MENORCA",
@@ -126824,6 +148712,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA DEPORTIVA DE MENORCA",
@@ -127153,6 +149098,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "CLUB NAUTIC FORNELLS",
@@ -127482,6 +149484,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PUERTO ADDAYA",
@@ -127811,6 +149870,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Cala'n Bosch",
@@ -128140,6 +150256,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT MAHON",
@@ -128469,6 +150642,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "PORT DE LLEVANT",
@@ -128798,6 +151028,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "VARADERO IBIZA",
@@ -129127,6 +151414,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA PORT IBIZA",
@@ -129456,6 +151800,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA IBIZA",
@@ -129785,6 +152186,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Botafoc Ibiza",
@@ -130114,6 +152572,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "MARINA SANTA EULALIA",
@@ -130443,6 +152958,63 @@ const marinasEspana = [
     website: "https://portportbou.com",
     google_maps: "https://maps.app.goo.gl/svid7g3xdo9WpyTT8?g_st=ic"
   },
+  {
+    name: "Club Nàutic Les Cases d'Alcanar",
+    lat: 40.5651,
+    lng: 0.5084,
+    region: "Cataluña",
+    website: "https://clubnauticcasesdalcanar.com",
+    google_maps: "https://maps.app.goo.gl/2o7mfMT6jbjZ391e8?g_st=ic"
+  },
+  {
+    name: "Sant Carles Marina",
+    lat: 40.6151,
+    lng: 0.5884,
+    region: "Cataluña",
+    website: "https://santcarlesmarina.com",
+    google_maps: "https://maps.app.goo.gl/5DoiiDVWdnqJ4DQx5?g_st=ic"
+  },
+  {
+    name: "Port Deltebre - CN Riumar",
+    lat: 40.7251,
+    lng: 0.7284,
+    region: "Cataluña",
+    website: "https://cnriumar.com",
+    google_maps: "https://maps.app.goo.gl/7eHqYqrHXeQhJmvT7?g_st=ic"
+  },
+  {
+    name: "Port Marina Sant Jordi",
+    lat: 40.9651,
+    lng: 0.7584,
+    region: "Cataluña",
+    website: "https://marinasantjordi.com",
+    google_maps: "https://maps.app.goo.gl/KAz5t3kahdAFXvfP7?g_st=ic"
+  },
+  {
+    name: "Port Calafat",
+    lat: 40.8151,
+    lng: 0.6884,
+    region: "Cataluña",
+    website: "https://portcalafat.com",
+    google_maps: "https://maps.app.goo.gl/immSP2jCpiPMzcVW9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Hospitalet-Vandellòs",
+    lat: 40.9851,
+    lng: 0.8884,
+    region: "Cataluña",
+    website: "https://cnhospitalet.com",
+    google_maps: "https://maps.app.goo.gl/mQJEY3Y2dnLri3Av9?g_st=ic"
+  },
+  {
+    name: "Club Nàutic Cambrils",
+    lat: 41.0651,
+    lng: 1.0584,
+    region: "Cataluña",
+    website: "https://clubnauticcambrils.com",
+    google_maps: "https://maps.app.goo.gl/ERA69KwqPjmJGMvz9?g_st=ic"
+  },
+
 
   {
     name: "Marina Real Juan Carlos I",
