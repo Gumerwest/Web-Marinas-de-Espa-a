@@ -99,7 +99,7 @@ function addIntegratedMarkers() {
                     <a href="${marina.website}" target="_blank" class="popup-btn web-btn">
                         <i class="fas fa-globe"></i> Web
                     </a>
-                    <a href="https://www.google.com/maps/search/?api=1&query=${marina.lat},${marina.lng}" target="_blank" class="popup-btn maps-btn">
+                    <a href="${marina.google_maps}" target="_blank" class="popup-btn maps-btn">
                         <i class="fas fa-map-marker-alt"></i> Maps
                     </a>
                 </div>
