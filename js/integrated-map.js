@@ -1,87 +1,97 @@
-// Mapa Integrado de Marinas de España
+// Mapa Integrado de Marinas de España - Versión Robusta
 let integratedMap;
 let integratedMarkers = [];
 let filteredMarinas = [];
 
-// Esperar a que el DOM esté listo
-document.addEventListener('DOMContentLoaded', function() {
+// Función para inicializar el mapa cuando todo esté listo
+function initializeIntegratedMap() {
     // Verificar que los datos estén disponibles
-    if (typeof marinasEspana === 'undefined') {
-        console.error('marinasEspana no está definido');
+    if (typeof marinasEspana === 'undefined' || !marinasEspana || marinasEspana.length === 0) {
+        console.error('Datos de marinas no disponibles');
+        // Intentar de nuevo en 1 segundo
+        setTimeout(initializeIntegratedMap, 1000);
         return;
     }
     
+    console.log('Inicializando mapa con', marinasEspana.length, 'marinas');
     filteredMarinas = [...marinasEspana];
     
-    // Inicializar el mapa si el contenedor existe
+    // Verificar que el contenedor del mapa existe
     const mapContainer = document.getElementById('integrated-map');
-    if (mapContainer) {
-        initIntegratedMap();
-        setupIntegratedControls();
+    if (!mapContainer) {
+        console.error('Contenedor del mapa no encontrado');
+        return;
     }
-});
+    
+    // Inicializar el mapa
+    initIntegratedMap();
+    setupIntegratedControls();
+    updateStats();
+}
 
 // Colores por región
 const regionColors = {
     'Andalucía': '#1e40af',
-    'Baleares': '#166534', 
-    'Cataluña': '#92400e',
-    'Valencia': '#7c3aed',
-    'Murcia': '#be185d',
-    'Galicia': '#059669',
-    'Asturias': '#dc2626',
-    'Canarias': '#ea580c'
+    'Baleares': '#dc2626',
+    'Cataluña': '#16a34a',
+    'Valencia': '#2563eb',
+    'Murcia': '#7c3aed',
+    'Galicia': '#ea580c',
+    'Asturias': '#0891b2',
+    'Canarias': '#be123c'
 };
 
-// Inicializar mapa integrado
+// Inicializar mapa
 function initIntegratedMap() {
-    // Crear mapa centrado en España con altura compacta
-    integratedMap = L.map('integratedMap', {
-        zoomControl: false,
-        scrollWheelZoom: false,
-        doubleClickZoom: false,
-        dragging: true,
-        touchZoom: true
-    }).setView([40.0, -3.5], 6);
-
-    // Agregar tiles del mapa
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '© OpenStreetMap contributors'
-    }).addTo(integratedMap);
-
-    // Agregar controles de zoom personalizados
-    L.control.zoom({
-        position: 'bottomright'
-    }).addTo(integratedMap);
-
-    // Cargar marcadores
-    loadIntegratedMarkers();
-    
-    // Configurar eventos
-    setupIntegratedMapEvents();
-}
-
-// Cargar marcadores en el mapa integrado
-function loadIntegratedMarkers() {
-    // Limpiar marcadores existentes
-    integratedMarkers.forEach(marker => integratedMap.removeLayer(marker));
-    integratedMarkers = [];
-
-    filteredMarinas.forEach((marina, index) => {
-        const color = regionColors[marina.region] || '#666666';
-        
-        // Crear icono personalizado más pequeño para el mapa integrado
-        const customIcon = L.divIcon({
-            className: 'custom-marker-integrated',
-            html: `<div style="background-color: ${color}; width: 20px; height: 20px; border-radius: 50%; border: 2px solid white; box-shadow: 0 2px 4px rgba(0,0,0,0.3); display: flex; align-items: center; justify-content: center; color: white; font-size: 10px; font-weight: bold;">${index + 1}</div>`,
-            iconSize: [20, 20],
-            iconAnchor: [10, 10]
+    try {
+        integratedMap = L.map('integrated-map', {
+            center: [40.0, -4.0],
+            zoom: 6,
+            zoomControl: true,
+            scrollWheelZoom: true
         });
 
-        const marker = L.marker([marina.lat, marina.lng], { icon: customIcon })
-            .addTo(integratedMap);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors'
+        }).addTo(integratedMap);
 
-        // Popup simplificado para el mapa integrado
+        // Agregar marcadores
+        addIntegratedMarkers();
+        
+        console.log('Mapa inicializado correctamente');
+    } catch (error) {
+        console.error('Error al inicializar el mapa:', error);
+    }
+}
+
+// Agregar marcadores al mapa
+function addIntegratedMarkers() {
+    // Limpiar marcadores existentes
+    integratedMarkers.forEach(marker => {
+        integratedMap.removeLayer(marker);
+    });
+    integratedMarkers = [];
+
+    // Agregar nuevos marcadores
+    filteredMarinas.forEach(marina => {
+        const color = regionColors[marina.region] || '#6b7280';
+        
+        const customIcon = L.divIcon({
+            className: 'custom-marker-integrated',
+            html: `<div style="
+                background-color: ${color};
+                width: 12px;
+                height: 12px;
+                border-radius: 50%;
+                border: 2px solid white;
+                box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+            "></div>`,
+            iconSize: [16, 16],
+            iconAnchor: [8, 8]
+        });
+
+        const marker = L.marker([marina.lat, marina.lng], { icon: customIcon });
+        
         const popupContent = `
             <div class="integrated-popup">
                 <h4>${marina.name}</h4>
@@ -95,78 +105,97 @@ function loadIntegratedMarkers() {
                 </div>
             </div>
         `;
-
+        
         marker.bindPopup(popupContent, {
-            maxWidth: 200,
             className: 'custom-popup-integrated'
         });
-
+        
+        marker.addTo(integratedMap);
         integratedMarkers.push(marker);
     });
 }
 
-// Configurar eventos del mapa integrado
-function setupIntegratedMapEvents() {
-    // Búsqueda
-    const searchInput = document.getElementById('mapSearch');
+// Configurar controles
+function setupIntegratedControls() {
+    const searchInput = document.querySelector('#integrated-search');
+    const regionButtons = document.querySelectorAll('.region-filter');
+    
     if (searchInput) {
-        searchInput.addEventListener('input', (e) => {
-            const searchTerm = e.target.value.toLowerCase();
-            filterMarinas(searchTerm, getCurrentRegionFilter());
+        searchInput.addEventListener('input', function() {
+            const searchTerm = this.value.toLowerCase();
+            const activeRegion = document.querySelector('.region-filter.active')?.textContent || 'Todas';
+            filterMarinas(searchTerm, activeRegion);
         });
     }
-
-    // Filtros de región
-    const regionFilters = document.querySelectorAll('.region-filter');
-    regionFilters.forEach(filter => {
-        filter.addEventListener('click', (e) => {
-            // Actualizar estado activo
-            regionFilters.forEach(f => f.classList.remove('active'));
-            e.target.classList.add('active');
+    
+    regionButtons.forEach(button => {
+        button.addEventListener('click', function() {
+            // Remover clase active de todos los botones
+            regionButtons.forEach(btn => btn.classList.remove('active'));
+            // Agregar clase active al botón clickeado
+            this.classList.add('active');
             
-            const region = e.target.dataset.region;
+            const region = this.textContent;
             const searchTerm = searchInput ? searchInput.value.toLowerCase() : '';
             filterMarinas(searchTerm, region);
         });
     });
+    
+    console.log('Controles configurados');
 }
 
 // Filtrar marinas
 function filterMarinas(searchTerm, region) {
+    if (!marinasEspana || marinasEspana.length === 0) {
+        console.error('No hay datos de marinas para filtrar');
+        return;
+    }
+    
     filteredMarinas = marinasEspana.filter(marina => {
         const matchesSearch = !searchTerm || 
             marina.name.toLowerCase().includes(searchTerm) ||
             marina.region.toLowerCase().includes(searchTerm);
         
-        const matchesRegion = region === 'all' || marina.region === region;
+        const matchesRegion = region === 'Todas' || marina.region === region;
         
         return matchesSearch && matchesRegion;
     });
-
-    // Actualizar contador
-    const totalElement = document.getElementById('totalMarinas');
-    if (totalElement) {
-        totalElement.textContent = filteredMarinas.length;
+    
+    // Actualizar mapa y estadísticas
+    if (integratedMap) {
+        addIntegratedMarkers();
     }
-
-    // Recargar marcadores
-    loadIntegratedMarkers();
+    updateStats();
 }
 
-// Obtener filtro de región actual
-function getCurrentRegionFilter() {
-    const activeFilter = document.querySelector('.region-filter.active');
-    return activeFilter ? activeFilter.dataset.region : 'all';
+// Actualizar estadísticas
+function updateStats() {
+    const marinasCount = document.querySelector('.stat-number');
+    const regionsCount = document.querySelectorAll('.stat-number')[1];
+    
+    if (marinasCount) {
+        marinasCount.textContent = filteredMarinas.length;
+    }
+    
+    if (regionsCount) {
+        const uniqueRegions = [...new Set(filteredMarinas.map(m => m.region))];
+        regionsCount.textContent = uniqueRegions.length;
+    }
 }
 
 // Inicializar cuando el DOM esté listo
 document.addEventListener('DOMContentLoaded', function() {
-    // Esperar un poco para asegurar que todos los elementos estén cargados
-    setTimeout(() => {
-        if (document.getElementById('integratedMap')) {
-            initIntegratedMap();
-        }
-    }, 500);
+    console.log('DOM cargado, iniciando mapa...');
+    // Intentar inicializar inmediatamente
+    initializeIntegratedMap();
+});
+
+// También intentar inicializar cuando la ventana se carga completamente
+window.addEventListener('load', function() {
+    console.log('Ventana cargada, verificando mapa...');
+    if (!integratedMap) {
+        initializeIntegratedMap();
+    }
 });
 
 // Redimensionar mapa cuando sea necesario
@@ -175,6 +204,6 @@ window.addEventListener('resize', function() {
         setTimeout(() => {
             integratedMap.invalidateSize();
         }, 100);
-    });
+    }
 });
 
