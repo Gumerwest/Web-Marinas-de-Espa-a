@@ -1,7 +1,25 @@
 // Mapa Integrado de Marinas de España
 let integratedMap;
 let integratedMarkers = [];
-let filteredMarinas = [...marinasEspana];
+let filteredMarinas = [];
+
+// Esperar a que el DOM esté listo
+document.addEventListener('DOMContentLoaded', function() {
+    // Verificar que los datos estén disponibles
+    if (typeof marinasEspana === 'undefined') {
+        console.error('marinasEspana no está definido');
+        return;
+    }
+    
+    filteredMarinas = [...marinasEspana];
+    
+    // Inicializar el mapa si el contenedor existe
+    const mapContainer = document.getElementById('integrated-map');
+    if (mapContainer) {
+        initIntegratedMap();
+        setupIntegratedControls();
+    }
+});
 
 // Colores por región
 const regionColors = {
