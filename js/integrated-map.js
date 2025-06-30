@@ -17,7 +17,7 @@ function initializeIntegratedMap() {
     filteredMarinas = [...marinasEspana];
     
     // Verificar que el contenedor del mapa existe
-    const mapContainer = document.getElementById('integrated-map');
+    const mapContainer = document.getElementById('integratedMap');
     if (!mapContainer) {
         console.error('Contenedor del mapa no encontrado');
         return;
@@ -44,7 +44,7 @@ const regionColors = {
 // Inicializar mapa
 function initIntegratedMap() {
     try {
-        integratedMap = L.map('integrated-map', {
+        integratedMap = L.map('integratedMap', {
             center: [40.0, -4.0],
             zoom: 6,
             zoomControl: true,
