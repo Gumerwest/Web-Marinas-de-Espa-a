@@ -89,8 +89,8 @@ const marinasEspana = [
   },
   {
     name: "NAUTIC CENTER MENORCA",
-    lat: 39.9336983,
-    lng: 3.7362535,
+    lat: 40.0,
+    lng: 3.8333,
     region: "Baleares",
     website: "https://nauticcenter.net",
     google_maps: "https://www.google.com/maps/place/Nautic+Center+Menorca+%7C+Agencia+n%C3%A1utica/@39.9336983,3.7362535,10z/data=!4m10!1m2!2m1!1sNAUTIC+CENTER+MENORCA!3m6!1s0x12958700e3cad6a3:0xa1cff33f82759f3!8m2!3d39.888701!4d4.275436!15sChVOQVVUSUMgQ0VOVEVSIE1FTk9SQ0FaFyIVbmF1dGljIGNlbnRlciBtZW5vcmNhkgELYm9hdF9kZWFsZXKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUmhiamxNU0daM0VBRaoBURABKhEiDW5hdXRpYyBjZW50ZXIoADIfEAEiG4HpoH6KdabnhKnASXHwU4yFZBibxsoMv64gcDIZEAIiFW5hdXRpYyBjZW50ZXIgbWVub3JjYeABAPoBBAgIECM!16s%2Fg%2F11fmfz5mfy?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D"
@@ -274,8 +274,8 @@ const marinasEspana = [
   },
   {
     name: "NAUTIC CENTER MENORCA",
-    lat: 39.9336983,
-    lng: 3.7362535,
+    lat: 40.0,
+    lng: 3.8333,
     region: "Baleares",
     website: "https://nauticcenter.net",
     google_maps: "https://www.google.com/maps/place/Nautic+Center+Menorca+%7C+Agencia+n%C3%A1utica/@39.9336983,3.7362535,10z/data=!4m10!1m2!2m1!1sNAUTIC+CENTER+MENORCA!3m6!1s0x12958700e3cad6a3:0xa1cff33f82759f3!8m2!3d39.888701!4d4.275436!15sChVOQVVUSUMgQ0VOVEVSIE1FTk9SQ0FaFyIVbmF1dGljIGNlbnRlciBtZW5vcmNhkgELYm9hdF9kZWFsZXKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUmhiamxNU0daM0VBRaoBURABKhEiDW5hdXRpYyBjZW50ZXIoADIfEAEiG4HpoH6KdabnhKnASXHwU4yFZBibxsoMv64gcDIZEAIiFW5hdXRpYyBjZW50ZXIgbWVub3JjYeABAPoBBAgIECM!16s%2Fg%2F11fmfz5mfy?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D"
@@ -459,8 +459,8 @@ const marinasEspana = [
   },
   {
     name: "NAUTIC CENTER MENORCA",
-    lat: 39.9336983,
-    lng: 3.7362535,
+    lat: 40.0,
+    lng: 3.8333,
     region: "Baleares",
     website: "https://nauticcenter.net",
     google_maps: "https://www.google.com/maps/place/Nautic+Center+Menorca+%7C+Agencia+n%C3%A1utica/@39.9336983,3.7362535,10z/data=!4m10!1m2!2m1!1sNAUTIC+CENTER+MENORCA!3m6!1s0x12958700e3cad6a3:0xa1cff33f82759f3!8m2!3d39.888701!4d4.275436!15sChVOQVVUSUMgQ0VOVEVSIE1FTk9SQ0FaFyIVbmF1dGljIGNlbnRlciBtZW5vcmNhkgELYm9hdF9kZWFsZXKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUmhiamxNU0daM0VBRaoBURABKhEiDW5hdXRpYyBjZW50ZXIoADIfEAEiG4HpoH6KdabnhKnASXHwU4yFZBibxsoMv64gcDIZEAIiFW5hdXRpYyBjZW50ZXIgbWVub3JjYeABAPoBBAgIECM!16s%2Fg%2F11fmfz5mfy?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D"
@@ -644,8 +644,8 @@ const marinasEspana = [
   },
   {
     name: "NAUTIC CENTER MENORCA",
-    lat: 39.9336983,
-    lng: 3.7362535,
+    lat: 40.0,
+    lng: 3.8333,
     region: "Baleares",
     website: "https://nauticcenter.net",
     google_maps: "https://www.google.com/maps/place/Nautic+Center+Menorca+%7C+Agencia+n%C3%A1utica/@39.9336983,3.7362535,10z/data=!4m10!1m2!2m1!1sNAUTIC+CENTER+MENORCA!3m6!1s0x12958700e3cad6a3:0xa1cff33f82759f3!8m2!3d39.888701!4d4.275436!15sChVOQVVUSUMgQ0VOVEVSIE1FTk9SQ0FaFyIVbmF1dGljIGNlbnRlciBtZW5vcmNhkgELYm9hdF9kZWFsZXKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUmhiamxNU0daM0VBRaoBURABKhEiDW5hdXRpYyBjZW50ZXIoADIfEAEiG4HpoH6KdabnhKnASXHwU4yFZBibxsoMv64gcDIZEAIiFW5hdXRpYyBjZW50ZXIgbWVub3JjYeABAPoBBAgIECM!16s%2Fg%2F11fmfz5mfy?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D"
@@ -829,8 +829,8 @@ const marinasEspana = [
   },
   {
     name: "NAUTIC CENTER MENORCA",
-    lat: 39.9336983,
-    lng: 3.7362535,
+    lat: 40.0,
+    lng: 3.8333,
     region: "Baleares",
     website: "https://nauticcenter.net",
     google_maps: "https://www.google.com/maps/place/Nautic+Center+Menorca+%7C+Agencia+n%C3%A1utica/@39.9336983,3.7362535,10z/data=!4m10!1m2!2m1!1sNAUTIC+CENTER+MENORCA!3m6!1s0x12958700e3cad6a3:0xa1cff33f82759f3!8m2!3d39.888701!4d4.275436!15sChVOQVVUSUMgQ0VOVEVSIE1FTk9SQ0FaFyIVbmF1dGljIGNlbnRlciBtZW5vcmNhkgELYm9hdF9kZWFsZXKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUmhiamxNU0daM0VBRaoBURABKhEiDW5hdXRpYyBjZW50ZXIoADIfEAEiG4HpoH6KdabnhKnASXHwU4yFZBibxsoMv64gcDIZEAIiFW5hdXRpYyBjZW50ZXIgbWVub3JjYeABAPoBBAgIECM!16s%2Fg%2F11fmfz5mfy?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1014,8 +1014,8 @@ const marinasEspana = [
   },
   {
     name: "NAUTIC CENTER MENORCA",
-    lat: 39.9336983,
-    lng: 3.7362535,
+    lat: 40.0,
+    lng: 3.8333,
     region: "Baleares",
     website: "https://nauticcenter.net",
     google_maps: "https://www.google.com/maps/place/Nautic+Center+Menorca+%7C+Agencia+n%C3%A1utica/@39.9336983,3.7362535,10z/data=!4m10!1m2!2m1!1sNAUTIC+CENTER+MENORCA!3m6!1s0x12958700e3cad6a3:0xa1cff33f82759f3!8m2!3d39.888701!4d4.275436!15sChVOQVVUSUMgQ0VOVEVSIE1FTk9SQ0FaFyIVbmF1dGljIGNlbnRlciBtZW5vcmNhkgELYm9hdF9kZWFsZXKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUmhiamxNU0daM0VBRaoBURABKhEiDW5hdXRpYyBjZW50ZXIoADIfEAEiG4HpoH6KdabnhKnASXHwU4yFZBibxsoMv64gcDIZEAIiFW5hdXRpYyBjZW50ZXIgbWVub3JjYeABAPoBBAgIECM!16s%2Fg%2F11fmfz5mfy?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1199,8 +1199,8 @@ const marinasEspana = [
   },
   {
     name: "NAUTIC CENTER MENORCA",
-    lat: 39.9336983,
-    lng: 3.7362535,
+    lat: 40.0,
+    lng: 3.8333,
     region: "Baleares",
     website: "https://nauticcenter.net",
     google_maps: "https://www.google.com/maps/place/Nautic+Center+Menorca+%7C+Agencia+n%C3%A1utica/@39.9336983,3.7362535,10z/data=!4m10!1m2!2m1!1sNAUTIC+CENTER+MENORCA!3m6!1s0x12958700e3cad6a3:0xa1cff33f82759f3!8m2!3d39.888701!4d4.275436!15sChVOQVVUSUMgQ0VOVEVSIE1FTk9SQ0FaFyIVbmF1dGljIGNlbnRlciBtZW5vcmNhkgELYm9hdF9kZWFsZXKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUmhiamxNU0daM0VBRaoBURABKhEiDW5hdXRpYyBjZW50ZXIoADIfEAEiG4HpoH6KdabnhKnASXHwU4yFZBibxsoMv64gcDIZEAIiFW5hdXRpYyBjZW50ZXIgbWVub3JjYeABAPoBBAgIECM!16s%2Fg%2F11fmfz5mfy?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1384,8 +1384,8 @@ const marinasEspana = [
   },
   {
     name: "NAUTIC CENTER MENORCA",
-    lat: 39.9336983,
-    lng: 3.7362535,
+    lat: 40.0,
+    lng: 3.8333,
     region: "Baleares",
     website: "https://nauticcenter.net",
     google_maps: "https://www.google.com/maps/place/Nautic+Center+Menorca+%7C+Agencia+n%C3%A1utica/@39.9336983,3.7362535,10z/data=!4m10!1m2!2m1!1sNAUTIC+CENTER+MENORCA!3m6!1s0x12958700e3cad6a3:0xa1cff33f82759f3!8m2!3d39.888701!4d4.275436!15sChVOQVVUSUMgQ0VOVEVSIE1FTk9SQ0FaFyIVbmF1dGljIGNlbnRlciBtZW5vcmNhkgELYm9hdF9kZWFsZXKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUmhiamxNU0daM0VBRaoBURABKhEiDW5hdXRpYyBjZW50ZXIoADIfEAEiG4HpoH6KdabnhKnASXHwU4yFZBibxsoMv64gcDIZEAIiFW5hdXRpYyBjZW50ZXIgbWVub3JjYeABAPoBBAgIECM!16s%2Fg%2F11fmfz5mfy?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1569,8 +1569,8 @@ const marinasEspana = [
   },
   {
     name: "NAUTIC CENTER MENORCA",
-    lat: 39.9336983,
-    lng: 3.7362535,
+    lat: 40.0,
+    lng: 3.8333,
     region: "Baleares",
     website: "https://nauticcenter.net",
     google_maps: "https://www.google.com/maps/place/Nautic+Center+Menorca+%7C+Agencia+n%C3%A1utica/@39.9336983,3.7362535,10z/data=!4m10!1m2!2m1!1sNAUTIC+CENTER+MENORCA!3m6!1s0x12958700e3cad6a3:0xa1cff33f82759f3!8m2!3d39.888701!4d4.275436!15sChVOQVVUSUMgQ0VOVEVSIE1FTk9SQ0FaFyIVbmF1dGljIGNlbnRlciBtZW5vcmNhkgELYm9hdF9kZWFsZXKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUmhiamxNU0daM0VBRaoBURABKhEiDW5hdXRpYyBjZW50ZXIoADIfEAEiG4HpoH6KdabnhKnASXHwU4yFZBibxsoMv64gcDIZEAIiFW5hdXRpYyBjZW50ZXIgbWVub3JjYeABAPoBBAgIECM!16s%2Fg%2F11fmfz5mfy?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1754,8 +1754,8 @@ const marinasEspana = [
   },
   {
     name: "NAUTIC CENTER MENORCA",
-    lat: 39.9336983,
-    lng: 3.7362535,
+    lat: 40.0,
+    lng: 3.8333,
     region: "Baleares",
     website: "https://nauticcenter.net",
     google_maps: "https://www.google.com/maps/place/Nautic+Center+Menorca+%7C+Agencia+n%C3%A1utica/@39.9336983,3.7362535,10z/data=!4m10!1m2!2m1!1sNAUTIC+CENTER+MENORCA!3m6!1s0x12958700e3cad6a3:0xa1cff33f82759f3!8m2!3d39.888701!4d4.275436!15sChVOQVVUSUMgQ0VOVEVSIE1FTk9SQ0FaFyIVbmF1dGljIGNlbnRlciBtZW5vcmNhkgELYm9hdF9kZWFsZXKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUmhiamxNU0daM0VBRaoBURABKhEiDW5hdXRpYyBjZW50ZXIoADIfEAEiG4HpoH6KdabnhKnASXHwU4yFZBibxsoMv64gcDIZEAIiFW5hdXRpYyBjZW50ZXIgbWVub3JjYeABAPoBBAgIECM!16s%2Fg%2F11fmfz5mfy?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D"
@@ -1939,8 +1939,8 @@ const marinasEspana = [
   },
   {
     name: "NAUTIC CENTER MENORCA",
-    lat: 39.9336983,
-    lng: 3.7362535,
+    lat: 40.0,
+    lng: 3.8333,
     region: "Baleares",
     website: "https://nauticcenter.net",
     google_maps: "https://www.google.com/maps/place/Nautic+Center+Menorca+%7C+Agencia+n%C3%A1utica/@39.9336983,3.7362535,10z/data=!4m10!1m2!2m1!1sNAUTIC+CENTER+MENORCA!3m6!1s0x12958700e3cad6a3:0xa1cff33f82759f3!8m2!3d39.888701!4d4.275436!15sChVOQVVUSUMgQ0VOVEVSIE1FTk9SQ0FaFyIVbmF1dGljIGNlbnRlciBtZW5vcmNhkgELYm9hdF9kZWFsZXKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUmhiamxNU0daM0VBRaoBURABKhEiDW5hdXRpYyBjZW50ZXIoADIfEAEiG4HpoH6KdabnhKnASXHwU4yFZBibxsoMv64gcDIZEAIiFW5hdXRpYyBjZW50ZXIgbWVub3JjYeABAPoBBAgIECM!16s%2Fg%2F11fmfz5mfy?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2124,8 +2124,8 @@ const marinasEspana = [
   },
   {
     name: "NAUTIC CENTER MENORCA",
-    lat: 39.9336983,
-    lng: 3.7362535,
+    lat: 40.0,
+    lng: 3.8333,
     region: "Baleares",
     website: "https://nauticcenter.net",
     google_maps: "https://www.google.com/maps/place/Nautic+Center+Menorca+%7C+Agencia+n%C3%A1utica/@39.9336983,3.7362535,10z/data=!4m10!1m2!2m1!1sNAUTIC+CENTER+MENORCA!3m6!1s0x12958700e3cad6a3:0xa1cff33f82759f3!8m2!3d39.888701!4d4.275436!15sChVOQVVUSUMgQ0VOVEVSIE1FTk9SQ0FaFyIVbmF1dGljIGNlbnRlciBtZW5vcmNhkgELYm9hdF9kZWFsZXKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUmhiamxNU0daM0VBRaoBURABKhEiDW5hdXRpYyBjZW50ZXIoADIfEAEiG4HpoH6KdabnhKnASXHwU4yFZBibxsoMv64gcDIZEAIiFW5hdXRpYyBjZW50ZXIgbWVub3JjYeABAPoBBAgIECM!16s%2Fg%2F11fmfz5mfy?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2309,8 +2309,8 @@ const marinasEspana = [
   },
   {
     name: "NAUTIC CENTER MENORCA",
-    lat: 39.9336983,
-    lng: 3.7362535,
+    lat: 40.0,
+    lng: 3.8333,
     region: "Baleares",
     website: "https://nauticcenter.net",
     google_maps: "https://www.google.com/maps/place/Nautic+Center+Menorca+%7C+Agencia+n%C3%A1utica/@39.9336983,3.7362535,10z/data=!4m10!1m2!2m1!1sNAUTIC+CENTER+MENORCA!3m6!1s0x12958700e3cad6a3:0xa1cff33f82759f3!8m2!3d39.888701!4d4.275436!15sChVOQVVUSUMgQ0VOVEVSIE1FTk9SQ0FaFyIVbmF1dGljIGNlbnRlciBtZW5vcmNhkgELYm9hdF9kZWFsZXKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUmhiamxNU0daM0VBRaoBURABKhEiDW5hdXRpYyBjZW50ZXIoADIfEAEiG4HpoH6KdabnhKnASXHwU4yFZBibxsoMv64gcDIZEAIiFW5hdXRpYyBjZW50ZXIgbWVub3JjYeABAPoBBAgIECM!16s%2Fg%2F11fmfz5mfy?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2494,8 +2494,8 @@ const marinasEspana = [
   },
   {
     name: "NAUTIC CENTER MENORCA",
-    lat: 39.9336983,
-    lng: 3.7362535,
+    lat: 40.0,
+    lng: 3.8333,
     region: "Baleares",
     website: "https://nauticcenter.net",
     google_maps: "https://www.google.com/maps/place/Nautic+Center+Menorca+%7C+Agencia+n%C3%A1utica/@39.9336983,3.7362535,10z/data=!4m10!1m2!2m1!1sNAUTIC+CENTER+MENORCA!3m6!1s0x12958700e3cad6a3:0xa1cff33f82759f3!8m2!3d39.888701!4d4.275436!15sChVOQVVUSUMgQ0VOVEVSIE1FTk9SQ0FaFyIVbmF1dGljIGNlbnRlciBtZW5vcmNhkgELYm9hdF9kZWFsZXKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUmhiamxNU0daM0VBRaoBURABKhEiDW5hdXRpYyBjZW50ZXIoADIfEAEiG4HpoH6KdabnhKnASXHwU4yFZBibxsoMv64gcDIZEAIiFW5hdXRpYyBjZW50ZXIgbWVub3JjYeABAPoBBAgIECM!16s%2Fg%2F11fmfz5mfy?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2679,8 +2679,8 @@ const marinasEspana = [
   },
   {
     name: "NAUTIC CENTER MENORCA",
-    lat: 39.9336983,
-    lng: 3.7362535,
+    lat: 40.0,
+    lng: 3.8333,
     region: "Baleares",
     website: "https://nauticcenter.net",
     google_maps: "https://www.google.com/maps/place/Nautic+Center+Menorca+%7C+Agencia+n%C3%A1utica/@39.9336983,3.7362535,10z/data=!4m10!1m2!2m1!1sNAUTIC+CENTER+MENORCA!3m6!1s0x12958700e3cad6a3:0xa1cff33f82759f3!8m2!3d39.888701!4d4.275436!15sChVOQVVUSUMgQ0VOVEVSIE1FTk9SQ0FaFyIVbmF1dGljIGNlbnRlciBtZW5vcmNhkgELYm9hdF9kZWFsZXKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUmhiamxNU0daM0VBRaoBURABKhEiDW5hdXRpYyBjZW50ZXIoADIfEAEiG4HpoH6KdabnhKnASXHwU4yFZBibxsoMv64gcDIZEAIiFW5hdXRpYyBjZW50ZXIgbWVub3JjYeABAPoBBAgIECM!16s%2Fg%2F11fmfz5mfy?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D"
@@ -2864,8 +2864,8 @@ const marinasEspana = [
   },
   {
     name: "NAUTIC CENTER MENORCA",
-    lat: 39.9336983,
-    lng: 3.7362535,
+    lat: 40.0,
+    lng: 3.8333,
     region: "Baleares",
     website: "https://nauticcenter.net",
     google_maps: "https://www.google.com/maps/place/Nautic+Center+Menorca+%7C+Agencia+n%C3%A1utica/@39.9336983,3.7362535,10z/data=!4m10!1m2!2m1!1sNAUTIC+CENTER+MENORCA!3m6!1s0x12958700e3cad6a3:0xa1cff33f82759f3!8m2!3d39.888701!4d4.275436!15sChVOQVVUSUMgQ0VOVEVSIE1FTk9SQ0FaFyIVbmF1dGljIGNlbnRlciBtZW5vcmNhkgELYm9hdF9kZWFsZXKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUmhiamxNU0daM0VBRaoBURABKhEiDW5hdXRpYyBjZW50ZXIoADIfEAEiG4HpoH6KdabnhKnASXHwU4yFZBibxsoMv64gcDIZEAIiFW5hdXRpYyBjZW50ZXIgbWVub3JjYeABAPoBBAgIECM!16s%2Fg%2F11fmfz5mfy?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3049,8 +3049,8 @@ const marinasEspana = [
   },
   {
     name: "NAUTIC CENTER MENORCA",
-    lat: 39.9336983,
-    lng: 3.7362535,
+    lat: 40.0,
+    lng: 3.8333,
     region: "Baleares",
     website: "https://nauticcenter.net",
     google_maps: "https://www.google.com/maps/place/Nautic+Center+Menorca+%7C+Agencia+n%C3%A1utica/@39.9336983,3.7362535,10z/data=!4m10!1m2!2m1!1sNAUTIC+CENTER+MENORCA!3m6!1s0x12958700e3cad6a3:0xa1cff33f82759f3!8m2!3d39.888701!4d4.275436!15sChVOQVVUSUMgQ0VOVEVSIE1FTk9SQ0FaFyIVbmF1dGljIGNlbnRlciBtZW5vcmNhkgELYm9hdF9kZWFsZXKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUmhiamxNU0daM0VBRaoBURABKhEiDW5hdXRpYyBjZW50ZXIoADIfEAEiG4HpoH6KdabnhKnASXHwU4yFZBibxsoMv64gcDIZEAIiFW5hdXRpYyBjZW50ZXIgbWVub3JjYeABAPoBBAgIECM!16s%2Fg%2F11fmfz5mfy?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D"
@@ -3234,8 +3234,8 @@ const marinasEspana = [
   },
   {
     name: "NAUTIC CENTER MENORCA",
-    lat: 39.9336983,
-    lng: 3.7362535,
+    lat: 40.0,
+    lng: 3.8333,
     region: "Baleares",
     website: "https://nauticcenter.net",
     google_maps: "https://www.google.com/maps/place/Nautic+Center+Menorca+%7C+Agencia+n%C3%A1utica/@39.9336983,3.7362535,10z/data=!4m10!1m2!2m1!1sNAUTIC+CENTER+MENORCA!3m6!1s0x12958700e3cad6a3:0xa1cff33f82759f3!8m2!3d39.888701!4d4.275436!15sChVOQVVUSUMgQ0VOVEVSIE1FTk9SQ0FaFyIVbmF1dGljIGNlbnRlciBtZW5vcmNhkgELYm9hdF9kZWFsZXKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUmhiamxNU0daM0VBRaoBURABKhEiDW5hdXRpYyBjZW50ZXIoADIfEAEiG4HpoH6KdabnhKnASXHwU4yFZBibxsoMv64gcDIZEAIiFW5hdXRpYyBjZW50ZXIgbWVub3JjYeABAPoBBAgIECM!16s%2Fg%2F11fmfz5mfy?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D"
