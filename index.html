@@ -18,6 +18,9 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
     <!-- Styles -->
     <link rel="stylesheet" href="css/styles.css">
     
@@ -235,11 +238,53 @@
                 Explora la red de puertos deportivos y marinas asociadas a nuestra federación 
                 distribuidas por toda la geografía española.
             </p>
-            <div class="map-cta">
-                <a href="https://spanishharbors.com/" target="_blank" class="btn btn-primary">
-                    <i class="fas fa-map"></i>
-                    Ver Mapa Interactivo
-                </a>
+            
+            <!-- Mapa Interactivo Integrado -->
+            <div class="integrated-map-container">
+                <div class="map-header-integrated">
+                    <div class="map-stats">
+                        <div class="stat-item">
+                            <i class="fas fa-anchor"></i>
+                            <span class="stat-number" id="totalMarinas">73</span>
+                            <span class="stat-label">Marinas</span>
+                        </div>
+                        <div class="stat-item">
+                            <i class="fas fa-map"></i>
+                            <span class="stat-number">8</span>
+                            <span class="stat-label">Regiones</span>
+                        </div>
+                    </div>
+                    <div class="map-controls">
+                        <input type="text" id="mapSearch" class="map-search-input" placeholder="Buscar marina...">
+                        <div class="region-filters">
+                            <button class="region-filter active" data-region="all">Todas</button>
+                            <button class="region-filter" data-region="Andalucía">Andalucía</button>
+                            <button class="region-filter" data-region="Baleares">Baleares</button>
+                            <button class="region-filter" data-region="Cataluña">Cataluña</button>
+                            <button class="region-filter" data-region="Valencia">Valencia</button>
+                        </div>
+                    </div>
+                </div>
+                
+                <div id="integratedMap" class="integrated-map"></div>
+                
+                <div class="map-footer-integrated">
+                    <div class="map-legend">
+                        <span class="legend-title">Regiones:</span>
+                        <div class="legend-items">
+                            <div class="legend-item"><div class="legend-color" style="background: #1e40af;"></div>Andalucía</div>
+                            <div class="legend-item"><div class="legend-color" style="background: #166534;"></div>Baleares</div>
+                            <div class="legend-item"><div class="legend-color" style="background: #92400e;"></div>Cataluña</div>
+                            <div class="legend-item"><div class="legend-color" style="background: #7c3aed;"></div>Valencia</div>
+                            <div class="legend-item"><div class="legend-color" style="background: #be185d;"></div>Murcia</div>
+                            <div class="legend-item"><div class="legend-color" style="background: #059669;"></div>Galicia</div>
+                        </div>
+                    </div>
+                    <a href="mapa.html" class="view-full-map">
+                        <i class="fas fa-expand"></i>
+                        Ver Mapa Completo
+                    </a>
+                </div>
             </div>
         </div>
     </section>
@@ -632,6 +677,9 @@
     </button>
 
     <!-- Scripts -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="js/marinas_data_completo.js"></script>
+    <script src="js/integrated-map.js"></script>
     <script src="js/main.js"></script>
 </body>
 </html>
