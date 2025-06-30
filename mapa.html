@@ -5,6 +5,330 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mapa de Puertos Deportivos - Marinas de España</title>
     <link rel="stylesheet" href="css/ultra-modern-fixed.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+    <style>
+        .map-section {
+            margin: 2rem 0;
+            background: white;
+            border-radius: 1rem;
+            overflow: hidden;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+        }
+        
+        .map-header {
+            background: linear-gradient(135deg, #0a2342 0%, #1e3a5f 100%);
+            color: white;
+            padding: 2rem;
+            text-align: center;
+        }
+        
+        .map-header h2 {
+            margin: 0 0 0.5rem 0;
+            font-size: 2rem;
+            font-weight: 600;
+        }
+        
+        .map-header p {
+            margin: 0;
+            opacity: 0.9;
+            font-size: 1.1rem;
+        }
+        
+        .map-container {
+            display: flex;
+            height: 80vh;
+            min-height: 600px;
+        }
+        
+        .map-sidebar {
+            width: 350px;
+            background: #f8f9fa;
+            border-right: 1px solid #e2e8f0;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        
+        .search-section {
+            padding: 1.5rem;
+            border-bottom: 1px solid #e2e8f0;
+            background: white;
+        }
+        
+        .search-box {
+            position: relative;
+            margin-bottom: 1rem;
+        }
+        
+        .search-input {
+            width: 100%;
+            padding: 0.75rem 1rem 0.75rem 2.5rem;
+            border: 2px solid #e2e8f0;
+            border-radius: 0.5rem;
+            font-size: 0.9rem;
+            transition: all 0.2s;
+        }
+        
+        .search-input:focus {
+            outline: none;
+            border-color: #d4af37;
+            box-shadow: 0 0 0 3px rgba(212, 175, 55, 0.1);
+        }
+        
+        .search-icon {
+            position: absolute;
+            left: 0.75rem;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #64748b;
+        }
+        
+        .filters {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+        
+        .filter-btn {
+            padding: 0.5rem 1rem;
+            border: 2px solid #e2e8f0;
+            background: white;
+            border-radius: 2rem;
+            font-size: 0.8rem;
+            cursor: pointer;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 0.25rem;
+        }
+        
+        .filter-btn:hover {
+            border-color: #d4af37;
+            color: #0a2342;
+        }
+        
+        .filter-btn.active {
+            background: #d4af37;
+            border-color: #d4af37;
+            color: #0a2342;
+            font-weight: 600;
+        }
+        
+        .marina-list {
+            flex: 1;
+            overflow-y: auto;
+            padding: 1rem;
+        }
+        
+        .marina-card {
+            background: white;
+            border: 1px solid #e2e8f0;
+            border-radius: 0.75rem;
+            padding: 1rem;
+            margin-bottom: 0.75rem;
+            cursor: pointer;
+            transition: all 0.2s;
+            position: relative;
+        }
+        
+        .marina-card:hover {
+            border-color: #d4af37;
+            box-shadow: 0 4px 12px rgba(212, 175, 55, 0.15);
+            transform: translateY(-1px);
+        }
+        
+        .marina-card.active {
+            border-color: #d4af37;
+            background: #fffbf0;
+        }
+        
+        .marina-name {
+            font-weight: 600;
+            color: #0a2342;
+            margin-bottom: 0.25rem;
+            font-size: 0.95rem;
+        }
+        
+        .marina-info {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            font-size: 0.8rem;
+            color: #64748b;
+            margin-bottom: 0.5rem;
+        }
+        
+        .region-tag {
+            background: #f1f5f9;
+            padding: 0.25rem 0.5rem;
+            border-radius: 0.25rem;
+            font-size: 0.7rem;
+            font-weight: 500;
+        }
+        
+        .region-tag.andalucia { background: #dbeafe; color: #1e40af; }
+        .region-tag.baleares { background: #dcfce7; color: #166534; }
+        .region-tag.cataluna { background: #fef3c7; color: #92400e; }
+        .region-tag.valencia { background: #f3e8ff; color: #7c3aed; }
+        .region-tag.murcia { background: #fce7f3; color: #be185d; }
+        .region-tag.galicia { background: #ecfdf5; color: #059669; }
+        .region-tag.asturias { background: #fef2f2; color: #dc2626; }
+        .region-tag.canarias { background: #fff7ed; color: #ea580c; }
+        
+        #map {
+            flex: 1;
+            height: 100%;
+        }
+        
+        .stats-bar {
+            background: #0a2342;
+            color: white;
+            padding: 1rem 1.5rem;
+            font-size: 0.85rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .stats-item {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.25rem;
+        }
+        
+        .stats-highlight {
+            color: #d4af37;
+            font-weight: 600;
+        }
+        
+        /* Popup simplificado */
+        .simple-popup {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+            max-width: 280px;
+            padding: 0;
+        }
+        
+        .popup-title {
+            font-weight: 600;
+            font-size: 16px;
+            color: #0a2342;
+            margin-bottom: 12px;
+            text-align: center;
+        }
+        
+        .popup-links {
+            display: flex;
+            gap: 8px;
+        }
+        
+        .popup-link {
+            flex: 1;
+            padding: 8px 12px;
+            background: #f8fafc;
+            border: 1px solid #e2e8f0;
+            border-radius: 6px;
+            text-align: center;
+            text-decoration: none;
+            color: #0a2342;
+            font-size: 14px;
+            font-weight: 500;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 4px;
+        }
+        
+        .popup-link:hover {
+            background: #d4af37;
+            color: #0a2342;
+            text-decoration: none;
+            transform: translateY(-1px);
+            box-shadow: 0 2px 4px rgba(212, 175, 55, 0.3);
+        }
+        
+        .popup-link i {
+            font-size: 12px;
+        }
+        
+        .legend {
+            position: absolute;
+            bottom: 20px;
+            left: 20px;
+            background: white;
+            padding: 1rem;
+            border-radius: 0.75rem;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            z-index: 1000;
+            border: 1px solid #e2e8f0;
+        }
+        
+        .legend-title {
+            font-weight: 600;
+            margin-bottom: 0.75rem;
+            color: #0a2342;
+            font-size: 0.9rem;
+        }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin: 0.5rem 0;
+            font-size: 0.85rem;
+            color: #64748b;
+        }
+        
+        .legend-icon {
+            width: 16px;
+            height: 16px;
+            margin-right: 0.5rem;
+            border-radius: 50%;
+            border: 2px solid white;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+        }
+        
+        @media (max-width: 768px) {
+            .map-container {
+                flex-direction: column;
+                height: auto;
+            }
+            
+            .map-sidebar {
+                width: 100%;
+                height: 40vh;
+                border-right: none;
+                border-bottom: 1px solid #e2e8f0;
+            }
+            
+            #map {
+                height: 60vh;
+                min-height: 400px;
+            }
+            
+            .legend {
+                bottom: 10px;
+                left: 10px;
+                right: 10px;
+                padding: 0.75rem;
+            }
+            
+            .legend-item {
+                display: inline-flex;
+                margin: 0.25rem 0.5rem 0.25rem 0;
+            }
+            
+            .popup-links {
+                flex-direction: column;
+            }
+            
+            .stats-bar {
+                flex-direction: column;
+                gap: 0.5rem;
+                text-align: center;
+            }
+        }
+    </style>
 </head>
 <body>
     <nav class="navbar-ultra">
@@ -22,93 +346,315 @@
         <section class="page-header">
             <div class="container">
                 <h1>Mapa Interactivo de Puertos Deportivos</h1>
-                <p>Explora las 146 instalaciones náuticas de Marinas de España</p>
+                <p>Explora las marinas y puertos deportivos de España</p>
             </div>
         </section>
 
         <section class="content-section">
             <div class="container">
-                <div class="map-container">
-                    <div class="map-placeholder">
-                        <h2>Mapa Interactivo</h2>
-                        <p>Aquí se mostrará el mapa interactivo con todas las marinas y puertos deportivos asociados a FEAPDT.</p>
-                        <p><strong>Próximamente:</strong> Mapa completo con filtros por región, servicios y características.</p>
-                        
-                        <div class="map-info">
-                            <h3>Información del Mapa</h3>
-                            <ul>
-                                <li><strong>146</strong> instalaciones náuticas</li>
-                                <li><strong>8</strong> regiones costeras</li>
-                                <li><strong>Más del 80%</strong> de los amarres de España</li>
-                            </ul>
+                <div class="map-section">
+                    <div class="map-header">
+                        <h2><i class="fas fa-anchor"></i> Marinas de España</h2>
+                        <p>Descubre las mejores marinas y puertos deportivos de toda España</p>
+                    </div>
+                    
+                    <div class="map-container">
+                        <div class="map-sidebar">
+                            <div class="search-section">
+                                <div class="search-box">
+                                    <i class="fas fa-search search-icon"></i>
+                                    <input type="text" class="search-input" placeholder="Buscar marina..." id="searchInput">
+                                </div>
+                                <div class="filters">
+                                    <button class="filter-btn active" data-filter="all">
+                                        <i class="fas fa-globe"></i> Todas
+                                    </button>
+                                    <button class="filter-btn" data-filter="Andalucía">
+                                        <i class="fas fa-sun"></i> Andalucía
+                                    </button>
+                                    <button class="filter-btn" data-filter="Baleares">
+                                        <i class="fas fa-island-tropical"></i> Baleares
+                                    </button>
+                                    <button class="filter-btn" data-filter="Cataluña">
+                                        <i class="fas fa-mountain"></i> Cataluña
+                                    </button>
+                                    <button class="filter-btn" data-filter="Valencia">
+                                        <i class="fas fa-orange"></i> Valencia
+                                    </button>
+                                    <button class="filter-btn" data-filter="Galicia">
+                                        <i class="fas fa-fish"></i> Galicia
+                                    </button>
+                                    <button class="filter-btn" data-filter="Canarias">
+                                        <i class="fas fa-volcano"></i> Canarias
+                                    </button>
+                                </div>
+                            </div>
+                            
+                            <div class="marina-list" id="marinaList"></div>
                         </div>
                         
-                        <div class="contact-map">
-                            <h3>¿Necesitas información específica?</h3>
-                            <p>Contacta con nosotros para obtener información detallada sobre cualquier puerto deportivo.</p>
-                            <a href="index.html#contacto" class="btn-primary">Contactar</a>
+                        <div id="map"></div>
+                    </div>
+                    
+                    <div class="stats-bar">
+                        <div>
+                            <span class="stats-item">
+                                <i class="fas fa-map-marker-alt"></i>
+                                <span class="stats-highlight" id="visibleCount">73</span> marinas
+                            </span>
+                            <span class="stats-item">
+                                <i class="fas fa-map"></i>
+                                <span class="stats-highlight">8</span> regiones
+                            </span>
+                        </div>
+                        <div>
+                            <span class="stats-item">
+                                <i class="fas fa-anchor"></i>
+                                Federación Española de Puertos Deportivos
+                            </span>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
+        
+        <div class="legend">
+            <div class="legend-title">Regiones</div>
+            <div class="legend-item">
+                <div class="legend-icon" style="background: #1e40af;"></div>
+                <span>Andalucía</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-icon" style="background: #166534;"></div>
+                <span>Baleares</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-icon" style="background: #92400e;"></div>
+                <span>Cataluña</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-icon" style="background: #7c3aed;"></div>
+                <span>Valencia</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-icon" style="background: #be185d;"></div>
+                <span>Murcia</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-icon" style="background: #059669;"></div>
+                <span>Galicia</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-icon" style="background: #dc2626;"></div>
+                <span>Asturias</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-icon" style="background: #ea580c;"></div>
+                <span>Canarias</span>
+            </div>
+        </div>
     </main>
 
-    <style>
-        .map-container {
-            margin: 2rem 0;
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="js/marinas_data_completo.js"></script>
+    <script>
+        // Variables globales
+        let map;
+        let marcadores = [];
+        let marcadoresVisibles = [];
+        let filtroActual = 'all';
+        let busquedaActual = '';
+
+        // Inicializar el mapa
+        function initMap() {
+            map = L.map('map').setView([40.0, -4.0], 6);
+
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '© OpenStreetMap contributors'
+            }).addTo(map);
+
+            crearMarcadores();
+            crearListaMarinas();
+            configurarEventos();
         }
-        
-        .map-placeholder {
-            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
-            border: 2px dashed #dee2e6;
-            border-radius: 1rem;
-            padding: 3rem;
-            text-align: center;
-            min-height: 400px;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
+
+        // Crear iconos personalizados por región
+        function crearIcono(region, size = 30) {
+            const colores = {
+                'Andalucía': '#1e40af',
+                'Baleares': '#166534',
+                'Cataluña': '#92400e',
+                'Valencia': '#7c3aed',
+                'Murcia': '#be185d',
+                'Galicia': '#059669',
+                'Asturias': '#dc2626',
+                'Canarias': '#ea580c'
+            };
+            
+            const color = colores[region] || '#0a2342';
+            
+            return L.divIcon({
+                html: `<div style="background-color: ${color}; width: ${size}px; height: ${size}px; border-radius: 50%; border: 3px solid white; box-shadow: 0 2px 8px rgba(0,0,0,0.3); display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; font-size: ${size/3}px;"><i class="fas fa-anchor"></i></div>`,
+                iconSize: [size, size],
+                iconAnchor: [size/2, size/2],
+                popupAnchor: [0, -size/2],
+                className: ''
+            });
         }
-        
-        .map-info {
-            background: white;
-            padding: 2rem;
-            border-radius: 0.5rem;
-            margin: 2rem 0;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+
+        // Crear marcadores
+        function crearMarcadores() {
+            marinasEspana.forEach((marina, index) => {
+                const marker = L.marker([marina.lat, marina.lng], { 
+                    icon: crearIcono(marina.region) 
+                }).addTo(map);
+
+                // Popup simplificado - solo nombre, web y Google Maps
+                const popupContent = `
+                    <div class="simple-popup">
+                        <div class="popup-title">${marina.name}</div>
+                        <div class="popup-links">
+                            <a href="${marina.website}" target="_blank" class="popup-link">
+                                <i class="fas fa-globe"></i> Web
+                            </a>
+                            <a href="https://www.google.com/maps/search/?api=1&query=${marina.lat},${marina.lng}" target="_blank" class="popup-link">
+                                <i class="fas fa-map-marker-alt"></i> Maps
+                            </a>
+                        </div>
+                    </div>
+                `;
+
+                marker.bindPopup(popupContent, {
+                    maxWidth: 280,
+                    className: 'simple-popup-container'
+                });
+
+                marker.marina = marina;
+                marker.index = index;
+                marcadores.push(marker);
+            });
+
+            marcadoresVisibles = [...marcadores];
+            ajustarVista();
         }
-        
-        .map-info ul {
-            list-style: none;
-            padding: 0;
+
+        // Crear lista de marinas
+        function crearListaMarinas() {
+            const marinaList = document.getElementById('marinaList');
+            marinaList.innerHTML = '';
+
+            marinasEspana.forEach((marina, index) => {
+                const card = document.createElement('div');
+                card.className = 'marina-card';
+                card.innerHTML = `
+                    <div class="marina-name">${marina.name}</div>
+                    <div class="marina-info">
+                        <span class="region-tag ${marina.region.toLowerCase().replace('ñ', 'n')}">${marina.region}</span>
+                        <span><i class="fas fa-map-marker-alt"></i> ${marina.province}</span>
+                    </div>
+                `;
+
+                card.onclick = () => {
+                    map.setView([marina.lat, marina.lng], 14);
+                    marcadores[index].openPopup();
+                    
+                    document.querySelectorAll('.marina-card').forEach(c => c.classList.remove('active'));
+                    card.classList.add('active');
+                };
+
+                marinaList.appendChild(card);
+            });
         }
-        
-        .map-info li {
-            padding: 0.5rem 0;
-            border-bottom: 1px solid #eee;
+
+        // Configurar eventos
+        function configurarEventos() {
+            const searchInput = document.getElementById('searchInput');
+            searchInput.addEventListener('input', (e) => {
+                busquedaActual = e.target.value.toLowerCase();
+                filtrarMarinas();
+            });
+
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.addEventListener('click', (e) => {
+                    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    filtroActual = btn.dataset.filter;
+                    filtrarMarinas();
+                });
+            });
         }
-        
-        .contact-map {
-            background: #0a2342;
-            color: white;
-            padding: 2rem;
-            border-radius: 0.5rem;
-            margin-top: 2rem;
+
+        // Filtrar marinas
+        function filtrarMarinas() {
+            const marinasFiltradas = marinasEspana.filter(marina => {
+                const coincideBusqueda = marina.name.toLowerCase().includes(busquedaActual) ||
+                                       marina.region.toLowerCase().includes(busquedaActual) ||
+                                       marina.province.toLowerCase().includes(busquedaActual);
+                const coincideFiltro = filtroActual === 'all' || marina.region === filtroActual;
+                return coincideBusqueda && coincideFiltro;
+            });
+
+            marcadores.forEach(marker => map.removeLayer(marker));
+            
+            marcadoresVisibles = [];
+            marinasFiltradas.forEach(marina => {
+                const marker = marcadores.find(m => m.marina.name === marina.name);
+                if (marker) {
+                    map.addLayer(marker);
+                    marcadoresVisibles.push(marker);
+                }
+            });
+
+            actualizarLista(marinasFiltradas);
+            document.getElementById('visibleCount').textContent = marinasFiltradas.length;
+
+            if (marcadoresVisibles.length > 0) {
+                ajustarVista();
+            }
         }
-        
-        .btn-primary {
-            background: #d4af37;
-            color: #0a2342;
-            padding: 0.75rem 1.5rem;
-            border-radius: 0.5rem;
-            text-decoration: none;
-            font-weight: 600;
-            display: inline-block;
-            margin-top: 1rem;
+
+        // Actualizar lista de marinas
+        function actualizarLista(marinasFiltradas) {
+            const marinaList = document.getElementById('marinaList');
+            marinaList.innerHTML = '';
+
+            marinasFiltradas.forEach((marina, index) => {
+                const originalIndex = marinasEspana.findIndex(m => m.name === marina.name);
+                const card = document.createElement('div');
+                card.className = 'marina-card';
+                card.innerHTML = `
+                    <div class="marina-name">${marina.name}</div>
+                    <div class="marina-info">
+                        <span class="region-tag ${marina.region.toLowerCase().replace('ñ', 'n')}">${marina.region}</span>
+                        <span><i class="fas fa-map-marker-alt"></i> ${marina.province}</span>
+                    </div>
+                `;
+
+                card.onclick = () => {
+                    map.setView([marina.lat, marina.lng], 14);
+                    marcadores[originalIndex].openPopup();
+                    
+                    document.querySelectorAll('.marina-card').forEach(c => c.classList.remove('active'));
+                    card.classList.add('active');
+                };
+
+                marinaList.appendChild(card);
+            });
         }
-    </style>
+
+        // Ajustar vista del mapa
+        function ajustarVista() {
+            if (marcadoresVisibles.length > 0) {
+                const group = new L.featureGroup(marcadoresVisibles);
+                map.fitBounds(group.getBounds().pad(0.1));
+            }
+        }
+
+        // Inicializar cuando se carga la página
+        document.addEventListener('DOMContentLoaded', () => {
+            setTimeout(initMap, 100);
+        });
+    </script>
 </body>
 </html>
 
