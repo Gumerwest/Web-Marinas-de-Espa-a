@@ -117,7 +117,7 @@ function addIntegratedMarkers() {
 
 // Configurar controles
 function setupIntegratedControls() {
-    const searchInput = document.querySelector('#integrated-search');
+    const searchInput = document.querySelector('#mapSearch');
     const regionButtons = document.querySelectorAll('.region-filter');
     
     if (searchInput) {
