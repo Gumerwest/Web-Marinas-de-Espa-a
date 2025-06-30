@@ -1,7 +1,7 @@
 // Mapa Integrado de Marinas de España
 let integratedMap;
 let integratedMarkers = [];
-let filteredMarinas = [...marinasData];
+let filteredMarinas = [...marinasEspana];
 
 // Colores por región
 const regionColors = {
@@ -115,7 +115,7 @@ function setupIntegratedMapEvents() {
 
 // Filtrar marinas
 function filterMarinas(searchTerm, region) {
-    filteredMarinas = marinasData.filter(marina => {
+    filteredMarinas = marinasEspana.filter(marina => {
         const matchesSearch = !searchTerm || 
             marina.name.toLowerCase().includes(searchTerm) ||
             marina.region.toLowerCase().includes(searchTerm);
