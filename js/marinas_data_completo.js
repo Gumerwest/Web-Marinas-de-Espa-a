@@ -522,7 +522,7 @@ const marinasEspana = [
     lat: 36.4159657,
     lng: -5.1585576,
     region: "Andalucía",
-    website: "https://marinasmediterraneo.com",
+    website: "https://marinasmediterraneo.es/marina/",
     google_maps: "https://www.google.com/maps/place/Puerto+Deportivo+de+Estepona/@36.4159657,-5.1585576,17z/data=!3m1!4b1!4m6!3m5!1s0xd0cd6b3eb5b66d9:0xe4c18628162e85d9!8m2!3d36.4159657!4d-5.1585576!16s%2Fg%2F11gdk_fxyh?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D"
   },
   {
@@ -554,7 +554,7 @@ const marinasEspana = [
     lat: 36.4150616,
     lng: -5.1587685,
     region: "Andalucía",
-    website: "https://rcne.es",
+    website: "https://marinasmediterraneo.es/marina/",
     google_maps: "https://www.google.com/maps/place/Real+Club+N%C3%A1utico+de+Estepona/@36.4150616,-5.1587685,17z/data=!3m1!4b1!4m6!3m5!1s0xd0cd6b20e046dd9:0x8164fae27f65886!8m2!3d36.4150616!4d-5.1587685!16s%2Fg%2F113f43q60?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D"
   },
   {
@@ -586,7 +586,7 @@ const marinasEspana = [
     lat: 36.3555117,
     lng: -5.2476293,
     region: "Andalucía",
-    website: "https://marinasmediterraneo.com",
+    website: "https://marinasmediterraneo.es/duquesa/",
     google_maps: "https://www.google.com/maps/place/Puerto+Deportivo+de+la+Duquesa/@36.3555117,-5.2476293,15z/data=!4m10!1m2!2m1!1sPuerto+Deportivo+de+La+Duquesa!3m6!1s0xd0cda8325d8a66b:0x8d35772688fa41b4!8m2!3d36.3555117!4d-5.2296049!15sCh5QdWVydG8gRGVwb3J0aXZvIGRlIExhIER1cXVlc2GSAQZoYXJib3KqAVUKDC9nLzF6NDRiYmQ1MxABMh8QASIbBvpuFBhVKCNR9svNp0KUkZgIsxzWspDqBXA7MiIQAiIecHVlcnRvIGRlcG9ydGl2byBkZSBsYSBkdXF1ZXNh4AEA!16s%2Fg%2F1q5bnk5j3?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D"
   },
   {
@@ -594,7 +594,7 @@ const marinasEspana = [
     lat: 36.7278514,
     lng: -3.7264554,
     region: "Andalucía",
-    website: "https://marinasmediterraneo.com",
+    website: "https://marinasmediterraneo.es/marina/",
     google_maps: "https://www.google.com/maps/place/Puerto+Deportivo+Marina+Del+Este/@36.7278514,-3.7264554,17z/data=!3m1!4b1!4m6!3m5!1s0xd71881cbcb9c733:0x3bf5532cf401fa64!8m2!3d36.7278514!4d-3.7264554!16s%2Fg%2F1228ltyr?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D"
   },
   {
