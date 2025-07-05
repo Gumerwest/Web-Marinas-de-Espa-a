@@ -48,36 +48,11 @@
             margin: 0 auto;
         }
 
-        .zone-section {
-            margin-bottom: 4rem;
-        }
-
-        .zone-title {
-            font-size: 2.5rem;
-            font-weight: 700;
-            text-align: center;
-            margin-bottom: 3rem;
-            color: var(--dark-color);
-            position: relative;
-        }
-
-        .zone-title::after {
-            content: '';
-            position: absolute;
-            bottom: -10px;
-            left: 50%;
-            transform: translateX(-50%);
-            width: 80px;
-            height: 4px;
-            background: linear-gradient(90deg, var(--gold-color), var(--accent-color));
-            border-radius: 2px;
-        }
-
         .ports-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
             gap: 2rem;
-            padding: 2rem 0;
+            padding: 4rem 0;
         }
 
         .port-card {
@@ -128,11 +103,12 @@
         .port-link {
             display: flex;
             align-items: center;
-            padding: 0.75rem 1rem;
+            gap: 0.75rem;
+            padding: 1rem 1.5rem;
             border-radius: 12px;
             text-decoration: none;
+            font-weight: 600;
             transition: all 0.3s ease;
-            font-weight: 500;
             border: 2px solid transparent;
         }
 
@@ -142,90 +118,70 @@
         }
 
         .port-link.website:hover {
-            transform: translateX(4px);
-            box-shadow: 0 4px 12px rgba(30, 58, 138, 0.3);
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.2);
         }
 
         .port-link.maps {
-            background: var(--gray-100);
-            color: var(--gray-700);
-            border-color: var(--gray-200);
+            background: linear-gradient(135deg, #dc3545, #c82333);
+            color: white;
         }
 
         .port-link.maps:hover {
-            background: var(--gold-color);
-            color: white;
-            border-color: var(--gold-color);
-            transform: translateX(4px);
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(220,53,69,0.3);
         }
 
-        .port-link i {
-            margin-right: 0.75rem;
-            font-size: 1.1rem;
+        .zone-section {
+            margin-bottom: 4rem;
+        }
+
+        .zone-title {
+            font-size: 2.5rem;
+            font-weight: 800;
+            color: var(--dark-color);
+            text-align: center;
+            margin-bottom: 3rem;
+            position: relative;
+        }
+
+        .zone-title::after {
+            content: '';
+            position: absolute;
+            bottom: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 80px;
+            height: 4px;
+            background: linear-gradient(90deg, var(--gold-color), var(--accent-color));
+            border-radius: 2px;
         }
 
         .back-navigation {
+            background: var(--gray-100);
+            padding: 2rem 0;
             text-align: center;
-            padding: 3rem 0;
-            border-top: 1px solid var(--gray-200);
-            margin-top: 2rem;
-        }
-
-        @media (max-width: 768px) {
-            .ports-hero h1 {
-                font-size: 2.5rem;
-            }
-
-            .zone-title {
-                font-size: 2rem;
-            }
-
-            .ports-grid {
-                grid-template-columns: 1fr;
-                gap: 1.5rem;
-                padding: 2rem 0;
-            }
-
-            .port-card {
-                padding: 1.5rem;
-            }
-
-            .port-links {
-                gap: 0.75rem;
-            }
-
-            .port-link {
-                padding: 0.6rem 0.8rem;
-                font-size: 0.9rem;
-            }
         }
     </style>
 </head>
 <body>
     <!-- Navigation -->
-    <nav class="navbar" id="navbar">
-        <div class="nav-container">
-            <div class="nav-logo">
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-brand">
                 <a href="index.html">
-                    <img src="images/logo-marinas-espana-recortado.png" alt="Marinas de España" class="logo-img">
+                    <img src="images/logo-marinas.png" alt="Marinas de España" class="logo">
                 </a>
             </div>
-            
-            <div class="nav-menu" id="nav-menu">
+            <div class="nav-menu">
                 <a href="index.html#inicio" class="nav-link">Inicio</a>
                 <a href="index.html#congreso" class="nav-link">I Congreso</a>
-                <a href="index.html#patrocinadores" class="nav-link">Patrocinadores</a>
+                <a href="index.html#patrocinadores" class="nav-link">Colaboradores</a>
                 <a href="index.html#noticias" class="nav-link">Noticias</a>
                 <a href="index.html#mapa" class="nav-link">Mapa Puertos</a>
                 <a href="index.html#federacion" class="nav-link">La Federación</a>
                 <a href="index.html#asociaciones" class="nav-link">Asociaciones</a>
                 <a href="index.html#contacto" class="nav-link">Contacto</a>
-            </div>
-            
-            <div class="nav-toggle" id="nav-toggle">
-                <span class="bar"></span>
-                <span class="bar"></span>
-                <span class="bar"></span>
             </div>
         </div>
     </nav>
@@ -233,172 +189,159 @@
     <!-- Hero Section -->
     <section class="ports-hero">
         <div class="container">
-            <h1>
-                <i class="fas fa-anchor"></i>
-                Puertos Asociados de Baleares
-            </h1>
-            <p class="subtitle">
-                Descubre los puertos deportivos que forman parte de la red de Marinas de España en Baleares
-            </p>
+            <h1><i class="fas fa-anchor"></i> Puertos Asociados de Baleares</h1>
+            <p class="subtitle">Descubre los puertos deportivos que forman parte de la red de Marinas de España en las Islas Baleares</p>
         </div>
     </section>
 
-    <!-- Ports Sections -->
+    <!-- Ports Section -->
     <section class="ports-section">
         <div class="container">
+
             <!-- Mallorca -->
             <div class="zone-section">
                 <h2 class="zone-title">Mallorca</h2>
                 <div class="ports-grid">
-                    <!-- Marina Alboran -->
-                    <div class="port-card">
-                        <h3 class="port-name">Marina Alboran</h3>
-                        <div class="port-links">
-                            <a href="https://www.alboran-charter.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Alboran+Charter+S.L.&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_x" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                <!-- Marina Alboran -->
+                <div class="port-card">
+                    <h3 class="port-name">Marina Alboran</h3>
+                    <div class="port-links">
+                        <a href="https://marinaalboran.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://www.google.com/maps/place/Marina+Alboran/@39.5632208,2.628243,17z/data=!3m1!4b1!4m6!3m5!1s0x1297927329c76da5:0xf1e27c5762a95b17!8m2!3d39.5632208!4d2.628243!16s%2Fg%2F12qgsh0h6?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
-
-                    <!-- Marina Port de Mallorca -->
-                    <div class="port-card">
-                        <h3 class="port-name">Marina Port de Mallorca</h3>
-                        <div class="port-links">
-                            <a href="https://www.portdemallorca.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Marina+Port+de+Mallorca&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_y" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                </div>
+                <!-- MARINA PORT DE MALLORCA -->
+                <div class="port-card">
+                    <h3 class="port-name">MARINA PORT DE MALLORCA</h3>
+                    <div class="port-links">
+                        <a href="https://portdemallorca.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://www.google.com/maps/place/Marina+Port+De+Mallorca/@39.5632208,2.628243,17z/data=!3m1!4b1!4m6!3m5!1s0x1297927329c76da5:0xf1e27c5762a95b17!8m2!3d39.5632208!4d2.628243!16s%2Fg%2F12qgsh0h6?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
-
-                    <!-- Port Esportiu Alcudiamar -->
-                    <div class="port-card">
-                        <h3 class="port-name">Port Esportiu Alcudiamar</h3>
-                        <div class="port-links">
-                            <a href="https://www.alcudiamar.es/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Port+Esportiu+Alcudiamar&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_z" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                </div>
+                <!-- Port Esportiu Alcudiamar -->
+                <div class="port-card">
+                    <h3 class="port-name">Port Esportiu Alcudiamar</h3>
+                    <div class="port-links">
+                        <a href="https://alcudiamar.es" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://www.google.com/maps/place/Port+d%27Alc%C3%BAdia/@39.8381016,3.1308796,17z/data=!4m10!1m2!2m1!1sPort+Esportiu+Alcudiamar!3m6!1s0x12962c8c072ba953:0x841a00335370bbed!8m2!3d39.8381016!4d3.1353857!15sChhQb3J0IEVzcG9ydGl1IEFsY3VkaWFtYXJaGiIYcG9ydCBlc3BvcnRpdSBhbGN1ZGlhbWFykgESdG91cmlzdF9hdHRyYWN0aW9uqgFOCgsvZy8xdl94Nmw1XxABMh8QASIbEJDxiTyxUtoFrxeE_F38rNqwdhhGLe-qroHhMhwQAiIYcG9ydCBlc3BvcnRpdSBhbGN1ZGlhbWFy4AEA!16s%2Fg%2F11cn6ch1cw?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
-
-                    <!-- Servicios Técnicos Portuarios -->
-                    <div class="port-card">
-                        <h3 class="port-name">Servicios Técnicos Portuarios</h3>
-                        <div class="port-links">
-                            <a href="https://www.stp-palma.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=STP+Shipyard+Palma&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_a" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                </div>
+                <!-- SERVICIOS TECNICOS PORTUARIOS -->
+                <div class="port-card">
+                    <h3 class="port-name">SERVICIOS TECNICOS PORTUARIOS</h3>
+                    <div class="port-links">
+                        <a href="https://stp-palma.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://www.google.com/maps/place/STP+(Servicios+T%C3%A9cnicos+Portuarios)/@39.5641673,2.6218852,15z/data=!4m10!1m2!2m1!1sSERVICIOS+TECNICOS+PORTUARIOS+Baleares!3m6!1s0x12979241eb1f3471:0xa0eb7614d039cbc0!8m2!3d39.5641673!4d2.6399096!15sCiZTRVJWSUNJT1MgVEVDTklDT1MgUE9SVFVBUklPUyBCYWxlYXJlc5IBH3NoaXBidWlsZGluZ19hbmRfcmVwYWlyX2NvbXBhbnmqAXIQASohIh1zZXJ2aWNpb3MgdGVjbmljb3MgcG9ydHVhcmlvcygOMh8QASIb3yHK_K4-oGKLasvascj2cM4B5T5HeCTkwISFMioQAiImc2VydmljaW9zIHRlY25pY29zIHBvcnR1YXJpb3MgYmFsZWFyZXPgAQA!16s%2Fg%2F1hc7h4dhh?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
-
-                    <!-- Marina de Bonaire Cocodrilo -->
-                    <div class="port-card">
-                        <h3 class="port-name">Marina de Bonaire Cocodrilo</h3>
-                        <div class="port-links">
-                            <a href="http://www.marinadebonaire.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Marina+de+Bonaire+%22Cocodrilo%22&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_b" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                </div>
+                <!-- Marina de Bonaire Cocodrilo -->
+                <div class="port-card">
+                    <h3 class="port-name">Marina de Bonaire Cocodrilo</h3>
+                    <div class="port-links">
+                        <a href="https://marinadebonaire.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://www.google.com/maps/place/Marina+de+Bonaire/@39.8652728,3.1410806,17z/data=!3m1!4b1!4m6!3m5!1s0x12962b83ba7dda8b:0x76dd2858a98413fe!8m2!3d39.8652687!4d3.1436502!16s%2Fg%2F12qg1t8s8?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
-
-                    <!-- Marina Tramontana -->
-                    <div class="port-card">
-                        <h3 class="port-name">Marina Tramontana</h3>
-                        <div class="port-links">
-                            <a href="https://marinatramontana.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Marina+Tramontana&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_c" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                </div>
+                <!-- Marina Tramontana -->
+                <div class="port-card">
+                    <h3 class="port-name">Marina Tramontana</h3>
+                    <div class="port-links">
+                        <a href="https://marinatramontana.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://www.google.com/maps/place/Marina+Tramontana/@39.7958189,2.6906655,17z/data=!3m1!4b1!4m6!3m5!1s0x1297e550af245a91:0xb384fcf1787f044!8m2!3d39.7958148!4d2.6932351!16s%2Fg%2F11p0lsbd7h?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
-
-                    <!-- Port Adriano -->
-                    <div class="port-card">
-                        <h3 class="port-name">Port Adriano</h3>
-                        <div class="port-links">
-                            <a href="https://www.portadriano.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Port+Adriano&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_d" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                </div>
+                <!-- Port Adriano -->
+                <div class="port-card">
+                    <h3 class="port-name">Port Adriano</h3>
+                    <div class="port-links">
+                        <a href="https://portadriano.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://www.google.com/maps/place/Port+Adriano/@39.4906449,2.4765844,17z/data=!3m2!4b1!5s0x129788381871c73d:0xba367e7c18ac973d!4m6!3m5!1s0x129789cb7c2d8c63:0xdf78d123d581814d!8m2!3d39.4906408!4d2.479154!16s%2Fg%2F1tg9vqvy?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
-
-                    <!-- Moll Vell -->
-                    <div class="port-card">
-                        <h3 class="port-name">Moll Vell</h3>
-                        <div class="port-links">
-                            <a href="https://www.mollvell.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Marina+Moll+Vell&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_e" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                </div>
+                <!-- Moll Vell -->
+                <div class="port-card">
+                    <h3 class="port-name">Moll Vell</h3>
+                    <div class="port-links">
+                        <a href="https://mollvell.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://www.google.com/maps/place/Marina+Moll+Vell/@39.5665083,2.6391225,17z/data=!4m10!1m2!2m1!1sMoll+Vell+Baleares!3m6!1s0x12979243898875d1:0xb35e6a5ad39c88f9!8m2!3d39.5665083!4d2.6436286!15sChJNb2xsIFZlbGwgQmFsZWFyZXOSAQZtYXJpbmGqAUkQASoMIghiYWxlYXJlcygOMh8QASIbv9ACNn9BjEBo5O3XzSMZwGy4botPjP0rLrIQMhYQAiISbW9sbCB2ZWxsIGJhbGVhcmVz4AEA!16s%2Fg%2F1td2qf0z?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
-
-                    <!-- Pantalán Mediterráneo -->
-                    <div class="port-card">
-                        <h3 class="port-name">Pantalán Mediterráneo</h3>
-                        <div class="port-links">
-                            <a href="https://pantalanmediterraneo.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Pantalán+del+Mediterráneo&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_f" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                </div>
+                <!-- Pantalan Mediterraneo -->
+                <div class="port-card">
+                    <h3 class="port-name">Pantalan Mediterraneo</h3>
+                    <div class="port-links">
+                        <a href="https://pantalanmediterraneo.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://www.google.com/maps/place/Pantal%C3%A1n+del+Mediterr%C3%A1neo/@39.5621569,2.6267152,17z/data=!3m1!4b1!4m6!3m5!1s0x129793ff24b7e0a7:0x8670763b9f395312!8m2!3d39.5621528!4d2.6292848!16s%2Fg%2F11rsftcrpk?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
-
-                    <!-- Port Olímpic Calanova -->
-                    <div class="port-card">
-                        <h3 class="port-name">Port Olímpic Calanova</h3>
-                        <div class="port-links">
-                            <a href="https://www.portcalanova.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Port+Calanova&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_g" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                </div>
+                <!-- Port Olimpic Calanova -->
+                <div class="port-card">
+                    <h3 class="port-name">Port Olimpic Calanova</h3>
+                    <div class="port-links">
+                        <a href="https://portcalanova.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://www.google.com/maps/place/Port+Calanova/@39.5499505,2.5962352,17z/data=!3m2!4b1!5s0x12978dde9fadcb1b:0x99a7344f04ac3e57!4m6!3m5!1s0x12978ddd5195e9b3:0xfc2fa952bbed7241!8m2!3d39.5499464!4d2.5988048!16s%2Fg%2F1wb44bzz?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
+                </div>
                 </div>
             </div>
 
@@ -406,191 +349,181 @@
             <div class="zone-section">
                 <h2 class="zone-title">Menorca</h2>
                 <div class="ports-grid">
-                    <!-- Nautic Center Menorca -->
-                    <div class="port-card">
-                        <h3 class="port-name">Nautic Center Menorca</h3>
-                        <div class="port-links">
-                            <a href="https://www.nauticcenter.net/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Nautic+Center+Menorca&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_h" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                <!-- NAUTIC CENTER MENORCA -->
+                <div class="port-card">
+                    <h3 class="port-name">NAUTIC CENTER MENORCA</h3>
+                    <div class="port-links">
+                        <a href="https://nauticcenter.net" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://www.google.com/maps/place/Nautic+Center+Menorca+%7C+Agencia+n%C3%A1utica/@39.9336983,3.7362535,10z/data=!4m10!1m2!2m1!1sNAUTIC+CENTER+MENORCA!3m6!1s0x12958700e3cad6a3:0xa1cff33f82759f3!8m2!3d39.888701!4d4.275436!15sChVOQVVUSUMgQ0VOVEVSIE1FTk9SQ0FaFyIVbmF1dGljIGNlbnRlciBtZW5vcmNhkgELYm9hdF9kZWFsZXKaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUmhiamxNU0daM0VBRaoBURABKhEiDW5hdXRpYyBjZW50ZXIoADIfEAEiG4HpoH6KdabnhKnASXHwU4yFZBibxsoMv64gcDIZEAIiFW5hdXRpYyBjZW50ZXIgbWVub3JjYeABAPoBBAgIECM!16s%2Fg%2F11fmfz5mfy?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
-
-                    <!-- Marina Deportiva de Menorca -->
-                    <div class="port-card">
-                        <h3 class="port-name">Marina Deportiva de Menorca</h3>
-                        <div class="port-links">
-                            <a href="http://www.marinamenorca.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Marina+Menorca&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_i" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                </div>
+                <!-- MARINA DEPORTIVA DE MENORCA -->
+                <div class="port-card">
+                    <h3 class="port-name">MARINA DEPORTIVA DE MENORCA</h3>
+                    <div class="port-links">
+                        <a href="https://marinamenorca.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://www.google.com/maps?q=Marina+Menorca+%7C+Amarres+en+el+puerto+de+Ma%C3%B3+y+Fornells,+Sa+Colarsega,+s/n,+07701,+Balearic+Islands&ftid=0x1295878cfe4673a1:0xc4cba5f038aa7c8d&entry=gps" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
-
-                    <!-- Club Nàutic Fornells -->
-                    <div class="port-card">
-                        <h3 class="port-name">Club Nàutic Fornells</h3>
-                        <div class="port-links">
-                            <a href="https://cnfornells.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Club+Nàutic+Fornells&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_j" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                </div>
+                <!-- CLUB NAUTIC FORNELLS -->
+                <div class="port-card">
+                    <h3 class="port-name">CLUB NAUTIC FORNELLS</h3>
+                    <div class="port-links">
+                        <a href="https://cnfornells.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://www.google.com/maps/place/Club+N%C3%A0utic+Fornells/@40.0402983,4.1216361,17z/data=!3m1!4b1!4m6!3m5!1s0x12be218c7e149cb9:0x25e29315bde0e83a!8m2!3d40.0402942!4d4.1242057!16s%2Fg%2F1q5bmbxtr?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
-
-                    <!-- Puerto Addaya -->
-                    <div class="port-card">
-                        <h3 class="port-name">Puerto Addaya</h3>
-                        <div class="port-links">
-                            <a href="https://www.puertoaddaya.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Puerto+Addaia&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_k" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                </div>
+                <!-- PUERTO ADDAYA -->
+                <div class="port-card">
+                    <h3 class="port-name">PUERTO ADDAYA</h3>
+                    <div class="port-links">
+                        <a href="https://puertoaddaya.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://www.google.com/maps?q=Embarcadero+Port+d%27Addaia,+Carrer+Steward,+190,+07740+Port+d%27Addaia,+Balearic+Islands&ftid=0x12be2529f4632feb:0x3af18354d3aa2907&entry=gps" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
-
-                    <!-- Cala'n Bosch -->
-                    <div class="port-card">
-                        <h3 class="port-name">Cala'n Bosch</h3>
-                        <div class="port-links">
-                            <a href="https://www.puertocalanbosch.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Puerto+Deportivo+Cala'n+Bosch&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_l" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                </div>
+                <!-- Cala'n Bosch -->
+                <div class="port-card">
+                    <h3 class="port-name">Cala'n Bosch</h3>
+                    <div class="port-links">
+                        <a href="https://puertocalanbosch.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://www.google.com/maps/place/NEX+GRUPO+-+Servicios+portuarios+y+Alquiler+de+embarcaciones/@39.9285651,3.8329479,17z/data=!3m1!4b1!4m6!3m5!1s0x12be0204d4332521:0xf25976d861be8367!8m2!3d39.9285651!4d3.8329479!16s%2Fg%2F11cn6fqfcq?entry=ttu&g_ep=EgoyMDI1MDYyNi4wIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
-
-                    <!-- Marina Port Mahón -->
-                    <div class="port-card">
-                        <h3 class="port-name">Marina Port Mahón</h3>
-                        <div class="port-links">
-                            <a href="https://marinaportmahon.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Marina+Port+Mahón&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_m" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                </div>
+                <!-- MARINA PORT MAHON -->
+                <div class="port-card">
+                    <h3 class="port-name">MARINA PORT MAHON</h3>
+                    <div class="port-links">
+                        <a href="https://marinaportmahon.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://www.google.com/maps?q=Marina+Port+Mah%C3%B3n,+Moll+de+Llevant,+297,+07701+Mah%C3%B3n,+Balearic+Islands&ftid=0x129587fac76f7973:0xc0b3aa856fe711d2&entry=gps" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
-
-                    <!-- Port de Llevant -->
-                    <div class="port-card">
-                        <h3 class="port-name">Port de Llevant</h3>
-                        <div class="port-links">
-                            <a href="https://portdellevant.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Port+de+Llevant&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_n" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
-                    </div>
+                </div>
                 </div>
             </div>
 
-            <!-- Ibiza y Formentera -->
+            <!-- Ibiza -->
             <div class="zone-section">
-                <h2 class="zone-title">Ibiza y Formentera</h2>
+                <h2 class="zone-title">Ibiza</h2>
                 <div class="ports-grid">
-                    <!-- Varadero Ibiza -->
-                    <div class="port-card">
-                        <h3 class="port-name">Varadero Ibiza</h3>
-                        <div class="port-links">
-                            <a href="https://www.varaderoibiza.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Varadero+Ibiza&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_o" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                <!-- PORT DE LLEVANT -->
+                <div class="port-card">
+                    <h3 class="port-name">PORT DE LLEVANT</h3>
+                    <div class="port-links">
+                        <a href="https://portdellevant.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://www.google.com/maps?q=Marina+Port+De+Llevant,+Moll+de+Llevant,+274,+07701+Mah%C3%B3n,+Balearic+Islands&ftid=0x129587691377c2d9:0x95b216b3385908f4&entry=gps" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
-
-                    <!-- Marina Port Ibiza -->
-                    <div class="port-card">
-                        <h3 class="port-name">Marina Port Ibiza</h3>
-                        <div class="port-links">
-                            <a href="https://www.marinaportibiza.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Marina+Port+Ibiza&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_p" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                </div>
+                <!-- VARADERO IBIZA -->
+                <div class="port-card">
+                    <h3 class="port-name">VARADERO IBIZA</h3>
+                    <div class="port-links">
+                        <a href="https://varaderoibiza.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://www.google.com/maps?q=Varadero+Ibiza,+Muelle+Pesquero.+Puerto+de+Ibiza+s/n,+07800+Ibiza,+Balearic+Islands&ftid=0x129946b70607528b:0x9f9b389e9ac067bd&entry=gps" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
-
-                    <!-- Marina Ibiza -->
-                    <div class="port-card">
-                        <h3 class="port-name">Marina Ibiza</h3>
-                        <div class="port-links">
-                            <a href="https://marinaibiza.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Marina+Ibiza&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_q" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                </div>
+                <!-- MARINA PORT IBIZA -->
+                <div class="port-card">
+                    <h3 class="port-name">MARINA PORT IBIZA</h3>
+                    <div class="port-links">
+                        <a href="https://marinaportibiza.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://www.google.com/maps?q=Marina+Port+Ibiza,+del+Puerto,+Carrer+Andanes,+S/N,+07800,+Balearic+Islands&ftid=0x129946b13977ce65:0x342b8b6e1504a668&entry=gps" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
-
-                    <!-- Botafoc Ibiza -->
-                    <div class="port-card">
-                        <h3 class="port-name">Botafoc Ibiza</h3>
-                        <div class="port-links">
-                            <a href="https://www.botafocibiza.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Marina+Botafoc&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_r" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                </div>
+                <!-- MARINA IBIZA -->
+                <div class="port-card">
+                    <h3 class="port-name">MARINA IBIZA</h3>
+                    <div class="port-links">
+                        <a href="https://marinaibiza.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://www.google.com/maps?q=Marina+Ibiza,+Passeig+Joan+Carles+I,+20,+07800+Eivissa,+Illes+Balears&ftid=0x1299414aba8e66a3:0x21e1b7fb18631a30&entry=gps" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
-
-                    <!-- Marina Santa Eulalia -->
-                    <div class="port-card">
-                        <h3 class="port-name">Marina Santa Eulalia</h3>
-                        <div class="port-links">
-                            <a href="https://marinasantaeulalia.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Marina+Santa+Eulalia&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_s" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                </div>
+                <!-- Botafoc Ibiza -->
+                <div class="port-card">
+                    <h3 class="port-name">Botafoc Ibiza</h3>
+                    <div class="port-links">
+                        <a href="https://botafocibiza.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://www.google.com/maps?q=Botafoc+Eivissa,+Av.+de+Juan+Carlos+I,+23,+07800+Ibiza,+Balearic+Islands&ftid=0x12994100c1567489:0xdd8569e86322e845&entry=gps" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
+                </div>
+                <!-- MARINA SANTA EULALIA -->
+                <div class="port-card">
+                    <h3 class="port-name">MARINA SANTA EULALIA</h3>
+                    <div class="port-links">
+                        <a href="https://marinasantaeulalia.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://www.google.com/maps?q=Marina+Santa+Eul%C3%A0lia,+Edificio+Capitan%C3%ADa,+s/n,+Passeig+del+Port,+15,+07840+Santa+Eul%C3%A0ria+des+Riu,+Balearic+Islands&ftid=0x1299154a26181c91:0xd2a1fb067bc553f0&entry=gps" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
+                    </div>
+                </div>
                 </div>
             </div>
         </div>
@@ -611,12 +544,8 @@
         <div class="container">
             <div class="footer-content">
                 <div class="footer-section">
-                    <h4>Marinas de España</h4>
-                    <p>Federación Española de Asociaciones de Puertos Deportivos y Turísticos</p>
-                </div>
-                <div class="footer-section">
-                    <h4>Enlaces Rápidos</h4>
-                    <ul>
+                    <h3>Navegación</h3>
+                    <ul class="footer-links">
                         <li><a href="index.html#congreso">I Congreso</a></li>
                         <li><a href="index.html#federacion">La Federación</a></li>
                         <li><a href="index.html#asociaciones">Asociaciones</a></li>
@@ -624,12 +553,8 @@
                     </ul>
                 </div>
                 <div class="footer-section">
-                    <h4>Síguenos</h4>
-                    <div class="social-links">
-                        <a href="#" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
-                        <a href="#" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
-                        <a href="#" aria-label="Facebook"><i class="fab fa-facebook"></i></a>
-                        <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                    <div class="footer-social">
+                        <a href="https://www.linkedin.com/company/feapdt" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
                     </div>
                 </div>
             </div>
@@ -638,8 +563,5 @@
             </div>
         </div>
     </footer>
-
-    <script src="js/main.js"></script>
 </body>
 </html>
-
