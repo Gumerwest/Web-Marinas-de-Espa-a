@@ -103,11 +103,12 @@
         .port-link {
             display: flex;
             align-items: center;
-            padding: 0.75rem 1rem;
+            gap: 0.75rem;
+            padding: 1rem 1.5rem;
             border-radius: 12px;
             text-decoration: none;
+            font-weight: 600;
             transition: all 0.3s ease;
-            font-weight: 500;
             border: 2px solid transparent;
         }
 
@@ -117,86 +118,70 @@
         }
 
         .port-link.website:hover {
-            transform: translateX(4px);
-            box-shadow: 0 4px 12px rgba(30, 58, 138, 0.3);
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.2);
         }
 
         .port-link.maps {
-            background: var(--gray-100);
-            color: var(--gray-700);
-            border-color: var(--gray-200);
+            background: linear-gradient(135deg, #dc3545, #c82333);
+            color: white;
         }
 
         .port-link.maps:hover {
-            background: var(--gold-color);
-            color: white;
-            border-color: var(--gold-color);
-            transform: translateX(4px);
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(220,53,69,0.3);
         }
 
-        .port-link i {
-            margin-right: 0.75rem;
-            font-size: 1.1rem;
+        .zone-section {
+            margin-bottom: 4rem;
+        }
+
+        .zone-title {
+            font-size: 2.5rem;
+            font-weight: 800;
+            color: var(--dark-color);
+            text-align: center;
+            margin-bottom: 3rem;
+            position: relative;
+        }
+
+        .zone-title::after {
+            content: '';
+            position: absolute;
+            bottom: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 80px;
+            height: 4px;
+            background: linear-gradient(90deg, var(--gold-color), var(--accent-color));
+            border-radius: 2px;
         }
 
         .back-navigation {
+            background: var(--gray-100);
+            padding: 2rem 0;
             text-align: center;
-            padding: 3rem 0;
-            border-top: 1px solid var(--gray-200);
-            margin-top: 2rem;
-        }
-
-        @media (max-width: 768px) {
-            .ports-hero h1 {
-                font-size: 2.5rem;
-            }
-
-            .ports-grid {
-                grid-template-columns: 1fr;
-                gap: 1.5rem;
-                padding: 2rem 0;
-            }
-
-            .port-card {
-                padding: 1.5rem;
-            }
-
-            .port-links {
-                gap: 0.75rem;
-            }
-
-            .port-link {
-                padding: 0.6rem 0.8rem;
-                font-size: 0.9rem;
-            }
         }
     </style>
 </head>
 <body>
     <!-- Navigation -->
-    <nav class="navbar" id="navbar">
-        <div class="nav-container">
-            <div class="nav-logo">
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-brand">
                 <a href="index.html">
-                    <img src="images/logo-marinas-espana-recortado.png" alt="Marinas de España" class="logo-img">
+                    <img src="images/logo-marinas.png" alt="Marinas de España" class="logo">
                 </a>
             </div>
-            
-            <div class="nav-menu" id="nav-menu">
+            <div class="nav-menu">
                 <a href="index.html#inicio" class="nav-link">Inicio</a>
                 <a href="index.html#congreso" class="nav-link">I Congreso</a>
-                <a href="index.html#patrocinadores" class="nav-link">Patrocinadores</a>
+                <a href="index.html#patrocinadores" class="nav-link">Colaboradores</a>
                 <a href="index.html#noticias" class="nav-link">Noticias</a>
                 <a href="index.html#mapa" class="nav-link">Mapa Puertos</a>
                 <a href="index.html#federacion" class="nav-link">La Federación</a>
                 <a href="index.html#asociaciones" class="nav-link">Asociaciones</a>
                 <a href="index.html#contacto" class="nav-link">Contacto</a>
-            </div>
-            
-            <div class="nav-toggle" id="nav-toggle">
-                <span class="bar"></span>
-                <span class="bar"></span>
-                <span class="bar"></span>
             </div>
         </div>
     </nav>
@@ -204,55 +189,47 @@
     <!-- Hero Section -->
     <section class="ports-hero">
         <div class="container">
-            <h1>
-                <i class="fas fa-anchor"></i>
-                Puertos Asociados de Andalucía
-            </h1>
-            <p class="subtitle">
-                Descubre los puertos deportivos que forman parte de la red de Marinas de España en Andalucía
-            </p>
+            <h1><i class="fas fa-anchor"></i> Puertos Asociados de Andalucía</h1>
+            <p class="subtitle">Descubre los puertos deportivos que forman parte de la red de Marinas de España en Andalucía</p>
         </div>
     </section>
 
-    <!-- Ports Grid -->
-    <section class="por    <!-- Ports Grid -->
+    <!-- Ports Section -->
     <section class="ports-section">
         <div class="container">
-            
+
             <!-- Almería -->
             <div class="zone-section">
                 <h2 class="zone-title">Almería</h2>
                 <div class="ports-grid">
-                <!-- Puerto Deportivo de Aguadulce -->
+                <!-- Puerto Deportivo Aguadulce -->
                 <div class="port-card">
-                    <h3 class="port-name">Puerto Deportivo de Aguadulce</h3>
+                    <h3 class="port-name">Puerto Deportivo Aguadulce</h3>
                     <div class="port-links">
-                        <a href="http://www.puertodeportivoaguadulce.es/" target="_blank" class="port-link website">
+                        <a href="https://puertodeportivoaguadulce.com" target="_blank" class="port-link website">
                             <i class="fas fa-globe"></i>
                             Visitar Página Web
                         </a>
-                        <a href="https://www.google.com/maps/search/?api=1&query=Puerto+Deportivo+de+Aguadulce" target="_blank" class="port-link maps">
+                        <a href="https://www.google.com/maps/place/Puerto+Deportivo+Aguadulce/@36.814303,-2.5618535,17z/data=!3m1!4b1!4m6!3m5!1s0xd7071ca660941f1:0xa90acf67736e3983!8m2!3d36.814303!4d-2.5618535!16s%2Fg%2F1w0p6z_2?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
                             <i class="fas fa-map-marker-alt"></i>
                             Ver en Google Maps
                         </a>
                     </div>
                 </div>
-
                 <!-- Almerimar -->
                 <div class="port-card">
                     <h3 class="port-name">Almerimar</h3>
                     <div class="port-links">
-                        <a href="https://www.almerimar.com/" target="_blank" class="port-link website">
+                        <a href="https://almerimarpuerto.com" target="_blank" class="port-link website">
                             <i class="fas fa-globe"></i>
                             Visitar Página Web
                         </a>
-                        <a href="https://www.google.com/maps/search/?api=1&query=Almerimar" target="_blank" class="port-link maps">
+                        <a href="https://www.google.com/maps/place/Puerto+Almerimar/@36.6961134,-2.7939968,17z/data=!3m1!4b1!4m6!3m5!1s0xd705d99e886f13f:0xe4d7e0c45b6e2964!8m2!3d36.6961134!4d-2.7939968!16s%2Fg%2F120pgskr?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
                             <i class="fas fa-map-marker-alt"></i>
                             Ver en Google Maps
                         </a>
                     </div>
                 </div>
-
                 <!-- Puerto de San José -->
                 <div class="port-card">
                     <h3 class="port-name">Puerto de San José</h3>
@@ -267,55 +244,55 @@
                         </a>
                     </div>
                 </div>
+                </div>
             </div>
 
             <!-- Cádiz -->
             <div class="zone-section">
                 <h2 class="zone-title">Cádiz</h2>
                 <div class="ports-grid">
-                <!-- Alcaidesa Marina -->
+                <!-- Puerto Deportivo Alcaidesa Marina -->
                 <div class="port-card">
-                    <h3 class="port-name">Alcaidesa Marina</h3>
+                    <h3 class="port-name">Puerto Deportivo Alcaidesa Marina</h3>
                     <div class="port-links">
-                        <a href="https://alcaidesamarina.com/" target="_blank" class="port-link website">
+                        <a href="https://alcaidesamarina.com" target="_blank" class="port-link website">
                             <i class="fas fa-globe"></i>
                             Visitar Página Web
                         </a>
-                        <a href="https://www.google.com/maps/search/?api=1&query=Alcaidesa+Marina" target="_blank" class="port-link maps">
+                        <a href="https://www.google.com/maps/place/Puerto+Deportivo+Alcaidesa+Marina/@36.158105,-5.35975,16z/data=!3m1!4b1!4m6!3m5!1s0xd0cc088eaf3e6db:0x37c06d793e231de0!8m2!3d36.158105!4d-5.35975!16s%2Fg%2F1vhlzfnx?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
                             <i class="fas fa-map-marker-alt"></i>
                             Ver en Google Maps
                         </a>
                     </div>
                 </div>
-
                 <!-- Puerto Sherry -->
                 <div class="port-card">
                     <h3 class="port-name">Puerto Sherry</h3>
                     <div class="port-links">
-                        <a href="https://www.puertosherry.com/" target="_blank" class="port-link website">
+                        <a href="https://puertosherry.com" target="_blank" class="port-link website">
                             <i class="fas fa-globe"></i>
                             Visitar Página Web
                         </a>
-                        <a href="https://www.google.com/maps/search/?api=1&query=Puerto+Sherry" target="_blank" class="port-link maps">
+                        <a href="https://www.google.com/maps/place/Puerto+Sherry/@36.5788918,-6.2758391,14z/data=!4m10!1m2!2m1!1sPuerto+Sherry!3m6!1s0xd0dd0321e687e37:0xe85ef7d64537372c!8m2!3d36.5822355!4d-6.2555447!15sCg1QdWVydG8gU2hlcnJ5kgEGbWFyaW5hqgFCCgsvZy8xMjJxeTYwMhABMh4QASIatAhhdni3MhYKv7XkZdhMMuANs6U2TmBxn_syERACIg1wdWVydG8gc2hlcnJ54AEA!16s%2Fg%2F122qy602?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
                             <i class="fas fa-map-marker-alt"></i>
                             Ver en Google Maps
                         </a>
                     </div>
                 </div>
-
                 <!-- Puerto de Sotogrande -->
                 <div class="port-card">
                     <h3 class="port-name">Puerto de Sotogrande</h3>
                     <div class="port-links">
-                        <a href="https://www.puertosotogrande.com/" target="_blank" class="port-link website">
+                        <a href="https://puertosotogrande.es" target="_blank" class="port-link website">
                             <i class="fas fa-globe"></i>
                             Visitar Página Web
                         </a>
-                        <a href="https://www.google.com/maps/search/?api=1&query=Puerto+de+Sotogrande" target="_blank" class="port-link maps">
+                        <a href="https://www.google.com/maps/place/Puerto+Sotogrande+%7C+Puerto+Deportivo/@36.2869021,-5.2745656,16.85z/data=!4m6!3m5!1s0xd0cc4eff391a65d:0xff787710371af97c!8m2!3d36.2884867!4d-5.2698383!16s%2Fg%2F1tfmdh7k?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
                             <i class="fas fa-map-marker-alt"></i>
                             Ver en Google Maps
                         </a>
                     </div>
+                </div>
                 </div>
             </div>
 
@@ -327,30 +304,30 @@
                 <div class="port-card">
                     <h3 class="port-name">Marina del Este</h3>
                     <div class="port-links">
-                        <a href="https://www.marinadeleste.com/" target="_blank" class="port-link website">
+                        <a href="https://marinasmediterraneo.es/marina/" target="_blank" class="port-link website">
                             <i class="fas fa-globe"></i>
                             Visitar Página Web
                         </a>
-                        <a href="https://www.google.com/maps/search/?api=1&query=Marina+del+Este" target="_blank" class="port-link maps">
+                        <a href="https://www.google.com/maps/place/Puerto+Deportivo+Marina+Del+Este/@36.7278514,-3.7264554,17z/data=!3m1!4b1!4m6!3m5!1s0xd71881cbcb9c733:0x3bf5532cf401fa64!8m2!3d36.7278514!4d-3.7264554!16s%2Fg%2F1228ltyr?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
                             <i class="fas fa-map-marker-alt"></i>
                             Ver en Google Maps
                         </a>
                     </div>
                 </div>
-
                 <!-- Marina Motril -->
                 <div class="port-card">
                     <h3 class="port-name">Marina Motril</h3>
                     <div class="port-links">
-                        <a href="https://www.marinamotril.com/" target="_blank" class="port-link website">
+                        <a href="https://marinamotril.com" target="_blank" class="port-link website">
                             <i class="fas fa-globe"></i>
                             Visitar Página Web
                         </a>
-                        <a href="https://www.google.com/maps/search/?api=1&query=Marina+Motril" target="_blank" class="port-link maps">
+                        <a href="https://www.google.com/maps/place/Marina+Motril/@36.7243423,-3.5271799,17z/data=!3m1!4b1!4m6!3m5!1s0xd719a712ea193b5:0x1b58857e5d80bad7!8m2!3d36.7243423!4d-3.5271799!16s%2Fg%2F1tdg946c?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
                             <i class="fas fa-map-marker-alt"></i>
                             Ver en Google Maps
                         </a>
                     </div>
+                </div>
                 </div>
             </div>
 
@@ -358,19 +335,20 @@
             <div class="zone-section">
                 <h2 class="zone-title">Huelva</h2>
                 <div class="ports-grid">
-                <!-- Marina El Rompido -->
+                <!-- Puerto Marina El Rompido -->
                 <div class="port-card">
-                    <h3 class="port-name">Marina El Rompido</h3>
+                    <h3 class="port-name">Puerto Marina El Rompido</h3>
                     <div class="port-links">
-                        <a href="http://www.puertoelrompido.com/" target="_blank" class="port-link website">
+                        <a href="https://puertoelrompido.com" target="_blank" class="port-link website">
                             <i class="fas fa-globe"></i>
                             Visitar Página Web
                         </a>
-                        <a href="https://www.google.com/maps/search/?api=1&query=Marina+El+Rompido" target="_blank" class="port-link maps">
+                        <a href="https://www.google.com/maps/place/Puerto+Marina+El+Rompido/@37.2178994,-7.1278839,17z/data=!3m1!4b1!4m6!3m5!1s0xd11d3004ff14011:0xe3c77a6f7aa7b76b!8m2!3d37.2178994!4d-7.1278839!16s%2Fg%2F11vzcp1369?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
                             <i class="fas fa-map-marker-alt"></i>
                             Ver en Google Maps
                         </a>
                     </div>
+                </div>
                 </div>
             </div>
 
@@ -378,139 +356,132 @@
             <div class="zone-section">
                 <h2 class="zone-title">Málaga</h2>
                 <div class="ports-grid">
-                <!-- Real Club Náutico El Candado -->
-                <div class="port-card">
-                    <h3 class="port-name">Real Club Náutico El Candado</h3>
-                    <div class="port-links">
-                        <a href="https://www.clubelcandado.com/" target="_blank" class="port-link website">
-                            <i class="fas fa-globe"></i>
-                            Visitar Página Web
-                        </a>
-                        <a href="https://www.google.com/maps/search/?api=1&query=Real+Club+Náutico+El+Candado" target="_blank" class="port-link maps">
-                            <i class="fas fa-map-marker-alt"></i>
-                            Ver en Google Maps
-                        </a>
-                    </div>
-                </div>
-
-                <!-- Puerto Banús -->
-                <div class="port-card">
-                    <h3 class="port-name">Puerto Banús</h3>
-                    <div class="port-links">
-                        <a href="https://www.puerto-banus.com/" target="_blank" class="port-link website">
-                            <i class="fas fa-globe"></i>
-                            Visitar Página Web
-                        </a>
-                        <a href="https://www.google.com/maps/search/?api=1&query=Puerto+Banús&query_place_id=ChIJrR55z0-hcg0R4YpP6U7R_wY" target="_blank" class="port-link maps">
-                            <i class="fas fa-map-marker-alt"></i>
-                            Ver en Google Maps
-                        </a>
-                    </div>
-                </div>
-
                 <!-- Puerto Deportivo de Benalmádena -->
                 <div class="port-card">
                     <h3 class="port-name">Puerto Deportivo de Benalmádena</h3>
                     <div class="port-links">
-                        <a href="https://puertobenalmadena.es/" target="_blank" class="port-link website">
+                        <a href="https://puertobenalmadena.es" target="_blank" class="port-link website">
                             <i class="fas fa-globe"></i>
                             Visitar Página Web
                         </a>
-                        <a href="https://www.google.com/maps/search/?api=1&query=Puerto+Deportivo+de+Benalmádena" target="_blank" class="port-link maps">
+                        <a href="https://www.google.com/maps/place/Puerto+Deportivo+de+Benalm%C3%A1dena/@36.594212,-4.512339,17z/data=!3m1!4b1!4m6!3m5!1s0xd72fc6674f5db19:0x4e1a97cb22de871a!8m2!3d36.594212!4d-4.512339!16s%2Fg%2F1233fxcj?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
                             <i class="fas fa-map-marker-alt"></i>
                             Ver en Google Maps
                         </a>
                     </div>
                 </div>
-
-                <!-- IGY Málaga Marina -->
-                <div class="port-card">
-                    <h3 class="port-name">IGY Málaga Marina</h3>
-                    <div class="port-links">
-                        <a href="https://www.igymarinas.com/marinas/malaga/" target="_blank" class="port-link website">
-                            <i class="fas fa-globe"></i>
-                            Visitar Página Web
-                        </a>
-                        <a href="https://www.google.com/maps/search/?api=1&query=IGY+Málaga+Marina" target="_blank" class="port-link maps">
-                            <i class="fas fa-map-marker-alt"></i>
-                            Ver en Google Maps
-                        </a>
-                    </div>
-                </div>
-
-                <!-- Real Club Náutico Estepona -->
-                <div class="port-card">
-                    <h3 class="port-name">Real Club Náutico Estepona</h3>
-                    <div class="port-links">
-                        <a href="https://www.rcnestepona.com/" target="_blank" class="port-link website">
-                            <i class="fas fa-globe"></i>
-                            Visitar Página Web
-                        </a>
-                        <a href="https://www.google.com/maps/search/?api=1&query=Real+Club+Náutico+Estepona" target="_blank" class="port-link maps">
-                            <i class="fas fa-map-marker-alt"></i>
-                            Ver en Google Maps
-                        </a>
-                    </div>
-                </div>
-
-                <!-- Puerto Deportivo de Marbella -->
-                <div class="port-card">
-                    <h3 class="port-name">Puerto Deportivo de Marbella</h3>
-                    <div class="port-links">
-                        <a href="https://www.puertomarbella.com/" target="_blank" class="port-link website">
-                            <i class="fas fa-globe"></i>
-                            Visitar Página Web
-                        </a>
-                        <a href="https://www.google.com/maps/search/?api=1&query=Puerto+Deportivo+de+Marbella" target="_blank" class="port-link maps">
-                            <i class="fas fa-map-marker-alt"></i>
-                            Ver en Google Maps
-                        </a>
-                    </div>
-                </div>
-
-                <!-- Puerto Deportivo de Fuengirola -->
-                <div class="port-card">
-                    <h3 class="port-name">Puerto Deportivo de Fuengirola</h3>
-                    <div class="port-links">
-                        <a href="https://www.puertofuengirola.com/" target="_blank" class="port-link website">
-                            <i class="fas fa-globe"></i>
-                            Visitar Página Web
-                        </a>
-                        <a href="https://www.google.com/maps/search/?api=1&query=Puerto+Deportivo+de+Fuengirola" target="_blank" class="port-link maps">
-                            <i class="fas fa-map-marker-alt"></i>
-                            Ver en Google Maps
-                        </a>
-                    </div>
-                </div>
-
                 <!-- Puerto Deportivo de Estepona -->
                 <div class="port-card">
                     <h3 class="port-name">Puerto Deportivo de Estepona</h3>
                     <div class="port-links">
-                        <a href="https://www.puertoestepona.com/" target="_blank" class="port-link website">
+                        <a href="https://marinasmediterraneo.es/estepona/" target="_blank" class="port-link website">
                             <i class="fas fa-globe"></i>
                             Visitar Página Web
                         </a>
-                        <a href="https://www.google.com/maps/search/?api=1&query=Puerto+Deportivo+de+Estepona" target="_blank" class="port-link maps">
+                        <a href="https://www.google.com/maps/place/Puerto+Deportivo+de+Estepona/@36.4159657,-5.1585576,17z/data=!3m1!4b1!4m6!3m5!1s0xd0cd6b3eb5b66d9:0xe4c18628162e85d9!8m2!3d36.4159657!4d-5.1585576!16s%2Fg%2F11gdk_fxyh?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
                             <i class="fas fa-map-marker-alt"></i>
                             Ver en Google Maps
                         </a>
                     </div>
                 </div>
-
-                <!-- Puerto Deportivo de La Duquesa -->
+                <!-- Real Club Náutico El Candado -->
                 <div class="port-card">
-                    <h3 class="port-name">Puerto Deportivo de La Duquesa</h3>
+                    <h3 class="port-name">Real Club Náutico El Candado</h3>
                     <div class="port-links">
-                        <a href="https://www.puertoladuquesa.com/" target="_blank" class="port-link website">
+                        <a href="https://clubelcandado.com" target="_blank" class="port-link website">
                             <i class="fas fa-globe"></i>
                             Visitar Página Web
                         </a>
-                        <a href="https://www.google.com/maps/search/?api=1&query=Puerto+Deportivo+de+La+Duquesa" target="_blank" class="port-link maps">
+                        <a href="https://www.google.com/maps/place/Puerto+Deportivo+El+Candado/@36.7155591,-4.3464078,17z/data=!3m1!4b1!4m6!3m5!1s0xd7259fab7ae4ec3:0xa8c76909310f98e1!8m2!3d36.7155591!4d-4.3464078!16s%2Fg%2F11fsn3q4_7?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
                             <i class="fas fa-map-marker-alt"></i>
                             Ver en Google Maps
                         </a>
                     </div>
+                </div>
+                <!-- Puerto Banús -->
+                <div class="port-card">
+                    <h3 class="port-name">Puerto Banús</h3>
+                    <div class="port-links">
+                        <a href="https://puerto-banus.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://www.google.com/maps/place/Banus/@36.4859378,-4.9544317,17z/data=!3m1!4b1!4m6!3m5!1s0xd7329c0f3c27dd5:0xc208325ccef80ed2!8m2!3d36.4859378!4d-4.9544317!16s%2Fg%2F11b807rjlv?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
+                    </div>
+                </div>
+                <!-- IGY Málaga Marina -->
+                <div class="port-card">
+                    <h3 class="port-name">IGY Málaga Marina</h3>
+                    <div class="port-links">
+                        <a href="https://igymarinas.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://www.google.com/maps/place/IGY+M%C3%A1laga+Marina/@36.7144457,-4.4146948,17z/data=!3m1!4b1!4m6!3m5!1s0xd72f785b1bc1a35:0x8f7a0dc3a9751239!8m2!3d36.7144457!4d-4.4146948!16s%2Fg%2F11q9qdbgq_?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
+                    </div>
+                </div>
+                <!-- Real Club Náutico Estepona -->
+                <div class="port-card">
+                    <h3 class="port-name">Real Club Náutico Estepona</h3>
+                    <div class="port-links">
+                        <a href="https://rcne.es" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://www.google.com/maps/place/Real+Club+N%C3%A1utico+de+Estepona/@36.4150616,-5.1587685,17z/data=!3m1!4b1!4m6!3m5!1s0xd0cd6b20e046dd9:0x8164fae27f65886!8m2!3d36.4150616!4d-5.1587685!16s%2Fg%2F113f43q60?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
+                    </div>
+                </div>
+                <!-- Puerto Deportivo de Marbella -->
+                <div class="port-card">
+                    <h3 class="port-name">Puerto Deportivo de Marbella</h3>
+                    <div class="port-links">
+                        <a href="https://puertodeportivo.marbella.es" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://www.google.com/maps/place/Puerto+Deportivo+de+Marbella/@36.5060342,-4.8901825,17z/data=!3m1!4b1!4m6!3m5!1s0xd73275b05d54b4b:0x6b16d7247ff6c6a9!8m2!3d36.5060342!4d-4.8901825!16s%2Fg%2F122fpsty?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
+                    </div>
+                </div>
+                <!-- Puerto Deportivo de Fuengirola -->
+                <div class="port-card">
+                    <h3 class="port-name">Puerto Deportivo de Fuengirola</h3>
+                    <div class="port-links">
+                        <a href="https://pdfsam.es" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://www.google.com/maps/place/Puerto+Deportivo+Fuengirola,+29640+Fuengirola,+M%C3%A1laga,+Spain/@36.5417052,-4.6187153,17z/data=!3m1!4b1!4m6!3m5!1s0xd72e26a240a708b:0x8cf1a1e50a4b8ba7!8m2!3d36.5417052!4d-4.6187153!16s%2Fg%2F11hcf13czh?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
+                    </div>
+                </div>
+                <!-- Puerto Deportivo de La Duquesa -->
+                <div class="port-card">
+                    <h3 class="port-name">Puerto Deportivo de La Duquesa</h3>
+                    <div class="port-links">
+                        <a href="https://marinasmediterraneo.es/duquesa/" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://www.google.com/maps/place/Puerto+Deportivo+de+La+Duquesa/@36.3555117,-5.2476293,15z/data=!4m10!1m2!2m1!1sPuerto+Deportivo+de+La+Duquesa!3m6!1s0xd0cda4303840ad9:0xc97718bd0fe00e60!8m2!3d36.3564529!4d-5.2309699!15sCh5QdWVydG8gRGVwb3J0aXZvIGRlIExhIER1cXVlc2FaICIecHVlcnRvIGRlcG9ydGl2byBkZSBsYSBkdXF1ZXNhkgEGbWFyaW5hqgFVCgwvZy8xejQ0YmJkNTMQATIfEAEiGwb6bhQYVSgjUfbLzadClJGYCLMc1rKQ6gVwOzIiEAIiHnB1ZXJ0byBkZXBvcnRpdm8gZGUgbGEgZHVxdWVzYeABAA!16s%2Fg%2F1z44bbd53?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
+                    </div>
+                </div>
                 </div>
             </div>
         </div>
@@ -531,12 +502,8 @@
         <div class="container">
             <div class="footer-content">
                 <div class="footer-section">
-                    <h4>Marinas de España</h4>
-                    <p>Federación Española de Asociaciones de Puertos Deportivos y Turísticos</p>
-                </div>
-                <div class="footer-section">
-                    <h4>Enlaces Rápidos</h4>
-                    <ul>
+                    <h3>Navegación</h3>
+                    <ul class="footer-links">
                         <li><a href="index.html#congreso">I Congreso</a></li>
                         <li><a href="index.html#federacion">La Federación</a></li>
                         <li><a href="index.html#asociaciones">Asociaciones</a></li>
@@ -544,12 +511,8 @@
                     </ul>
                 </div>
                 <div class="footer-section">
-                    <h4>Síguenos</h4>
-                    <div class="social-links">
-                        <a href="#" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
-                        <a href="#" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
-                        <a href="#" aria-label="Facebook"><i class="fab fa-facebook"></i></a>
-                        <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                    <div class="footer-social">
+                        <a href="https://www.linkedin.com/company/feapdt" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
                     </div>
                 </div>
             </div>
@@ -558,8 +521,5 @@
             </div>
         </div>
     </footer>
-
-    <script src="js/main.js"></script>
 </body>
 </html>
-
