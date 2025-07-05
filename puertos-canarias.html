@@ -48,37 +48,11 @@
             margin: 0 auto;
         }
 
-        .zone-section {
-            margin-bottom: 4rem;
-        }
-
-        .zone-title {
-            font-size: 2rem;
-            font-weight: 600;
-            color: var(--primary-color);
-            text-align: center;
-            margin-bottom: 2rem;
-            position: relative;
-            padding-bottom: 1rem;
-        }
-
-        .zone-title::after {
-            content: '';
-            position: absolute;
-            bottom: 0;
-            left: 50%;
-            transform: translateX(-50%);
-            width: 80px;
-            height: 3px;
-            background: linear-gradient(90deg, var(--gold-color), var(--accent-color));
-            border-radius: 2px;
-        }
-
         .ports-grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
             gap: 2rem;
-            padding: 2rem 0;
+            padding: 4rem 0;
         }
 
         .port-card {
@@ -129,11 +103,12 @@
         .port-link {
             display: flex;
             align-items: center;
-            padding: 0.75rem 1rem;
+            gap: 0.75rem;
+            padding: 1rem 1.5rem;
             border-radius: 12px;
             text-decoration: none;
+            font-weight: 600;
             transition: all 0.3s ease;
-            font-weight: 500;
             border: 2px solid transparent;
         }
 
@@ -143,83 +118,76 @@
         }
 
         .port-link.website:hover {
-            transform: translateX(4px);
-            box-shadow: 0 4px 12px rgba(30, 58, 138, 0.3);
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.2);
         }
 
         .port-link.maps {
-            background: var(--gray-100);
-            color: var(--gray-700);
-            border-color: var(--gray-200);
+            background: linear-gradient(135deg, #dc3545, #c82333);
+            color: white;
         }
 
         .port-link.maps:hover {
-            background: var(--gold-color);
-            color: white;
-            border-color: var(--gold-color);
-            transform: translateX(4px);
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(220,53,69,0.3);
         }
 
         .port-link.disabled {
-            background: var(--gray-200);
-            color: var(--gray-600);
+            background: #6c757d;
+            color: white;
             cursor: not-allowed;
-            opacity: 0.6;
         }
 
-        .port-link.disabled:hover {
-            transform: none;
-            background: var(--gray-200);
+        .zone-section {
+            margin-bottom: 4rem;
         }
 
-        .port-link i {
-            margin-right: 0.75rem;
-            font-size: 1.1rem;
+        .zone-title {
+            font-size: 2.5rem;
+            font-weight: 800;
+            color: var(--dark-color);
+            text-align: center;
+            margin-bottom: 3rem;
+            position: relative;
+        }
+
+        .zone-title::after {
+            content: '';
+            position: absolute;
+            bottom: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 80px;
+            height: 4px;
+            background: linear-gradient(90deg, var(--gold-color), var(--accent-color));
+            border-radius: 2px;
         }
 
         .back-navigation {
+            background: var(--gray-100);
+            padding: 2rem 0;
             text-align: center;
-            padding: 3rem 0;
-            border-top: 1px solid var(--gray-200);
-            margin-top: 2rem;
-        }
-
-        @media (max-width: 768px) {
-            .ports-hero h1 {
-                font-size: 2.5rem;
-            }
-
-            .ports-grid {
-                grid-template-columns: 1fr;
-                gap: 1.5rem;
-            }
-
-            .port-card {
-                padding: 1.5rem;
-            }
         }
     </style>
 </head>
 <body>
     <!-- Navigation -->
     <nav class="navbar">
-        <div class="nav-container"            <div class="nav-logo">
+        <div class="container">
+            <div class="nav-brand">
                 <a href="index.html">
-                    <img src="images/logo-marinas-espana-recortado.png" alt="Marinas de España" class="logo-img">
+                    <img src="images/logo-marinas.png" alt="Marinas de España" class="logo">
                 </a>
-            </div>           <div class="nav-menu" id="nav-menu">
+            </div>
+            <div class="nav-menu">
                 <a href="index.html#inicio" class="nav-link">Inicio</a>
                 <a href="index.html#congreso" class="nav-link">I Congreso</a>
-                <a href="index.html#patrocinadores" class="nav-link">Patrocinadores</a>
+                <a href="index.html#patrocinadores" class="nav-link">Colaboradores</a>
                 <a href="index.html#noticias" class="nav-link">Noticias</a>
                 <a href="index.html#mapa" class="nav-link">Mapa Puertos</a>
                 <a href="index.html#federacion" class="nav-link">La Federación</a>
                 <a href="index.html#asociaciones" class="nav-link">Asociaciones</a>
                 <a href="index.html#contacto" class="nav-link">Contacto</a>
-            </div>           <div class="hamburger">
-                <span class="bar"></span>
-                <span class="bar"></span>
-                <span class="bar"></span>
             </div>
         </div>
     </nav>
@@ -227,145 +195,33 @@
     <!-- Hero Section -->
     <section class="ports-hero">
         <div class="container">
-            <h1>
-                <i class="fas fa-anchor"></i>
-                Puertos Asociados de Canarias
-            </h1>
-            <p class="subtitle">
-                Descubre los puertos deportivos que forman parte de la red de Marinas de España en Canarias
-            </p>
+            <h1><i class="fas fa-anchor"></i> Puertos Asociados de Canarias</h1>
+            <p class="subtitle">Descubre los puertos deportivos que forman parte de la red de Marinas de España en las Islas Canarias</p>
         </div>
     </section>
 
-    <!-- Ports Grid -->
-    <section class="container">
-        <div style="padding: 4rem 0;">
-            <!-- Gran Canaria -->
-            <div class="zone-section">
-                <h2 class="zone-title">Gran Canaria</h2>
-                <div class="ports-grid">
-                    <!-- Puerto Mogán -->
-                    <div class="port-card">
-                        <h3 class="port-name">Puerto Mogán</h3>
-                        <div class="port-links">
-                            <a href="https://www.grancanaria.com/turismo/es/playas/puerto-de-mogan/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Puerto+de+Mogán&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_u" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
-                    </div>
-
-                    <!-- Puerto Pasito Blanco -->
-                    <div class="port-card">
-                        <h3 class="port-name">Puerto Pasito Blanco</h3>
-                        <div class="port-links">
-                            <a href="https://pasitoblanco.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Puerto+Deportivo+Pasito+Blanco&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_v" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
-                    </div>
-
-                    <!-- Puerto Rico -->
-                    <div class="port-card">
-                        <h3 class="port-name">Puerto Rico</h3>
-                        <div class="port-links">
-                            <a href="https://www.puertoricograncanaria.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Puerto+Rico,+Mogán&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_w" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+    <!-- Ports Section -->
+    <section class="ports-section">
+        <div class="container">
 
             <!-- Fuerteventura -->
             <div class="zone-section">
                 <h2 class="zone-title">Fuerteventura</h2>
-                <div class="ports-grid" style="justify-items: center;">
-                    <!-- Puerto Castillo -->
-                    <div class="port-card" style="max-width: 400px;">
-                        <h3 class="port-name">Puerto Castillo</h3>
-                        <div class="port-links">
-                            <a href="https://www.puertocastillo.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Puerto+Castillo+Fuerteventura&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_t" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- La Gomera -->
-            <div class="zone-section">
-                <h2 class="zone-title">La Gomera</h2>
-                <div class="ports-grid" style="justify-items: center;">
-                    <!-- Marina La Gomera -->
-                    <div class="port-card" style="max-width: 400px;">
-                        <h3 class="port-name">Marina La Gomera</h3>
-                        <div class="port-links">
-                            <a href="https://marinalagomera.es/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Marina+La+Gomera&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_x" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- La Palma -->
-            <div class="zone-section">
-                <h2 class="zone-title">La Palma</h2>
                 <div class="ports-grid">
-                    <!-- Puerto Tazacorte -->
-                    <div class="port-card">
-                        <h3 class="port-name">Puerto Tazacorte</h3>
-                        <div class="port-links">
-                            <a href="https://puertotazacorte.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Puerto+de+Tazacorte&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_y" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                <!-- Puerto Castillo -->
+                <div class="port-card">
+                    <h3 class="port-name">Puerto Castillo</h3>
+                    <div class="port-links">
+                        <a href="https://puertocastillo.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://maps.app.goo.gl/kr6GJuosQA5d2Y5d6?g_st=ic" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
-
-                    <!-- Marina La Palma -->
-                    <div class="port-card">
-                        <h3 class="port-name">Marina La Palma</h3>
-                        <div class="port-links">
-                            <a href="https://www.caleromarinas.com/marina-la-palma/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Marina+La+Palma&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_z" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
-                    </div>
+                </div>
                 </div>
             </div>
 
@@ -373,50 +229,153 @@
             <div class="zone-section">
                 <h2 class="zone-title">Lanzarote</h2>
                 <div class="ports-grid">
-                    <!-- Marina Rubicón -->
-                    <div class="port-card">
-                        <h3 class="port-name">Marina Rubicón</h3>
-                        <div class="port-links">
-                            <a href="https://www.marinarubicon.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Marina+Rubicón&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_0" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                <!-- Marina Rubicón -->
+                <div class="port-card">
+                    <h3 class="port-name">Marina Rubicón</h3>
+                    <div class="port-links">
+                        <a href="https://marinarubicon.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://maps.app.goo.gl/rP9kaBEmZdZ6Yzah9?g_st=ic" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
+                </div>
+                <!-- Puerto Calero -->
+                <div class="port-card">
+                    <h3 class="port-name">Puerto Calero</h3>
+                    <div class="port-links">
+                        <a href="https://caleromarinas.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://maps.app.goo.gl/MrfGFiXemRLnmqT68?g_st=ic" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
+                    </div>
+                </div>
+                <!-- Marina Lanzarote (Arrecife) -->
+                <div class="port-card">
+                    <h3 class="port-name">Marina Lanzarote (Arrecife)</h3>
+                    <div class="port-links">
+                        <a href="https://caleromarinas.com/marina-lanzarote" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://maps.app.goo.gl/3PqJeR3KvgFHZaQN6?g_st=ic" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
+                    </div>
+                </div>
+                </div>
+            </div>
 
-                    <!-- Puerto Calero -->
-                    <div class="port-card">
-                        <h3 class="port-name">Puerto Calero</h3>
-                        <div class="port-links">
-                            <a href="https://www.caleromarinas.com/puerto-calero/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Puerto+Calero&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_1" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+            <!-- Gran Canaria -->
+            <div class="zone-section">
+                <h2 class="zone-title">Gran Canaria</h2>
+                <div class="ports-grid">
+                <!-- Puerto Mogán -->
+                <div class="port-card">
+                    <h3 class="port-name">Puerto Mogán</h3>
+                    <div class="port-links">
+                        <a href="https://puertomogan.es" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://maps.app.goo.gl/ZmHNYDJz95S5w5Kd9?g_st=ic" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
+                </div>
+                <!-- Puerto Pasito Blanco -->
+                <div class="port-card">
+                    <h3 class="port-name">Puerto Pasito Blanco</h3>
+                    <div class="port-links">
+                        <a href="https://pasitoblanco.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://maps.app.goo.gl/SNYsS83rfroJK26v9?g_st=ic" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
+                    </div>
+                </div>
+                <!-- Puerto Rico -->
+                <div class="port-card">
+                    <h3 class="port-name">Puerto Rico</h3>
+                    <div class="port-links">
+                        <a href="https://puertoricosa.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://maps.app.goo.gl/DLKiaey7x5WgVqTN7?g_st=ic" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
+                    </div>
+                </div>
+                </div>
+            </div>
 
-                    <!-- Marina Lanzarote (Arrecife) -->
-                    <div class="port-card">
-                        <h3 class="port-name">Marina Lanzarote (Arrecife)</h3>
-                        <div class="port-links">
-                            <a href="https://www.caleromarinas.com/marina-lanzarote/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Marina+Lanzarote&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_2" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+            <!-- La Gomera -->
+            <div class="zone-section">
+                <h2 class="zone-title">La Gomera</h2>
+                <div class="ports-grid">
+                <!-- Marina La Gomera -->
+                <div class="port-card">
+                    <h3 class="port-name">Marina La Gomera</h3>
+                    <div class="port-links">
+                        <a href="https://marinalagomera.es" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://maps.app.goo.gl/y2yJGp6dywkovPzG9?g_st=ic" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
+                </div>
+                </div>
+            </div>
+
+            <!-- La Palma -->
+            <div class="zone-section">
+                <h2 class="zone-title">La Palma</h2>
+                <div class="ports-grid">
+                <!-- Puerto Tazacorte -->
+                <div class="port-card">
+                    <h3 class="port-name">Puerto Tazacorte</h3>
+                    <div class="port-links">
+                        <a href="https://puertotazacorte.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://maps.app.goo.gl/ETh6tXSdusjCFsvFA?g_st=ic" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
+                    </div>
+                </div>
+                <!-- Marina La Palma -->
+                <div class="port-card">
+                    <h3 class="port-name">Marina La Palma</h3>
+                    <div class="port-links">
+                        <a href="https://caleromarinas.com/marina-la-palma" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://maps.app.goo.gl/EnQHxKGtUPfYxpEv8?g_st=ic" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
+                    </div>
+                </div>
                 </div>
             </div>
 
@@ -424,163 +383,135 @@
             <div class="zone-section">
                 <h2 class="zone-title">Tenerife</h2>
                 <div class="ports-grid">
-                    <!-- Marina del Sur (Las Galletas) -->
-                    <div class="port-card">
-                        <h3 class="port-name">Marina del Sur (Las Galletas)</h3>
-                        <div class="port-links">
-                            <a href="https://www.marinadelsur.es/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Marina+del+Sur&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_3" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                <!-- Marina del Sur (Las Galletas) -->
+                <div class="port-card">
+                    <h3 class="port-name">Marina del Sur (Las Galletas)</h3>
+                    <div class="port-links">
+                        <a href="https://marinadelsur.es" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://maps.app.goo.gl/7wmcqE2yJy5tHCd17?g_st=ic" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
-
-                    <!-- Puerto Deportivo San Miguel de Abona (Amarilla) -->
-                    <div class="port-card">
-                        <h3 class="port-name">Puerto Deportivo San Miguel de Abona (Amarilla)</h3>
-                        <div class="port-links">
-                            <a href="https://amarillamarina.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Marina+San+Miguel&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_4" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                </div>
+                <!-- Marina San Miguel -->
+                <div class="port-card">
+                    <h3 class="port-name">Marina San Miguel</h3>
+                    <div class="port-links">
+                        <a href="https://amarillamarina.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://maps.app.goo.gl/LiUG2ERc12h1zV5x5?g_st=ic" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
-
-                    <!-- Puerto Colón -->
-                    <div class="port-card">
-                        <h3 class="port-name">Puerto Colón</h3>
-                        <div class="port-links">
-                            <a href="https://puertocolon.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Puerto+Colón&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_5" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                </div>
+                <!-- Puerto Colón -->
+                <div class="port-card">
+                    <h3 class="port-name">Puerto Colón</h3>
+                    <div class="port-links">
+                        <a href="https://puertocolon.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://maps.app.goo.gl/nKUThEm5cntigX1k6?g_st=ic" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
-
-                    <!-- Puerto Deportivo Los Gigantes -->
-                    <div class="port-card">
-                        <h3 class="port-name">Puerto Deportivo Los Gigantes</h3>
-                        <div class="port-links">
-                            <a href="https://puertolosgigantes.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Puerto+Deportivo+Los+Gigantes&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_6" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                </div>
+                <!-- Los Gigantes -->
+                <div class="port-card">
+                    <h3 class="port-name">Los Gigantes</h3>
+                    <div class="port-links">
+                        <a href="https://puertolosgigantes.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://maps.app.goo.gl/y9qEj72GSfCiuUFw9?g_st=ic" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
-
-                    <!-- Puerto Radazul -->
-                    <div class="port-card">
-                        <h3 class="port-name">Puerto Radazul</h3>
-                        <div class="port-links">
-                            <a href="http://www.puertodeportivoradazul.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Puerto+Deportivo+Radazul&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_7" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                </div>
+                <!-- Puerto Radazul -->
+                <div class="port-card">
+                    <h3 class="port-name">Puerto Radazul</h3>
+                    <div class="port-links">
+                        <a href="https://puertodeportivoradazul.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://maps.app.goo.gl/8oBvJ5Y9ow5MgzgX6" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
-
-                    <!-- Marina Tenerife -->
-                    <div class="port-card">
-                        <h3 class="port-name">Marina Tenerife</h3>
-                        <div class="port-links">
-                            <a href="http://www.nauticaydeportes.com/" target="_blank" class="port-link website">
-                                <i class="fas fa-globe"></i>
-                                Visitar Página Web
-                            </a>
-                            <a href="https://www.google.com/maps/search/?api=1&query=Marina+Tenerife&query_place_id=ChIJgS3_v3aNNg0R_wYpP6U7R_8" target="_blank" class="port-link maps">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ver en Google Maps
-                            </a>
-                        </div>
+                </div>
+                <!-- Marina Tenerife -->
+                <div class="port-card">
+                    <h3 class="port-name">Marina Tenerife</h3>
+                    <div class="port-links">
+                        <a href="https://nauticaydeportes.com" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://maps.app.goo.gl/dzT5jF9od7YucHXE7?g_st=ic" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
-
-                    <!-- Puerto Chico -->
-                    <div class="port-card">
-                        <h3 class="port-name">Puerto Chico</h3>
-                        <div class="port-links">
-                            <span class="port-link disabled">
-                                <i class="fas fa-globe"></i>
-                                Página Web No Disponible
-                            </span>
-                            <span class="port-link disabled">
-                                <i class="fas fa-map-marker-alt"></i>
-                                Ubicación No Disponible
-                            </span>
-                        </div>
+                </div>
+                <!-- Puerto Chico -->
+                <div class="port-card">
+                    <h3 class="port-name">Puerto Chico</h3>
+                    <div class="port-links">
+                        <a href="https://www.facebook.com/MarinaPuertoChicoTenerife/?locale=es_ES" target="_blank" class="port-link website">
+                            <i class="fas fa-globe"></i>
+                            Visitar Página Web
+                        </a>
+                        <a href="https://maps.app.goo.gl/8sas8RMrwQdpwJPV7?g_st=ic" target="_blank" class="port-link maps">
+                            <i class="fas fa-map-marker-alt"></i>
+                            Ver en Google Maps
+                        </a>
                     </div>
+                </div>
                 </div>
             </div>
         </div>
     </section>
 
     <!-- Back Navigation -->
-    <section class="back-navigation">
+    <div class="back-navigation">
         <div class="container">
-            <a href="index.html#asociaciones" class="back-link">
+            <a href="index.html#asociaciones" class="btn btn-secondary">
                 <i class="fas fa-arrow-left"></i>
                 Volver a Asociaciones
             </a>
         </div>
-    </section>
+    </div>
 
     <!-- Footer -->
     <footer class="footer">
-        <div class="footer-container">
+        <div class="container">
             <div class="footer-content">
                 <div class="footer-section">
-                    <h3>Marinas de España</h3>
-                    <p>Federación Española de Asociaciones de Puertos Deportivos y Turísticos</p>
-                    <div class="social-links">
-                        <a href="#" class="social-link"><i class="fab fa-facebook-f"></i></a>
-                        <a href="#" class="social-link"><i class="fab fa-twitter"></i></a>
-                        <a href="#" class="social-link"><i class="fab fa-linkedin-in"></i></a>
-                        <a href="#" class="social-link"><i class="fab fa-instagram"></i></a>
-                    </div>
-                </div>
-                <div class="footer-section">
-                    <h4>Enlaces Rápidos</h4>
+                    <h3>Navegación</h3>
                     <ul class="footer-links">
-                        <li><a href="index.html#inicio">Inicio</a></li>
                         <li><a href="index.html#congreso">I Congreso</a></li>
-                        <li><a href="index.html#noticias">Noticias</a></li>
-                        <li><a href="mapa.html">Mapa Puertos</a></li>
-                    </ul>
-                </div>
-                <div class="footer-section">
-                    <h4>La Federación</h4>
-                    <ul class="footer-links">
-                        <li><a href="nuestra-historia.html">Nuestra Historia</a></li>
-                        <li><a href="mision.html">Misión</a></li>
-                        <li><a href="junta-directiva.html">Junta Directiva</a></li>
+                        <li><a href="index.html#federacion">La Federación</a></li>
                         <li><a href="index.html#asociaciones">Asociaciones</a></li>
+                        <li><a href="index.html#contacto">Contacto</a></li>
                     </ul>
                 </div>
                 <div class="footer-section">
-                    <h4>Contacto</h4>
-                    <div class="contact-info">
-                        <p><i class="fas fa-envelope"></i> info@marinasdeespana.com</p>
-                        <p><i class="fas fa-phone"></i> +34 XXX XXX XXX</p>
-                        <p><i class="fas fa-map-marker-alt"></i> Madrid, España</p>
+                    <div class="footer-social">
+                        <a href="https://www.linkedin.com/company/feapdt" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
                     </div>
                 </div>
             </div>
@@ -589,8 +520,5 @@
             </div>
         </div>
     </footer>
-
-    <script src="js/main.js"></script>
 </body>
 </html>
-
