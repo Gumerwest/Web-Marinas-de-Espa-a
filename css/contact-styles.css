@@ -7,69 +7,62 @@
 }
 
 .contact-grid {
-    display: flex;
-    flex-direction: column;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
     gap: 4rem;
-    align-items: center;
-    text-align: center;
+    align-items: start;
 }
 
 .contact-main {
     width: 100%;
-    max-width: 1000px;
 }
 
 .contact-main h3 {
     color: var(--primary-color);
-    font-size: 2.5rem;
+    font-size: 2.2rem;
     margin-bottom: 1.5rem;
 }
 
 .contact-description {
     color: var(--text-color);
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     line-height: 1.6;
-    margin-bottom: 4rem;
-    max-width: 800px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-bottom: 3rem;
 }
 
 .contact-methods {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 3rem;
-    max-width: 1000px;
-    margin: 0 auto;
+    gap: 1.5rem;
 }
 
 .contact-method {
     background: white;
-    border-radius: 20px;
-    padding: 3.5rem 2.5rem;
-    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+    border-radius: 16px;
+    padding: 2rem 1.5rem;
+    box-shadow: 0 6px 25px rgba(0, 0, 0, 0.12);
     text-align: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    min-height: 350px;
+    min-height: 220px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
 }
 
 .contact-method:hover {
-    transform: translateY(-10px);
-    box-shadow: 0 15px 50px rgba(0, 0, 0, 0.2);
+    transform: translateY(-8px);
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.18);
 }
 
 .contact-icon {
-    width: 120px;
-    height: 120px;
+    width: 70px;
+    height: 70px;
     border-radius: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 0 auto 2.5rem;
-    font-size: 3rem;
+    margin: 0 auto 1.5rem;
+    font-size: 2rem;
 }
 
 .contact-method.whatsapp .contact-icon {
@@ -89,26 +82,26 @@
 
 .contact-details h4 {
     color: var(--primary-color);
-    font-size: 1.6rem;
-    margin-bottom: 1rem;
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
 }
 
 .contact-details p {
     color: var(--text-color);
-    font-size: 1.1rem;
-    margin-bottom: 2.5rem;
-    line-height: 1.5;
+    font-size: 0.9rem;
+    margin-bottom: 1.5rem;
+    line-height: 1.4;
 }
 
 .contact-button {
     display: inline-flex;
     align-items: center;
-    gap: 1rem;
-    padding: 1.2rem 2.5rem;
-    border-radius: 12px;
+    gap: 0.5rem;
+    padding: 0.8rem 1.2rem;
+    border-radius: 8px;
     text-decoration: none;
     font-weight: 600;
-    font-size: 1.1rem;
+    font-size: 0.9rem;
     transition: all 0.3s ease;
     border: none;
     cursor: pointer;
@@ -122,7 +115,7 @@
 
 .whatsapp-btn:hover {
     background: #128C7E;
-    transform: scale(1.08);
+    transform: scale(1.05);
 }
 
 .email-btn {
@@ -132,7 +125,7 @@
 
 .email-btn:hover {
     background: #1a73e8;
-    transform: scale(1.08);
+    transform: scale(1.05);
 }
 
 .linkedin-btn {
@@ -142,35 +135,34 @@
 
 .linkedin-btn:hover {
     background: #005885;
-    transform: scale(1.08);
+    transform: scale(1.05);
 }
 
-/* Información de contacto */
+/* Información de contacto a la izquierda */
 .contact-sidebar {
     width: 100%;
-    max-width: 700px;
 }
 
 .contact-info-card {
     background: white;
-    border-radius: 20px;
-    padding: 3rem;
-    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+    border-radius: 16px;
+    padding: 2.5rem;
+    box-shadow: 0 6px 25px rgba(0, 0, 0, 0.12);
 }
 
 .contact-info-card h4 {
     color: var(--primary-color);
-    font-size: 1.8rem;
-    margin-bottom: 2.5rem;
+    font-size: 1.6rem;
+    margin-bottom: 2rem;
     border-bottom: 3px solid var(--accent-color);
-    padding-bottom: 1rem;
+    padding-bottom: 0.8rem;
 }
 
 .info-item {
     display: flex;
     align-items: flex-start;
-    gap: 1.5rem;
-    margin-bottom: 2.5rem;
+    gap: 1.2rem;
+    margin-bottom: 2rem;
     text-align: left;
 }
 
@@ -180,41 +172,45 @@
 
 .info-item i {
     color: var(--accent-color);
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     margin-top: 0.3rem;
-    min-width: 28px;
+    min-width: 24px;
 }
 
 .info-item div strong {
     color: var(--primary-color);
     display: block;
-    margin-bottom: 0.5rem;
-    font-size: 1.2rem;
+    margin-bottom: 0.4rem;
+    font-size: 1.1rem;
 }
 
 .info-item div span {
     color: var(--text-color);
-    line-height: 1.6;
-    font-size: 1.1rem;
+    line-height: 1.5;
+    font-size: 1rem;
 }
 
 /* Responsive */
 @media (max-width: 1024px) {
-    .contact-methods {
+    .contact-grid {
         grid-template-columns: 1fr;
-        gap: 2.5rem;
-        max-width: 500px;
+        gap: 3rem;
+    }
+    
+    .contact-methods {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 1.2rem;
     }
     
     .contact-method {
-        padding: 3rem 2rem;
-        min-height: 320px;
+        padding: 1.8rem 1.2rem;
+        min-height: 200px;
     }
     
     .contact-icon {
-        width: 100px;
-        height: 100px;
-        font-size: 2.5rem;
+        width: 60px;
+        height: 60px;
+        font-size: 1.8rem;
     }
 }
 
@@ -223,32 +219,41 @@
         padding: 0 1rem;
     }
     
+    .contact-methods {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+        max-width: 300px;
+        margin: 0 auto;
+    }
+    
     .contact-main h3 {
-        font-size: 2rem;
+        font-size: 1.8rem;
+        text-align: center;
     }
     
     .contact-description {
         font-size: 1.1rem;
+        text-align: center;
     }
     
     .contact-method {
-        padding: 2.5rem 1.5rem;
-        min-height: 280px;
+        padding: 2rem 1.5rem;
+        min-height: 180px;
     }
     
     .contact-icon {
-        width: 80px;
-        height: 80px;
-        font-size: 2rem;
+        width: 60px;
+        height: 60px;
+        font-size: 1.8rem;
     }
     
     .contact-details h4 {
-        font-size: 1.4rem;
+        font-size: 1.1rem;
     }
     
     .contact-button {
-        padding: 1rem 2rem;
-        font-size: 1rem;
+        padding: 0.8rem 1rem;
+        font-size: 0.9rem;
     }
     
     .contact-info-card {
@@ -256,7 +261,7 @@
     }
     
     .contact-info-card h4 {
-        font-size: 1.5rem;
+        font-size: 1.4rem;
     }
 }
 
