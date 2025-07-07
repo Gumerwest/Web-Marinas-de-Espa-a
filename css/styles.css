@@ -1140,14 +1140,17 @@ body {
 
 .footer-contact p {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     gap: var(--spacing-sm);
     margin-bottom: var(--spacing-sm);
+    line-height: 1.5;
 }
 
 .footer-contact i {
     color: var(--primary-color);
     width: 16px;
+    margin-top: 2px;
+    flex-shrink: 0;
 }
 
 .footer-bottom {
