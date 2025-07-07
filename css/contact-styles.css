@@ -1,67 +1,75 @@
 /* ===== NUEVA SECCIÓN DE CONTACTO ===== */
 
 .contact-content {
-    max-width: 1000px;
+    max-width: 1200px;
     margin: 0 auto;
+    padding: 0 2rem;
 }
 
 .contact-grid {
     display: flex;
     flex-direction: column;
-    gap: 3rem;
+    gap: 4rem;
     align-items: center;
     text-align: center;
 }
 
 .contact-main {
     width: 100%;
-    max-width: 800px;
+    max-width: 1000px;
 }
 
 .contact-main h3 {
     color: var(--primary-color);
-    font-size: 2.2rem;
-    margin-bottom: 1rem;
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
 }
 
 .contact-description {
     color: var(--text-color);
-    font-size: 1.2rem;
+    font-size: 1.3rem;
     line-height: 1.6;
-    margin-bottom: 3rem;
+    margin-bottom: 4rem;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .contact-methods {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: repeat(3, 1fr);
     gap: 3rem;
-    max-width: 700px;
+    max-width: 1000px;
     margin: 0 auto;
 }
 
 .contact-method {
     background: white;
-    border-radius: 16px;
-    padding: 3rem 2rem;
-    box-shadow: 0 6px 25px rgba(0, 0, 0, 0.12);
+    border-radius: 20px;
+    padding: 3.5rem 2.5rem;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
     text-align: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    min-height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .contact-method:hover {
-    transform: translateY(-8px);
-    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.18);
+    transform: translateY(-10px);
+    box-shadow: 0 15px 50px rgba(0, 0, 0, 0.2);
 }
 
 .contact-icon {
-    width: 100px;
-    height: 100px;
+    width: 120px;
+    height: 120px;
     border-radius: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 0 auto 2rem;
-    font-size: 2.5rem;
+    margin: 0 auto 2.5rem;
+    font-size: 3rem;
 }
 
 .contact-method.whatsapp .contact-icon {
@@ -74,30 +82,37 @@
     color: white;
 }
 
+.contact-method.linkedin .contact-icon {
+    background: linear-gradient(135deg, #0077B5, #005885);
+    color: white;
+}
+
 .contact-details h4 {
     color: var(--primary-color);
-    font-size: 1.5rem;
-    margin-bottom: 0.8rem;
+    font-size: 1.6rem;
+    margin-bottom: 1rem;
 }
 
 .contact-details p {
     color: var(--text-color);
     font-size: 1.1rem;
-    margin-bottom: 2rem;
+    margin-bottom: 2.5rem;
+    line-height: 1.5;
 }
 
 .contact-button {
     display: inline-flex;
     align-items: center;
-    gap: 0.8rem;
-    padding: 1rem 2rem;
-    border-radius: 10px;
+    gap: 1rem;
+    padding: 1.2rem 2.5rem;
+    border-radius: 12px;
     text-decoration: none;
     font-weight: 600;
     font-size: 1.1rem;
     transition: all 0.3s ease;
     border: none;
     cursor: pointer;
+    margin-top: auto;
 }
 
 .whatsapp-btn {
@@ -120,35 +135,42 @@
     transform: scale(1.08);
 }
 
-/* Sidebar de información */
+.linkedin-btn {
+    background: #0077B5;
+    color: white;
+}
+
+.linkedin-btn:hover {
+    background: #005885;
+    transform: scale(1.08);
+}
+
+/* Información de contacto */
 .contact-sidebar {
-    display: flex;
-    flex-direction: column;
-    gap: 2rem;
     width: 100%;
-    max-width: 600px;
+    max-width: 700px;
 }
 
 .contact-info-card {
     background: white;
-    border-radius: 16px;
-    padding: 2.5rem;
-    box-shadow: 0 6px 25px rgba(0, 0, 0, 0.12);
+    border-radius: 20px;
+    padding: 3rem;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
 }
 
 .contact-info-card h4 {
     color: var(--primary-color);
-    font-size: 1.5rem;
-    margin-bottom: 2rem;
+    font-size: 1.8rem;
+    margin-bottom: 2.5rem;
     border-bottom: 3px solid var(--accent-color);
-    padding-bottom: 0.8rem;
+    padding-bottom: 1rem;
 }
 
 .info-item {
     display: flex;
     align-items: flex-start;
-    gap: 1.2rem;
-    margin-bottom: 2rem;
+    gap: 1.5rem;
+    margin-bottom: 2.5rem;
     text-align: left;
 }
 
@@ -158,72 +180,60 @@
 
 .info-item i {
     color: var(--accent-color);
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     margin-top: 0.3rem;
-    min-width: 24px;
+    min-width: 28px;
 }
 
 .info-item div strong {
     color: var(--primary-color);
     display: block;
-    margin-bottom: 0.4rem;
-    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+    font-size: 1.2rem;
 }
 
 .info-item div span {
     color: var(--text-color);
-    line-height: 1.5;
-    font-size: 1rem;
-}
-
-/* Sección social */
-.social-section {
-    background: white;
-    border-radius: 16px;
-    padding: 2.5rem;
-    box-shadow: 0 6px 25px rgba(0, 0, 0, 0.12);
-    text-align: center;
-}
-
-.social-section h4 {
-    color: var(--primary-color);
-    font-size: 1.5rem;
-    margin-bottom: 2rem;
-}
-
-.social-link {
-    display: inline-flex;
-    align-items: center;
-    gap: 1rem;
-    padding: 1.2rem 2.5rem;
-    background: #0077B5;
-    color: white;
-    text-decoration: none;
-    border-radius: 12px;
-    font-weight: 600;
-    font-size: 1.2rem;
-    transition: all 0.3s ease;
-}
-
-.social-link i {
-    font-size: 1.8rem;
-}
-
-.social-link:hover {
-    background: #005885;
-    transform: scale(1.08);
+    line-height: 1.6;
+    font-size: 1.1rem;
 }
 
 /* Responsive */
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
     .contact-methods {
         grid-template-columns: 1fr;
-        gap: 2rem;
-        max-width: 400px;
+        gap: 2.5rem;
+        max-width: 500px;
     }
     
     .contact-method {
-        padding: 2rem 1.5rem;
+        padding: 3rem 2rem;
+        min-height: 320px;
+    }
+    
+    .contact-icon {
+        width: 100px;
+        height: 100px;
+        font-size: 2.5rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .contact-content {
+        padding: 0 1rem;
+    }
+    
+    .contact-main h3 {
+        font-size: 2rem;
+    }
+    
+    .contact-description {
+        font-size: 1.1rem;
+    }
+    
+    .contact-method {
+        padding: 2.5rem 1.5rem;
+        min-height: 280px;
     }
     
     .contact-icon {
@@ -232,20 +242,20 @@
         font-size: 2rem;
     }
     
-    .contact-main h3 {
-        font-size: 1.8rem;
+    .contact-details h4 {
+        font-size: 1.4rem;
     }
     
-    .contact-description {
-        font-size: 1.1rem;
-    }
-    
-    .social-link {
+    .contact-button {
         padding: 1rem 2rem;
-        font-size: 1.1rem;
+        font-size: 1rem;
     }
     
-    .social-link i {
+    .contact-info-card {
+        padding: 2rem;
+    }
+    
+    .contact-info-card h4 {
         font-size: 1.5rem;
     }
 }
