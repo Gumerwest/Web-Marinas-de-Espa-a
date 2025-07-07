@@ -21,6 +21,7 @@
     
     <!-- Styles -->
     <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/contact-styles.css">
     
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="images/favicon.ico">
@@ -488,65 +489,98 @@
                 <span class="golden">Contacto Directo</span>
             </h2>
             <div class="contact-content">
-                <div class="contact-info">
-                    <h3>Información de Contacto</h3>
-                    <div class="contact-item">
-                        <i class="fas fa-envelope"></i>
-                        <div>
-                            <strong>Email:</strong>
-                            <a href="mailto:info@feapdt.net">info@feapdt.net</a>
-                        </div>
-                    </div>
-                    <div class="contact-item">
-                        <i class="fas fa-phone"></i>
-                        <div>
-                            <strong>Teléfono:</strong>
-                            <a href="tel:+34912345678">+34 91 234 56 78</a>
-                        </div>
-                    </div>
-                    <div class="contact-item">
-                        <i class="fas fa-map-marker-alt"></i>
-                        <div>
-                            <strong>Dirección:</strong>
-                            <span>Madrid, España</span>
+                <div class="contact-grid">
+                    <!-- Información Principal -->
+                    <div class="contact-main">
+                        <h3>Ponte en contacto con nosotros</h3>
+                        <p class="contact-description">
+                            Estamos aquí para ayudarte. Contacta con la Federación Española de Asociaciones 
+                            de Puertos Deportivos y Turísticos para cualquier consulta o información.
+                        </p>
+                        
+                        <div class="contact-methods">
+                            <!-- WhatsApp -->
+                            <div class="contact-method whatsapp">
+                                <div class="contact-icon">
+                                    <i class="fab fa-whatsapp"></i>
+                                </div>
+                                <div class="contact-details">
+                                    <h4>WhatsApp</h4>
+                                    <p>Contacto directo e inmediato</p>
+                                    <a href="https://wa.me/34679380485" target="_blank" class="contact-button whatsapp-btn">
+                                        <i class="fab fa-whatsapp"></i>
+                                        Escribir por WhatsApp
+                                    </a>
+                                </div>
+                            </div>
+                            
+                            <!-- Email -->
+                            <div class="contact-method email">
+                                <div class="contact-icon">
+                                    <i class="fas fa-envelope"></i>
+                                </div>
+                                <div class="contact-details">
+                                    <h4>Email</h4>
+                                    <p>Consultas formales y documentación</p>
+                                    <a href="mailto:info@marinasdeespana.com?subject=Consulta desde web&body=Hola, me gustaría obtener información sobre..." class="contact-button email-btn">
+                                        <i class="fas fa-envelope"></i>
+                                        Enviar Email
+                                    </a>
+                                </div>
+                            </div>
                         </div>
                     </div>
                     
-                    <div class="social-links">
-                        <a href="https://www.linkedin.com/company/feapdt" aria-label="LinkedIn" target="_blank">
-                            <i class="fab fa-linkedin"></i>
-                        </a>
-                        <a href="https://twitter.com/feapdt" aria-label="Twitter" target="_blank">
-                            <i class="fab fa-twitter"></i>
-                        </a>
-                        <a href="https://www.facebook.com/feapdt" aria-label="Facebook" target="_blank">
-                            <i class="fab fa-facebook"></i>
-                        </a>
-                        <a href="https://www.instagram.com/feapdt" aria-label="Instagram" target="_blank">
-                            <i class="fab fa-instagram"></i>
-                        </a>
+                    <!-- Información Adicional -->
+                    <div class="contact-sidebar">
+                        <div class="contact-info-card">
+                            <h4>Información de Contacto</h4>
+                            
+                            <div class="info-item">
+                                <i class="fas fa-envelope"></i>
+                                <div>
+                                    <strong>Email:</strong>
+                                    <span>info@marinasdeespana.com</span>
+                                </div>
+                            </div>
+                            
+                            <div class="info-item">
+                                <i class="fab fa-whatsapp"></i>
+                                <div>
+                                    <strong>WhatsApp:</strong>
+                                    <span>679 380 485</span>
+                                </div>
+                            </div>
+                            
+                            <div class="info-item">
+                                <i class="fas fa-map-marker-alt"></i>
+                                <div>
+                                    <strong>Dirección:</strong>
+                                    <span>Madrid, España</span>
+                                </div>
+                            </div>
+                            
+                            <div class="info-item">
+                                <i class="fas fa-clock"></i>
+                                <div>
+                                    <strong>Horario:</strong>
+                                    <span>Lunes a Viernes<br>9:00 - 18:00</span>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- Solo LinkedIn -->
+                        <div class="social-section">
+                            <h4>Síguenos</h4>
+                            <div class="social-links">
+                                <a href="https://es.linkedin.com/company/marinasdeespana" aria-label="LinkedIn" target="_blank" class="social-link linkedin">
+                                    <i class="fab fa-linkedin"></i>
+                                    <span>LinkedIn</span>
+                                </a>
+                            </div>
+                        </div>
                     </div>
                 </div>
-                
-                <form class="contact-form" id="contact-form">
-                    <h3>Envíanos un mensaje</h3>
-                    <div class="form-group">
-                        <input type="text" id="name" name="name" placeholder="Nombre completo" required>
-                    </div>
-                    <div class="form-group">
-                        <input type="email" id="email" name="email" placeholder="Email" required>
-                    </div>
-                    <div class="form-group">
-                        <input type="text" id="subject" name="subject" placeholder="Asunto" required>
-                    </div>
-                    <div class="form-group">
-                        <textarea id="message" name="message" placeholder="Mensaje" rows="5" required></textarea>
-                    </div>
-                    <button type="submit" class="btn btn-primary">
-                        <i class="fas fa-paper-plane"></i>
-                        Enviar mensaje
-                    </button>
-                </form>
             </div>
         </div>
     </section>
