@@ -1146,6 +1146,10 @@ body {
     line-height: 1.5;
 }
 
+.footer-contact p span {
+    display: block;
+}
+
 .footer-contact i {
     color: var(--primary-color);
     width: 16px;
